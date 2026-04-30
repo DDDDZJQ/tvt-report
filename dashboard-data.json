@@ -1,14 +1,1292 @@
 {
   "site_title": "TVT 上课情况周报",
-  "updated_at": "2026-04-28 13:44:12",
-  "latest_section": "2026-04-20",
+  "updated_at": "2026-04-30 13:11:26",
+  "latest_section": "2026-04-27",
   "reports": [
+    {
+      "title": "TVT 上课情况周报",
+      "section_title": "2026-04-27",
+      "week_start": "2026-04-27",
+      "week_end": "2026-05-03",
+      "generated_at": "2026-04-30 13:11:26",
+      "excel_path": "C:\\Users\\jqdzhang\\WorkBuddy\\TVT\\TVT上课记录.xlsx",
+      "metrics": {
+        "groups_total": 49,
+        "completed": 0,
+        "not_completed": 49,
+        "completion_rate": 0,
+        "abnormal_total": 9,
+        "long_term_low_total": 9,
+        "unmatched_total": 5,
+        "student_teacher_groups": 49
+      },
+      "group_cards": [
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "time": "2026-04-27 至 2026-05-03",
+          "completed": 0,
+          "total": 18,
+          "not_completed": 18,
+          "rate": 0,
+          "sections": [
+            {
+              "type": "学科辅导",
+              "completed": 0,
+              "total": 15,
+              "not_completed": [
+                "张浩泽-肖奕涵（本期无记录）",
+                "贾雨昕-石子慧（本期无记录）",
+                "贾雨昕-邹倚歌（本期无记录）",
+                "李思莹-季昕昱（本期无记录）",
+                "李思莹-王逸晴（本期无记录）",
+                "冯诗琪-金芮西（本期无记录）",
+                "袁定瑞-董梓岩（本期无记录）",
+                "袁定瑞-陈景颐（本期无记录）",
+                "方文惠-陈计言（本期无记录）",
+                "方文惠-张炜喆（本期无记录）",
+                "杜源朝-陈依依（本期无记录）",
+                "杨一凡-吴化育（本期无记录）",
+                "吴珏雨-王艺涵（本期无记录）",
+                "邢璐瑜-浣婧怡（本期无记录）",
+                "邢璐瑜-沈志远（本期无记录）"
+              ],
+              "rate": 0
+            },
+            {
+              "type": "陪伴大使",
+              "completed": 0,
+              "total": 3,
+              "not_completed": [
+                "冯诗琪-冯文哲（本期无记录）",
+                "方文惠-李梦南（本期无记录）",
+                "杨一凡-宋慧（本期无记录）"
+              ],
+              "rate": 0
+            }
+          ]
+        },
+        {
+          "label": "王泡泡组（负责pm：王雪琪）",
+          "time": "2026-04-27 至 2026-05-03",
+          "completed": 0,
+          "total": 13,
+          "not_completed": 13,
+          "rate": 0,
+          "sections": [
+            {
+              "type": "学科辅导",
+              "completed": 0,
+              "total": 9,
+              "not_completed": [
+                "吴思妍-马千捷（本期无记录）",
+                "林广源-陈劭杰（本期无记录）",
+                "林文圳-王天勤（本期无记录）",
+                "郑梓淳-赵翊涵（本期无记录）",
+                "林楚欣-张淑怡（本期无记录）",
+                "林文婷-范家怡（本期无记录）",
+                "林钡妮-蔡水缘（本期无记录）",
+                "谢嘉银-冯宇昕（本期无记录）",
+                "李浩洋-陈祉宇（本期无记录）"
+              ],
+              "rate": 0
+            },
+            {
+              "type": "陪伴大使",
+              "completed": 0,
+              "total": 4,
+              "not_completed": [
+                "林广源-周伟卿（本期无记录）",
+                "林文圳-唐鲜红（本期无记录）",
+                "谢嘉银-黄丽华（本期无记录）",
+                "李浩洋-刘沙（本期无记录）"
+              ],
+              "rate": 0
+            }
+          ]
+        },
+        {
+          "label": "张村小学Plus组 负责pm：熊伟",
+          "time": "2026-04-27 至 2026-05-03",
+          "completed": 0,
+          "total": 18,
+          "not_completed": 18,
+          "rate": 0,
+          "sections": [
+            {
+              "type": "学科辅导",
+              "completed": 0,
+              "total": 16,
+              "not_completed": [
+                "袁婧瑜-张钰晗（本期无记录）",
+                "崔钰涵-张瀚霖（本期无记录）",
+                "鲁少辰-黄济腾（本期无记录）",
+                "张一鸣-陈若汐（本期无记录）",
+                "崔子成-陈履一（本期无记录）",
+                "杨子墨-张斯贻、张芮彤（本期无记录）",
+                "吴非同-谢子容（本期无记录）",
+                "吴季迅-宋元辰（本期无记录）",
+                "张鹤腾-李云飞（本期无记录）",
+                "霍映麟-罗允睎（本期无记录）",
+                "许雨桐-雷阳（本期无记录）",
+                "肖睿羲-罗常予（本期无记录）",
+                "彭梓萌-宋慧滢（本期无记录）",
+                "彭松兆-刘浩臻（本期无记录）",
+                "彭博艺-胡书鸣（本期无记录）",
+                "彭博艺-李奕萱（本期无记录）"
+              ],
+              "rate": 0
+            },
+            {
+              "type": "陪伴大使",
+              "completed": 0,
+              "total": 2,
+              "not_completed": [
+                "许雨桐-张洁（本期无记录）",
+                "肖睿羲-李怡（本期无记录）"
+              ],
+              "rate": 0
+            }
+          ]
+        }
+      ],
+      "all_groups": [
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "student": "冯诗琪",
+          "teacher": "金芮西",
+          "name": "冯诗琪-金芮西",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-04-25",
+          "recent_28_completed": 3,
+          "recent_35_completed": 4,
+          "consecutive_missed_weeks": 1,
+          "long_term_level": "follow",
+          "long_term_reason": "最近一次已上课为 2026-04-25，上周未见完成课",
+          "abnormal_reason": "",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "student": "吴珏雨",
+          "teacher": "王艺涵",
+          "name": "吴珏雨-王艺涵",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-04-17",
+          "recent_28_completed": 1,
+          "recent_35_completed": 2,
+          "consecutive_missed_weeks": 2,
+          "long_term_level": "low",
+          "long_term_reason": "最近一次已上课为 2026-04-17，截至 2026-05-03 已间隔 16 天",
+          "abnormal_reason": "最近一次已上课为 2026-04-17，截至 2026-05-03 已间隔 16 天",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "student": "张浩泽",
+          "teacher": "肖奕涵",
+          "name": "张浩泽-肖奕涵",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-04-22",
+          "recent_28_completed": 3,
+          "recent_35_completed": 3,
+          "consecutive_missed_weeks": 1,
+          "long_term_level": "follow",
+          "long_term_reason": "最近一次已上课为 2026-04-22，上周未见完成课",
+          "abnormal_reason": "",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "student": "方文惠",
+          "teacher": "张炜喆",
+          "name": "方文惠-张炜喆",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-04-11",
+          "recent_28_completed": 1,
+          "recent_35_completed": 3,
+          "consecutive_missed_weeks": 3,
+          "long_term_level": "low",
+          "long_term_reason": "最近一次已上课为 2026-04-11，截至 2026-05-03 已间隔 22 天",
+          "abnormal_reason": "最近一次已上课为 2026-04-11，截至 2026-05-03 已间隔 22 天",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "student": "方文惠",
+          "teacher": "陈计言",
+          "name": "方文惠-陈计言",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-04-26",
+          "recent_28_completed": 4,
+          "recent_35_completed": 4,
+          "consecutive_missed_weeks": 1,
+          "long_term_level": "follow",
+          "long_term_reason": "最近一次已上课为 2026-04-26，上周未见完成课",
+          "abnormal_reason": "",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "student": "李思莹",
+          "teacher": "季昕昱",
+          "name": "李思莹-季昕昱",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-04-26",
+          "recent_28_completed": 2,
+          "recent_35_completed": 3,
+          "consecutive_missed_weeks": 1,
+          "long_term_level": "follow",
+          "long_term_reason": "最近一次已上课为 2026-04-26，上周未见完成课",
+          "abnormal_reason": "",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "student": "李思莹",
+          "teacher": "王逸晴",
+          "name": "李思莹-王逸晴",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-04-19",
+          "recent_28_completed": 1,
+          "recent_35_completed": 1,
+          "consecutive_missed_weeks": 2,
+          "long_term_level": "low",
+          "long_term_reason": "最近一次已上课为 2026-04-19，截至 2026-05-03 已间隔 14 天",
+          "abnormal_reason": "最近一次已上课为 2026-04-19，截至 2026-05-03 已间隔 14 天",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "student": "杜源朝",
+          "teacher": "陈依依",
+          "name": "杜源朝-陈依依",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-04-25",
+          "recent_28_completed": 3,
+          "recent_35_completed": 5,
+          "consecutive_missed_weeks": 1,
+          "long_term_level": "follow",
+          "long_term_reason": "最近一次已上课为 2026-04-25，上周未见完成课",
+          "abnormal_reason": "",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "student": "杨一凡",
+          "teacher": "吴化育",
+          "name": "杨一凡-吴化育",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-04-06",
+          "recent_28_completed": 1,
+          "recent_35_completed": 1,
+          "consecutive_missed_weeks": 3,
+          "long_term_level": "low",
+          "long_term_reason": "最近一次已上课为 2026-04-06，截至 2026-05-03 已间隔 27 天",
+          "abnormal_reason": "最近一次已上课为 2026-04-06，截至 2026-05-03 已间隔 27 天",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "student": "袁定瑞",
+          "teacher": "董梓岩",
+          "name": "袁定瑞-董梓岩",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-04-18",
+          "recent_28_completed": 2,
+          "recent_35_completed": 2,
+          "consecutive_missed_weeks": 2,
+          "long_term_level": "low",
+          "long_term_reason": "最近一次已上课为 2026-04-18，截至 2026-05-03 已间隔 15 天",
+          "abnormal_reason": "最近一次已上课为 2026-04-18，截至 2026-05-03 已间隔 15 天",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "student": "袁定瑞",
+          "teacher": "陈景颐",
+          "name": "袁定瑞-陈景颐",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-04-25",
+          "recent_28_completed": 2,
+          "recent_35_completed": 2,
+          "consecutive_missed_weeks": 1,
+          "long_term_level": "follow",
+          "long_term_reason": "最近一次已上课为 2026-04-25，上周未见完成课",
+          "abnormal_reason": "",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "student": "贾雨昕",
+          "teacher": "石子慧",
+          "name": "贾雨昕-石子慧",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-04-25",
+          "recent_28_completed": 2,
+          "recent_35_completed": 3,
+          "consecutive_missed_weeks": 1,
+          "long_term_level": "follow",
+          "long_term_reason": "最近一次已上课为 2026-04-25，上周未见完成课",
+          "abnormal_reason": "",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "student": "贾雨昕",
+          "teacher": "邹倚歌",
+          "name": "贾雨昕-邹倚歌",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-04-11",
+          "recent_28_completed": 1,
+          "recent_35_completed": 1,
+          "consecutive_missed_weeks": 3,
+          "long_term_level": "low",
+          "long_term_reason": "最近一次已上课为 2026-04-11，截至 2026-05-03 已间隔 22 天",
+          "abnormal_reason": "最近一次已上课为 2026-04-11，截至 2026-05-03 已间隔 22 天",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "student": "邢璐瑜",
+          "teacher": "沈志远",
+          "name": "邢璐瑜-沈志远",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "",
+          "recent_28_completed": 0,
+          "recent_35_completed": 0,
+          "consecutive_missed_weeks": 7,
+          "long_term_level": "follow",
+          "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
+          "abnormal_reason": "",
+          "match_modes": [],
+          "weekly_done": false
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "student": "邢璐瑜",
+          "teacher": "浣婧怡",
+          "name": "邢璐瑜-浣婧怡",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-04-25",
+          "recent_28_completed": 4,
+          "recent_35_completed": 4,
+          "consecutive_missed_weeks": 1,
+          "long_term_level": "follow",
+          "long_term_reason": "最近一次已上课为 2026-04-25，上周未见完成课",
+          "abnormal_reason": "",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "陪伴大使",
+          "student": "冯诗琪",
+          "teacher": "冯文哲",
+          "name": "冯诗琪-冯文哲",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-04-18",
+          "recent_28_completed": 1,
+          "recent_35_completed": 1,
+          "consecutive_missed_weeks": 2,
+          "long_term_level": "follow",
+          "long_term_reason": "最近一次已上课为 2026-04-18，已超过 2 周未见完成课",
+          "abnormal_reason": "",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "陪伴大使",
+          "student": "方文惠",
+          "teacher": "李梦南",
+          "name": "方文惠-李梦南",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-04-25",
+          "recent_28_completed": 1,
+          "recent_35_completed": 1,
+          "consecutive_missed_weeks": 1,
+          "long_term_level": "ok",
+          "long_term_reason": "",
+          "abnormal_reason": "",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "陪伴大使",
+          "student": "杨一凡",
+          "teacher": "宋慧",
+          "name": "杨一凡-宋慧",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-04-24",
+          "recent_28_completed": 3,
+          "recent_35_completed": 4,
+          "consecutive_missed_weeks": 1,
+          "long_term_level": "ok",
+          "long_term_reason": "",
+          "abnormal_reason": "",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "张村小学Plus组 负责pm：熊伟",
+          "type": "学科辅导",
+          "student": "吴季迅",
+          "teacher": "宋元辰",
+          "name": "吴季迅-宋元辰",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-04-24",
+          "recent_28_completed": 1,
+          "recent_35_completed": 1,
+          "consecutive_missed_weeks": 1,
+          "long_term_level": "follow",
+          "long_term_reason": "最近一次已上课为 2026-04-24，上周未见完成课",
+          "abnormal_reason": "",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "张村小学Plus组 负责pm：熊伟",
+          "type": "学科辅导",
+          "student": "吴非同",
+          "teacher": "谢子容",
+          "name": "吴非同-谢子容",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-04-25",
+          "recent_28_completed": 3,
+          "recent_35_completed": 4,
+          "consecutive_missed_weeks": 1,
+          "long_term_level": "follow",
+          "long_term_reason": "最近一次已上课为 2026-04-25，上周未见完成课",
+          "abnormal_reason": "",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "张村小学Plus组 负责pm：熊伟",
+          "type": "学科辅导",
+          "student": "崔子成",
+          "teacher": "陈履一",
+          "name": "崔子成-陈履一",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-04-26",
+          "recent_28_completed": 2,
+          "recent_35_completed": 3,
+          "consecutive_missed_weeks": 1,
+          "long_term_level": "follow",
+          "long_term_reason": "最近一次已上课为 2026-04-26，上周未见完成课",
+          "abnormal_reason": "",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "张村小学Plus组 负责pm：熊伟",
+          "type": "学科辅导",
+          "student": "崔钰涵",
+          "teacher": "张瀚霖",
+          "name": "崔钰涵-张瀚霖",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "",
+          "recent_28_completed": 0,
+          "recent_35_completed": 0,
+          "consecutive_missed_weeks": 7,
+          "long_term_level": "follow",
+          "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
+          "abnormal_reason": "",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "张村小学Plus组 负责pm：熊伟",
+          "type": "学科辅导",
+          "student": "张一鸣",
+          "teacher": "陈若汐",
+          "name": "张一鸣-陈若汐",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "",
+          "recent_28_completed": 0,
+          "recent_35_completed": 0,
+          "consecutive_missed_weeks": 7,
+          "long_term_level": "follow",
+          "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
+          "abnormal_reason": "",
+          "match_modes": [],
+          "weekly_done": false
+        },
+        {
+          "label": "张村小学Plus组 负责pm：熊伟",
+          "type": "学科辅导",
+          "student": "张鹤腾",
+          "teacher": "李云飞",
+          "name": "张鹤腾-李云飞",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "",
+          "recent_28_completed": 0,
+          "recent_35_completed": 0,
+          "consecutive_missed_weeks": 7,
+          "long_term_level": "follow",
+          "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
+          "abnormal_reason": "",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "张村小学Plus组 负责pm：熊伟",
+          "type": "学科辅导",
+          "student": "彭博艺",
+          "teacher": "李奕萱",
+          "name": "彭博艺-李奕萱",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-04-24",
+          "recent_28_completed": 2,
+          "recent_35_completed": 2,
+          "consecutive_missed_weeks": 1,
+          "long_term_level": "follow",
+          "long_term_reason": "最近一次已上课为 2026-04-24，上周未见完成课",
+          "abnormal_reason": "",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "张村小学Plus组 负责pm：熊伟",
+          "type": "学科辅导",
+          "student": "彭博艺",
+          "teacher": "胡书鸣",
+          "name": "彭博艺-胡书鸣",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "",
+          "recent_28_completed": 0,
+          "recent_35_completed": 0,
+          "consecutive_missed_weeks": 7,
+          "long_term_level": "follow",
+          "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
+          "abnormal_reason": "",
+          "match_modes": [],
+          "weekly_done": false
+        },
+        {
+          "label": "张村小学Plus组 负责pm：熊伟",
+          "type": "学科辅导",
+          "student": "彭松兆",
+          "teacher": "刘浩臻",
+          "name": "彭松兆-刘浩臻",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-04-26",
+          "recent_28_completed": 3,
+          "recent_35_completed": 4,
+          "consecutive_missed_weeks": 1,
+          "long_term_level": "follow",
+          "long_term_reason": "最近一次已上课为 2026-04-26，上周未见完成课",
+          "abnormal_reason": "",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "张村小学Plus组 负责pm：熊伟",
+          "type": "学科辅导",
+          "student": "彭梓萌",
+          "teacher": "宋慧滢",
+          "name": "彭梓萌-宋慧滢",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-04-25",
+          "recent_28_completed": 2,
+          "recent_35_completed": 2,
+          "consecutive_missed_weeks": 1,
+          "long_term_level": "follow",
+          "long_term_reason": "最近一次已上课为 2026-04-25，上周未见完成课",
+          "abnormal_reason": "",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "张村小学Plus组 负责pm：熊伟",
+          "type": "学科辅导",
+          "student": "杨子墨",
+          "teacher": "张斯贻、张芮彤",
+          "name": "杨子墨-张斯贻、张芮彤",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "",
+          "recent_28_completed": 0,
+          "recent_35_completed": 0,
+          "consecutive_missed_weeks": 7,
+          "long_term_level": "follow",
+          "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
+          "abnormal_reason": "",
+          "match_modes": [],
+          "weekly_done": false
+        },
+        {
+          "label": "张村小学Plus组 负责pm：熊伟",
+          "type": "学科辅导",
+          "student": "肖睿羲",
+          "teacher": "罗常予",
+          "name": "肖睿羲-罗常予",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-04-25",
+          "recent_28_completed": 3,
+          "recent_35_completed": 3,
+          "consecutive_missed_weeks": 1,
+          "long_term_level": "follow",
+          "long_term_reason": "最近一次已上课为 2026-04-25，上周未见完成课",
+          "abnormal_reason": "",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "张村小学Plus组 负责pm：熊伟",
+          "type": "学科辅导",
+          "student": "袁婧瑜",
+          "teacher": "张钰晗",
+          "name": "袁婧瑜-张钰晗",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-04-25",
+          "recent_28_completed": 3,
+          "recent_35_completed": 3,
+          "consecutive_missed_weeks": 1,
+          "long_term_level": "follow",
+          "long_term_reason": "最近一次已上课为 2026-04-25，上周未见完成课",
+          "abnormal_reason": "",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "张村小学Plus组 负责pm：熊伟",
+          "type": "学科辅导",
+          "student": "许雨桐",
+          "teacher": "雷阳",
+          "name": "许雨桐-雷阳",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "",
+          "recent_28_completed": 0,
+          "recent_35_completed": 0,
+          "consecutive_missed_weeks": 7,
+          "long_term_level": "follow",
+          "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
+          "abnormal_reason": "",
+          "match_modes": [],
+          "weekly_done": false
+        },
+        {
+          "label": "张村小学Plus组 负责pm：熊伟",
+          "type": "学科辅导",
+          "student": "霍映麟",
+          "teacher": "罗允睎",
+          "name": "霍映麟-罗允睎",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "",
+          "recent_28_completed": 0,
+          "recent_35_completed": 0,
+          "consecutive_missed_weeks": 7,
+          "long_term_level": "follow",
+          "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
+          "abnormal_reason": "",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "张村小学Plus组 负责pm：熊伟",
+          "type": "学科辅导",
+          "student": "鲁少辰",
+          "teacher": "黄济腾",
+          "name": "鲁少辰-黄济腾",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "",
+          "recent_28_completed": 0,
+          "recent_35_completed": 0,
+          "consecutive_missed_weeks": 7,
+          "long_term_level": "follow",
+          "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
+          "abnormal_reason": "",
+          "match_modes": [],
+          "weekly_done": false
+        },
+        {
+          "label": "张村小学Plus组 负责pm：熊伟",
+          "type": "陪伴大使",
+          "student": "肖睿羲",
+          "teacher": "李怡",
+          "name": "肖睿羲-李怡",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-04-18",
+          "recent_28_completed": 2,
+          "recent_35_completed": 2,
+          "consecutive_missed_weeks": 2,
+          "long_term_level": "follow",
+          "long_term_reason": "最近一次已上课为 2026-04-18，已超过 2 周未见完成课",
+          "abnormal_reason": "",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "张村小学Plus组 负责pm：熊伟",
+          "type": "陪伴大使",
+          "student": "许雨桐",
+          "teacher": "张洁",
+          "name": "许雨桐-张洁",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-03-22",
+          "recent_28_completed": 0,
+          "recent_35_completed": 0,
+          "consecutive_missed_weeks": 6,
+          "long_term_level": "low",
+          "long_term_reason": "最近一次已上课为 2026-03-22，间隔已超过 4 周",
+          "abnormal_reason": "最近一次已上课为 2026-03-22，间隔已超过 4 周",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "王泡泡组（负责pm：王雪琪）",
+          "type": "学科辅导",
+          "student": "吴思妍",
+          "teacher": "马千捷",
+          "name": "吴思妍-马千捷",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-04-25",
+          "recent_28_completed": 2,
+          "recent_35_completed": 2,
+          "consecutive_missed_weeks": 1,
+          "long_term_level": "follow",
+          "long_term_reason": "最近一次已上课为 2026-04-25，上周未见完成课",
+          "abnormal_reason": "",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "王泡泡组（负责pm：王雪琪）",
+          "type": "学科辅导",
+          "student": "李浩洋",
+          "teacher": "陈祉宇",
+          "name": "李浩洋-陈祉宇",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-04-13",
+          "recent_28_completed": 1,
+          "recent_35_completed": 1,
+          "consecutive_missed_weeks": 2,
+          "long_term_level": "low",
+          "long_term_reason": "最近一次已上课为 2026-04-13，截至 2026-05-03 已间隔 20 天",
+          "abnormal_reason": "最近一次已上课为 2026-04-13，截至 2026-05-03 已间隔 20 天",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "王泡泡组（负责pm：王雪琪）",
+          "type": "学科辅导",
+          "student": "林广源",
+          "teacher": "陈劭杰",
+          "name": "林广源-陈劭杰",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-04-25",
+          "recent_28_completed": 2,
+          "recent_35_completed": 3,
+          "consecutive_missed_weeks": 1,
+          "long_term_level": "follow",
+          "long_term_reason": "最近一次已上课为 2026-04-25，上周未见完成课",
+          "abnormal_reason": "",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "王泡泡组（负责pm：王雪琪）",
+          "type": "学科辅导",
+          "student": "林文圳",
+          "teacher": "王天勤",
+          "name": "林文圳-王天勤",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-04-26",
+          "recent_28_completed": 4,
+          "recent_35_completed": 5,
+          "consecutive_missed_weeks": 1,
+          "long_term_level": "follow",
+          "long_term_reason": "最近一次已上课为 2026-04-26，上周未见完成课",
+          "abnormal_reason": "",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "王泡泡组（负责pm：王雪琪）",
+          "type": "学科辅导",
+          "student": "林文婷",
+          "teacher": "范家怡",
+          "name": "林文婷-范家怡",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-04-25",
+          "recent_28_completed": 2,
+          "recent_35_completed": 2,
+          "consecutive_missed_weeks": 1,
+          "long_term_level": "follow",
+          "long_term_reason": "最近一次已上课为 2026-04-25，上周未见完成课",
+          "abnormal_reason": "",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "王泡泡组（负责pm：王雪琪）",
+          "type": "学科辅导",
+          "student": "林楚欣",
+          "teacher": "张淑怡",
+          "name": "林楚欣-张淑怡",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-03-28",
+          "recent_28_completed": 0,
+          "recent_35_completed": 0,
+          "consecutive_missed_weeks": 5,
+          "long_term_level": "low",
+          "long_term_reason": "最近一次已上课为 2026-03-28，截至 2026-05-03 已间隔 36 天",
+          "abnormal_reason": "最近一次已上课为 2026-03-28，截至 2026-05-03 已间隔 36 天",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "王泡泡组（负责pm：王雪琪）",
+          "type": "学科辅导",
+          "student": "林钡妮",
+          "teacher": "蔡水缘",
+          "name": "林钡妮-蔡水缘",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "",
+          "recent_28_completed": 0,
+          "recent_35_completed": 0,
+          "consecutive_missed_weeks": 7,
+          "long_term_level": "follow",
+          "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
+          "abnormal_reason": "",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "王泡泡组（负责pm：王雪琪）",
+          "type": "学科辅导",
+          "student": "谢嘉银",
+          "teacher": "冯宇昕",
+          "name": "谢嘉银-冯宇昕",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "",
+          "recent_28_completed": 0,
+          "recent_35_completed": 0,
+          "consecutive_missed_weeks": 7,
+          "long_term_level": "follow",
+          "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
+          "abnormal_reason": "",
+          "match_modes": [],
+          "weekly_done": false
+        },
+        {
+          "label": "王泡泡组（负责pm：王雪琪）",
+          "type": "学科辅导",
+          "student": "郑梓淳",
+          "teacher": "赵翊涵",
+          "name": "郑梓淳-赵翊涵",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-04-24",
+          "recent_28_completed": 1,
+          "recent_35_completed": 1,
+          "consecutive_missed_weeks": 1,
+          "long_term_level": "follow",
+          "long_term_reason": "最近一次已上课为 2026-04-24，上周未见完成课",
+          "abnormal_reason": "",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false
+        },
+        {
+          "label": "王泡泡组（负责pm：王雪琪）",
+          "type": "陪伴大使",
+          "student": "李浩洋",
+          "teacher": "刘沙",
+          "name": "李浩洋-刘沙",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "",
+          "recent_28_completed": 0,
+          "recent_35_completed": 0,
+          "consecutive_missed_weeks": 7,
+          "long_term_level": "follow",
+          "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
+          "abnormal_reason": "",
+          "match_modes": [],
+          "weekly_done": false
+        },
+        {
+          "label": "王泡泡组（负责pm：王雪琪）",
+          "type": "陪伴大使",
+          "student": "林广源",
+          "teacher": "周伟卿",
+          "name": "林广源-周伟卿",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "",
+          "recent_28_completed": 0,
+          "recent_35_completed": 0,
+          "consecutive_missed_weeks": 7,
+          "long_term_level": "follow",
+          "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
+          "abnormal_reason": "",
+          "match_modes": [],
+          "weekly_done": false
+        },
+        {
+          "label": "王泡泡组（负责pm：王雪琪）",
+          "type": "陪伴大使",
+          "student": "林文圳",
+          "teacher": "唐鲜红",
+          "name": "林文圳-唐鲜红",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "",
+          "recent_28_completed": 0,
+          "recent_35_completed": 0,
+          "consecutive_missed_weeks": 7,
+          "long_term_level": "follow",
+          "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
+          "abnormal_reason": "",
+          "match_modes": [],
+          "weekly_done": false
+        },
+        {
+          "label": "王泡泡组（负责pm：王雪琪）",
+          "type": "陪伴大使",
+          "student": "谢嘉银",
+          "teacher": "黄丽华",
+          "name": "谢嘉银-黄丽华",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "",
+          "recent_28_completed": 0,
+          "recent_35_completed": 0,
+          "consecutive_missed_weeks": 7,
+          "long_term_level": "follow",
+          "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
+          "abnormal_reason": "",
+          "match_modes": [],
+          "weekly_done": false
+        }
+      ],
+      "abnormal": [
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "group": "吴珏雨-王艺涵",
+          "reason": "最近一次已上课为 2026-04-17，截至 2026-05-03 已间隔 16 天",
+          "weekly_summary": "本期无记录"
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "group": "方文惠-张炜喆",
+          "reason": "最近一次已上课为 2026-04-11，截至 2026-05-03 已间隔 22 天",
+          "weekly_summary": "本期无记录"
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "group": "李思莹-王逸晴",
+          "reason": "最近一次已上课为 2026-04-19，截至 2026-05-03 已间隔 14 天",
+          "weekly_summary": "本期无记录"
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "group": "杨一凡-吴化育",
+          "reason": "最近一次已上课为 2026-04-06，截至 2026-05-03 已间隔 27 天",
+          "weekly_summary": "本期无记录"
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "group": "袁定瑞-董梓岩",
+          "reason": "最近一次已上课为 2026-04-18，截至 2026-05-03 已间隔 15 天",
+          "weekly_summary": "本期无记录"
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "group": "贾雨昕-邹倚歌",
+          "reason": "最近一次已上课为 2026-04-11，截至 2026-05-03 已间隔 22 天",
+          "weekly_summary": "本期无记录"
+        },
+        {
+          "label": "张村小学Plus组 负责pm：熊伟",
+          "type": "陪伴大使",
+          "group": "许雨桐-张洁",
+          "reason": "最近一次已上课为 2026-03-22，间隔已超过 4 周",
+          "weekly_summary": "本期无记录"
+        },
+        {
+          "label": "王泡泡组（负责pm：王雪琪）",
+          "type": "学科辅导",
+          "group": "李浩洋-陈祉宇",
+          "reason": "最近一次已上课为 2026-04-13，截至 2026-05-03 已间隔 20 天",
+          "weekly_summary": "本期无记录"
+        },
+        {
+          "label": "王泡泡组（负责pm：王雪琪）",
+          "type": "学科辅导",
+          "group": "林楚欣-张淑怡",
+          "reason": "最近一次已上课为 2026-03-28，截至 2026-05-03 已间隔 36 天",
+          "weekly_summary": "本期无记录"
+        }
+      ],
+      "long_term_low": [
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "group": "吴珏雨-王艺涵",
+          "reason": "最近一次已上课为 2026-04-17，截至 2026-05-03 已间隔 16 天"
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "group": "方文惠-张炜喆",
+          "reason": "最近一次已上课为 2026-04-11，截至 2026-05-03 已间隔 22 天"
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "group": "李思莹-王逸晴",
+          "reason": "最近一次已上课为 2026-04-19，截至 2026-05-03 已间隔 14 天"
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "group": "杨一凡-吴化育",
+          "reason": "最近一次已上课为 2026-04-06，截至 2026-05-03 已间隔 27 天"
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "group": "袁定瑞-董梓岩",
+          "reason": "最近一次已上课为 2026-04-18，截至 2026-05-03 已间隔 15 天"
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "group": "贾雨昕-邹倚歌",
+          "reason": "最近一次已上课为 2026-04-11，截至 2026-05-03 已间隔 22 天"
+        },
+        {
+          "label": "张村小学Plus组 负责pm：熊伟",
+          "type": "陪伴大使",
+          "group": "许雨桐-张洁",
+          "reason": "最近一次已上课为 2026-03-22，间隔已超过 4 周"
+        },
+        {
+          "label": "王泡泡组（负责pm：王雪琪）",
+          "type": "学科辅导",
+          "group": "李浩洋-陈祉宇",
+          "reason": "最近一次已上课为 2026-04-13，截至 2026-05-03 已间隔 20 天"
+        },
+        {
+          "label": "王泡泡组（负责pm：王雪琪）",
+          "type": "学科辅导",
+          "group": "林楚欣-张淑怡",
+          "reason": "最近一次已上课为 2026-03-28，截至 2026-05-03 已间隔 36 天"
+        }
+      ],
+      "unmatched_total": 5
+    },
     {
       "title": "TVT 上课情况周报",
       "section_title": "2026-04-20",
       "week_start": "2026-04-20",
       "week_end": "2026-04-26",
-      "generated_at": "2026-04-28 13:44:12",
+      "generated_at": "2026-04-30 13:11:10",
       "excel_path": "C:\\Users\\jqdzhang\\WorkBuddy\\TVT\\TVT上课记录.xlsx",
       "metrics": {
         "groups_total": 49,
