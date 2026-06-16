@@ -1,6 +1,6 @@
 {
   "site_title": "TVT 上课情况周报",
-  "updated_at": "2026-06-16 16:42:08",
+  "updated_at": "2026-06-16 17:04:30",
   "latest_section": "2026-06-09",
   "reports": [
     {
@@ -8,7 +8,7 @@
       "section_title": "2026-06-09",
       "week_start": "2026-06-09",
       "week_end": "2026-06-15",
-      "generated_at": "2026-06-16 16:42:08",
+      "generated_at": "2026-06-16 17:04:30",
       "excel_path": "/workspace/tvt/TVT上课记录.xlsx",
       "metrics": {
         "groups_total": 79,
