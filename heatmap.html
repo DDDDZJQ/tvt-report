@@ -1,4 +1,4 @@
-OK  /workspace/tvt/heatmap-final.html  151 KB
+OK  /workspace/tvt/heatmap-final.html  154 KB
 ta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
 <title>TVT 上课频率热力图</title>
@@ -164,6 +164,34 @@ body {
 .info-label { font-size: var(--fs-xs); color: var(--faint); font-weight: var(--fw-b); }
 .info-value { font-size: var(--fs-xs); color: var(--muted); font-variant-numeric: tabular-nums; }
 .info-sep { flex: 1; }
+
+/* ══════════════════════════════════════
+   NOTICE BAR — 数据备注
+   ══════════════════════════════════════ */
+.notice-bar {
+  background: #FEF9EC;
+  border-bottom: 1px solid #F0D98A;
+  padding: var(--sp2) var(--sp6);
+  display: flex; align-items: flex-start;
+  gap: var(--sp2);
+  flex-wrap: wrap;
+}
+.notice-icon {
+  font-size: 13px; flex-shrink: 0; margin-top: 1px; color: #A0712E;
+}
+.notice-text {
+  font-size: var(--fs-xs); color: #6B4C1A; line-height: 1.6; flex: 1;
+}
+.notice-text strong { font-weight: var(--fw-b); }
+.notice-pairs {
+  margin-top: 4px; display: flex; flex-wrap: wrap; gap: 4px 10px;
+}
+.notice-pair {
+  background: rgba(160,113,46,.10);
+  border-radius: var(--r-sm);
+  padding: 1px 6px;
+  font-size: var(--fs-xs); color: #6B4C1A;
+}
 
 /* ══════════════════════════════════════
    FILTER BAR
@@ -486,9 +514,33 @@ body {
   </div>
   <div class="info-item">
     <span class="info-label">页面更新</span>
-    <span class="info-value" id="updateTime">2026-06-18 18:21:13</span>
+    <span class="info-value" id="updateTime">2026-06-18 18:35:45</span>
   </div>
   <span class="info-sep"></span>
+</div>
+
+<div class="notice-bar">
+  <span class="notice-icon">⚠️</span>
+  <div class="notice-text">
+    <strong>数据说明：</strong>以下 15 个学生-老师组合的历史上课记录暂未录入腾讯文档「退出/曾任老师」字段，热力图中该部分记录<strong>暂不显示</strong>，待腾讯文档补全后将自动更新。
+    <div class="notice-pairs">
+      <span class="notice-pair">崔钰涵 + 汤栋骞（14条）</span>
+      <span class="notice-pair">方文惠 + 魏怡棠（14条）</span>
+      <span class="notice-pair">肖睿羲 + 刘思彤（7条）</span>
+      <span class="notice-pair">崔子成 + 易继志扬（5条）</span>
+      <span class="notice-pair">彭松兆 + 张嘉宁（4条）</span>
+      <span class="notice-pair">南卡扎西 + 骆思雅（3条）</span>
+      <span class="notice-pair">林广源 + 陈南越（3条）</span>
+      <span class="notice-pair">袁婧瑜 + 任静阳（1条）</span>
+      <span class="notice-pair">袁婧瑜 + 任馨扬（1条）</span>
+      <span class="notice-pair">袁婧瑜 + 张钰涵（1条）</span>
+      <span class="notice-pair">肖睿羲 + Shine（2条）</span>
+      <span class="notice-pair">肖睿羲 + 周睿（1条）</span>
+      <span class="notice-pair">鲁少辰 + 张宸桐（2条）</span>
+      <span class="notice-pair">杨子墨 + 张芮彤（2条）</span>
+      <span class="notice-pair">崔子成 + 1200226583（1条）</span>
+    </div>
+  </div>
 </div>
 
 <div class="filterbar">
