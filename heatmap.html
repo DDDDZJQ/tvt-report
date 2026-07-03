@@ -53,16 +53,15 @@
   --heat-3:  #6DC9A0;                               /* 已上课 — 翠绿 */
   --heat-3b: rgba(46,111,78,.3);
 
-  /* ── Heat 单元格 · 暂停上课行 — 中性斜纹纹理 + 琥珀通栏（v5 重设计，不复用 Level 色相） ── */
-  --suspend-stripe-a: #EDE6D6;
-  --suspend-stripe-b: #E3DACB;
-  --suspend-label-bg: rgba(184,138,63,.12);
-  --suspend-badge-bg: #F5EBD8;
-  --suspend-badge-fg: #8A6D3B;
-  --suspend-badge-bd: #E0CBA0;
-  --suspend-divider-bg: #FBF4E6;
-  --suspend-divider-fg: #A07A34;
-  --suspend-divider-bd: #E8D9B8;
+  /* ── Heat 单元格 · 暂停上课行 — 灰色系纹理叠加（橙色是"需关注/告警"语义，暂停组不占用该语义，改为中性灰） ── */
+  --suspend-stripe:    rgba(90,100,115,.30);   /* 单元格上叠加的斜纹颜色（灰） */
+  --suspend-label-bg:  #E7E9ED;                /* 标签列通栏底色（灰，不透明，正常对比度） */
+  --suspend-badge-bg:  #DEE1E6;
+  --suspend-badge-fg:  #4B5563;
+  --suspend-badge-bd:  #C6CBD3;
+  --suspend-divider-bg:#EEF0F3;
+  --suspend-divider-fg:#5C6672;
+  --suspend-divider-bd:#D5D9E0;
 
   /* ── 字体 ── */
   --font: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
@@ -387,13 +386,13 @@ body {
 .hm-row { height: var(--row-h); }
 .hm-row:hover { background: var(--active); }
 
-/* 暂停上课行 — v5 重设计：不再靠"整行调透明度/降饱和度"，
-   改为「标签列琥珀通栏 + 单元格中性斜纹」两个强信号叠加，
-   从行首即可一眼识别，不依赖逐格辨色。 */
+/* 暂停上课行 — 灰色系（不用橙色，橙色语义留给"需关注/告警"）。
+   标签列使用不透明灰底 + 正常对比度文字，不做成半透明/发虚的效果；
+   单元格叠加中性灰斜纹，历史颜色和次数完整保留。 */
 .hm-row.suspended td.td-label { background: var(--suspend-label-bg); }
 .hm-row.suspended:hover td.td-label { background: var(--suspend-label-bg); }
-.hm-row.suspended .label-student { color: var(--muted); }
-.hm-row.suspended .label-teacher { color: var(--disable); }
+.hm-row.suspended .label-student { color: var(--ink-2); }
+.hm-row.suspended .label-teacher { color: var(--muted); }
 
 /* 分隔行 — 卡片内正常/暂停分区提示，强化可扫视性 */
 .hm-row-divider td {
@@ -419,7 +418,7 @@ body {
   flex-shrink: 0; white-space: nowrap;
 }
 .suspend-reason {
-  font-size: var(--fs-xs); color: var(--faint);
+  font-size: var(--fs-xs); color: var(--muted);
   white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
   max-width: 176px; margin-top: 1px;
 }
@@ -482,15 +481,19 @@ body {
 .cell[data-lv="2"] { background: var(--heat-2); box-shadow: inset 0 0 0 1px var(--heat-2b); }
 .cell[data-lv="3"] { background: var(--heat-3); box-shadow: inset 0 0 0 1px var(--heat-3b); }
 
-/* 暂停上课行的单元格 — v5：彻底剥离 Level 色相语义，改为中性斜纹纹理，
-   不管 data-lv 是多少都统一处理，避免暂停行还能被当作"数据浅/少"来解读 */
-.hm-row.suspended .cell {
+/* 细密斜纹半透明叠加，中性灰（不用橙色）— Level 0-3 颜色 100% 保留（背景色不变），
+   只在颜色格子上叠加一层半透明灰色斜纹作为"暂停"标记，历史数据清晰可读 */
+.hm-row.suspended .cell::after {
+  content: "";
+  position: absolute; inset: 0;
+  border-radius: var(--r-md);
   background: repeating-linear-gradient(45deg,
-    var(--suspend-stripe-a) 0 6px,
-    var(--suspend-stripe-b) 6px 12px);
-  box-shadow: inset 0 0 0 1px rgba(160,122,52,.18);
+    transparent 0 4px,
+    var(--suspend-stripe) 4px 5px);
+  pointer-events: none;
 }
-.hm-row.suspended .cell-cnt { display: none; }
+.hm-row.suspended .cell { position: relative; }
+.hm-row.suspended .cell-cnt { position: relative; z-index: 1; }
 
 /* 单元格内次数 */
 .cell-cnt {
@@ -574,7 +577,7 @@ body {
   </div>
   <div class="info-item">
     <span class="info-label">页面更新</span>
-    <span class="info-value" id="updateTime">2026-07-03 14:19:03</span>
+    <span class="info-value" id="updateTime">2026-07-03 15:09:21</span>
   </div>
   <span class="info-sep"></span>
 </div>
@@ -737,7 +740,7 @@ function render(){
         }).replace(/"/g,'&quot;');
         /* 单元格内显示次数：count > 0 且 level >= 1 时显示；暂停行不显示次数角标
            （暂停行已不参与热力等级语义，避免造成"仍在正常统计"的错觉） */
-        const cntHTML=(!row.is_suspended&&wd.count>0&&wd.level>=1)?`<span class="cell-cnt">${wd.count}</span>`:'';
+        const cntHTML=(wd.count>0&&wd.level>=1)?`<span class="cell-cnt">${wd.count}</span>`:'';
         const lbl=row.is_suspended
           ? `${row.student} ${wLabel(RAW.weeks[S.ws+wi])} 暂停上课`
           : `${row.student} ${wLabel(RAW.weeks[S.ws+wi])} ${LV[wd.level]}${wd.count>0?' '+wd.count+'次':''}`;
@@ -793,7 +796,7 @@ function bindTooltip(){
         <div class="tip-tch">志愿者：${d.teacher}</div>
         <span class="tip-badge s${d.lv}">${d.tip}</span>
         ${d.cnt>0?`<div style="margin-top:4px;font-size:10px;color:rgba(255,255,255,.4)">本周 ${d.cnt} 次</div>`:''}
-        ${d.susp?`<div style="margin-top:4px;font-size:10px;color:#F0D98A">暂停上课${d.suspReason?'：'+d.suspReason:''}</div>`:''}`;
+        ${d.susp?`<div style="margin-top:4px;font-size:10px;color:#B8BEC8">暂停上课${d.suspReason?'：'+d.suspReason:''}</div>`:''}`;
       el.classList.add('on'); pos(e);
     });
     c.addEventListener('mousemove',pos);
