@@ -53,14 +53,16 @@
   --heat-3:  #6DC9A0;                               /* 已上课 — 翠绿 */
   --heat-3b: rgba(46,111,78,.3);
 
-  /* ── Heat 单元格 · 暂停上课行 — 低饱和度/低明度版本 ── */
-  --heat-0-mute: #ECEDEA;
-  --heat-1-mute: #D9CDB2;
-  --heat-1-mute-b: rgba(150,130,90,.28);
-  --heat-2-mute: #B9C2CE;
-  --heat-2-mute-b: rgba(90,105,130,.24);
-  --heat-3-mute: #AFC2B6;
-  --heat-3-mute-b: rgba(70,100,85,.22);
+  /* ── Heat 单元格 · 暂停上课行 — 中性斜纹纹理 + 琥珀通栏（v5 重设计，不复用 Level 色相） ── */
+  --suspend-stripe-a: #EDE6D6;
+  --suspend-stripe-b: #E3DACB;
+  --suspend-label-bg: rgba(184,138,63,.12);
+  --suspend-badge-bg: #F5EBD8;
+  --suspend-badge-fg: #8A6D3B;
+  --suspend-badge-bd: #E0CBA0;
+  --suspend-divider-bg: #FBF4E6;
+  --suspend-divider-fg: #A07A34;
+  --suspend-divider-bd: #E8D9B8;
 
   /* ── 字体 ── */
   --font: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
@@ -385,15 +387,33 @@ body {
 .hm-row { height: var(--row-h); }
 .hm-row:hover { background: var(--active); }
 
-.hm-row.suspended { opacity: .82; }
+/* 暂停上课行 — v5 重设计：不再靠"整行调透明度/降饱和度"，
+   改为「标签列琥珀通栏 + 单元格中性斜纹」两个强信号叠加，
+   从行首即可一眼识别，不依赖逐格辨色。 */
+.hm-row.suspended td.td-label { background: var(--suspend-label-bg); }
+.hm-row.suspended:hover td.td-label { background: var(--suspend-label-bg); }
 .hm-row.suspended .label-student { color: var(--muted); }
 .hm-row.suspended .label-teacher { color: var(--disable); }
+
+/* 分隔行 — 卡片内正常/暂停分区提示，强化可扫视性 */
+.hm-row-divider td {
+  padding: var(--sp1) 0;
+  background: var(--suspend-divider-bg);
+  border-top: 1px solid var(--suspend-divider-bd);
+  border-bottom: 1px solid var(--suspend-divider-bd);
+}
+.hm-row-divider .divider-text {
+  display: flex; align-items: center; gap: 4px;
+  font-size: var(--fs-xs); font-weight: var(--fw-b);
+  color: var(--suspend-divider-fg);
+  padding-left: 2px;
+}
 
 .suspend-badge {
   display: inline-flex; align-items: center;
   font-size: 9px; font-weight: var(--fw-b);
-  color: #8A6D3B; background: #F5EBD8;
-  border: 1px solid #E0CBA0;
+  color: var(--suspend-badge-fg); background: var(--suspend-badge-bg);
+  border: 1px solid var(--suspend-badge-bd);
   border-radius: var(--r-sm);
   padding: 0 4px; line-height: 14px;
   flex-shrink: 0; white-space: nowrap;
@@ -462,11 +482,15 @@ body {
 .cell[data-lv="2"] { background: var(--heat-2); box-shadow: inset 0 0 0 1px var(--heat-2b); }
 .cell[data-lv="3"] { background: var(--heat-3); box-shadow: inset 0 0 0 1px var(--heat-3b); }
 
-/* 暂停上课行的单元格 — 统一降低饱和度/明度 */
-.hm-row.suspended .cell[data-lv="0"] { background: var(--heat-0-mute); }
-.hm-row.suspended .cell[data-lv="1"] { background: var(--heat-1-mute); box-shadow: inset 0 0 0 1px var(--heat-1-mute-b); }
-.hm-row.suspended .cell[data-lv="2"] { background: var(--heat-2-mute); box-shadow: inset 0 0 0 1px var(--heat-2-mute-b); }
-.hm-row.suspended .cell[data-lv="3"] { background: var(--heat-3-mute); box-shadow: inset 0 0 0 1px var(--heat-3-mute-b); }
+/* 暂停上课行的单元格 — v5：彻底剥离 Level 色相语义，改为中性斜纹纹理，
+   不管 data-lv 是多少都统一处理，避免暂停行还能被当作"数据浅/少"来解读 */
+.hm-row.suspended .cell {
+  background: repeating-linear-gradient(45deg,
+    var(--suspend-stripe-a) 0 6px,
+    var(--suspend-stripe-b) 6px 12px);
+  box-shadow: inset 0 0 0 1px rgba(160,122,52,.18);
+}
+.hm-row.suspended .cell-cnt { display: none; }
 
 /* 单元格内次数 */
 .cell-cnt {
@@ -550,7 +574,7 @@ body {
   </div>
   <div class="info-item">
     <span class="info-label">页面更新</span>
-    <span class="info-value" id="updateTime">2026-07-03 13:16:55</span>
+    <span class="info-value" id="updateTime">2026-07-03 14:19:03</span>
   </div>
   <span class="info-sep"></span>
 </div>
@@ -683,10 +707,24 @@ function render(){
 
   let html='';
   let gi=0;
-  gmap.forEach((gRows,gName)=>{
+  gmap.forEach((gRowsRaw,gName)=>{
     const cc=cardColorCls(gi);
 
-    const trs=gRows.map(row=>{
+    /* 排序：正常配对在前、暂停配对在后；同分区内按类型（学科辅导→陪伴大使）；
+       再按学生姓名中文排序；暂停组不需要日常关注，不占据视觉优先位置 */
+    const gRows=gRowsRaw.slice().sort((a,b)=>{
+      const sa=a.is_suspended?1:0, sb=b.is_suspended?1:0;
+      if(sa!==sb) return sa-sb;
+      const ta=a.type==='学科辅导'?0:1, tb=b.type==='学科辅导'?0:1;
+      if(ta!==tb) return ta-tb;
+      return a.student.localeCompare(b.student,'zh-Hans-CN');
+    });
+
+    const firstSuspIdx=gRows.findIndex(r=>r.is_suspended);
+    const suspCount=gRows.filter(r=>r.is_suspended).length;
+    const colspan=slice.length+1;
+
+    const rowHTML=(row)=>{
       const isAc=row.type==='学科辅导';
       const chip=`<span class="type-chip ${isAc?'chip-ac':'chip-co'}">${isAc?'辅':'伴'}</span>`;
       const cells=slice.map((_,wi)=>{
@@ -697,10 +735,14 @@ function render(){
           lv:wd.level, tip:wd.tooltip||LV[wd.level], cnt:wd.count,
           susp:row.is_suspended||false, suspReason:row.suspend_reason||''
         }).replace(/"/g,'&quot;');
-        /* 单元格内显示次数：count > 0 且 level >= 1 时显示 */
-        const cntHTML=(wd.count>0&&wd.level>=1)?`<span class="cell-cnt">${wd.count}</span>`:'';
+        /* 单元格内显示次数：count > 0 且 level >= 1 时显示；暂停行不显示次数角标
+           （暂停行已不参与热力等级语义，避免造成"仍在正常统计"的错觉） */
+        const cntHTML=(!row.is_suspended&&wd.count>0&&wd.level>=1)?`<span class="cell-cnt">${wd.count}</span>`:'';
+        const lbl=row.is_suspended
+          ? `${row.student} ${wLabel(RAW.weeks[S.ws+wi])} 暂停上课`
+          : `${row.student} ${wLabel(RAW.weeks[S.ws+wi])} ${LV[wd.level]}${wd.count>0?' '+wd.count+'次':''}`;
         return `<td class="td-cell"><div class="cell" data-lv="${wd.level}" data-t="${td}"
-          aria-label="${row.student} ${wLabel(RAW.weeks[S.ws+wi])} ${LV[wd.level]}${wd.count>0?' '+wd.count+'次':''}">${cntHTML}</div></td>`;
+          aria-label="${lbl}">${cntHTML}</div></td>`;
       }).join('');
       return `<tr class="hm-row${row.is_suspended?' suspended':''}">
         <td class="td-label"><div class="label-inner">
@@ -708,7 +750,16 @@ function render(){
           <span class="label-teacher">${row.teacher}</span>
           ${row.is_suspended&&row.suspend_reason?`<span class="suspend-reason" title="${row.suspend_reason.replace(/"/g,'&quot;')}">${row.suspend_reason}</span>`:''}
         </div></td>${cells}</tr>`;
-    }).join('');
+    };
+
+    let trs='';
+    gRows.forEach((row,idx)=>{
+      /* 分隔行：卡片内同时存在正常与暂停两类配对时，在暂停区起始处插入分区提示 */
+      if(idx===firstSuspIdx&&firstSuspIdx>0){
+        trs+=`<tr class="hm-row-divider"><td colspan="${colspan}"><div class="divider-text">⏸ 已暂停 ${suspCount} 组</div></td></tr>`;
+      }
+      trs+=rowHTML(row);
+    });
 
     html+=`<section class="group-card ${cc}">
       <div class="group-header">
