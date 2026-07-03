@@ -3,15 +3,15 @@
   "section_title": "2026-06-22",
   "week_start": "2026-06-22",
   "week_end": "2026-06-28",
-  "generated_at": "2026-06-29 10:26:40",
-  "excel_path": "/workspace/tvt/TVT上课记录.xlsx",
+  "generated_at": "2026-07-03 13:13:34",
+  "excel_path": "TVT上课记录.xlsx",
   "metrics": {
-    "groups_total": 79,
+    "groups_total": 71,
     "completed": 9,
-    "not_completed": 70,
-    "completion_rate": 11,
-    "abnormal_total": 34,
-    "long_term_low_total": 34,
+    "not_completed": 62,
+    "completion_rate": 13,
+    "abnormal_total": 27,
+    "long_term_low_total": 27,
     "unmatched_total": 66,
     "student_teacher_groups": 79
   },
@@ -63,39 +63,31 @@
       "label": "大爱清尘（负责pm：张继奇点）",
       "time": "2026-06-22 至 2026-06-28",
       "completed": 4,
-      "total": 18,
-      "not_completed": 14,
-      "rate": 22,
+      "total": 10,
+      "not_completed": 6,
+      "rate": 40,
       "sections": [
         {
           "type": "学科辅导",
           "completed": 3,
-          "total": 15,
+          "total": 8,
           "not_completed": [
-            "张浩泽-顾文勋（本期无记录）",
-            "贾雨昕-石子慧（本期无记录）",
-            "贾雨昕-邹倚歌（本期无记录）",
             "冯诗琪-金芮西（本期无记录）",
             "袁定瑞-董梓岩（本期无记录）",
-            "方文惠-陈计言（本期无记录）",
-            "方文惠-张炜喆（本期无记录）",
             "杜源朝-陈依依（本期无记录）",
-            "杨一凡-吴化育（本期无记录）",
-            "吴珏雨-吴宇伦（本期无记录）",
             "邢璐瑜-浣婧怡（本期无记录）",
             "邢璐瑜-沈志远（本期无记录）"
           ],
-          "rate": 20
+          "rate": 38
         },
         {
           "type": "陪伴大使",
           "completed": 1,
-          "total": 3,
+          "total": 2,
           "not_completed": [
-            "方文惠-李梦南（本期无记录）",
-            "杨一凡-宋慧（本期无记录）"
+            "方文惠-李梦南（本期无记录）"
           ],
-          "rate": 33
+          "rate": 50
         }
       ]
     },
@@ -243,7 +235,10 @@
       "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
       "abnormal_reason": "",
       "match_modes": [],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "一老一小组 负责pm： jojolei",
@@ -272,7 +267,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "一老一小组 负责pm： jojolei",
@@ -299,7 +297,10 @@
       "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
       "abnormal_reason": "",
       "match_modes": [],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "一老一小组 负责pm： jojolei",
@@ -326,7 +327,10 @@
       "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
       "abnormal_reason": "",
       "match_modes": [],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "一老一小组 负责pm： jojolei",
@@ -353,7 +357,10 @@
       "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
       "abnormal_reason": "",
       "match_modes": [],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "一老一小组 负责pm： jojolei",
@@ -380,7 +387,10 @@
       "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
       "abnormal_reason": "",
       "match_modes": [],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "一老一小组 负责pm： jojolei",
@@ -407,7 +417,10 @@
       "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
       "abnormal_reason": "",
       "match_modes": [],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "一老一小组 负责pm： jojolei",
@@ -436,7 +449,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "一老一小组 负责pm： jojolei",
@@ -463,7 +479,10 @@
       "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
       "abnormal_reason": "",
       "match_modes": [],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "一老一小组 负责pm： jojolei",
@@ -490,7 +509,10 @@
       "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
       "abnormal_reason": "",
       "match_modes": [],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "一老一小组 负责pm： jojolei",
@@ -517,7 +539,10 @@
       "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
       "abnormal_reason": "",
       "match_modes": [],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -544,7 +569,10 @@
       "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1020-学科辅导-01」的可匹配老师「李玮彤」匹配的记录；实际出现老师：林文裕（最近 2026-06-21｜林文裕｜已上课｜伊西措同学陪伴课程）。请核对当前老师、历史老师或备注中的别名。",
       "abnormal_reason": "",
       "match_modes": [],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -573,7 +601,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -600,7 +631,10 @@
       "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
       "abnormal_reason": "",
       "match_modes": [],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -631,7 +665,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": true
+      "weekly_done": true,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -658,7 +695,10 @@
       "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
       "abnormal_reason": "",
       "match_modes": [],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -685,7 +725,10 @@
       "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1015-学科辅导-01」的可匹配老师「孙希瑜」匹配的记录；实际出现老师：王婷（最近 2026-06-28｜王婷｜已处理｜第二次陪伴沟通反馈）。请核对当前老师、历史老师或备注中的别名。",
       "abnormal_reason": "",
       "match_modes": [],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -714,7 +757,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -743,7 +789,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -770,7 +819,10 @@
       "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1016-陪伴大使-01」的可匹配老师「关雯」匹配的记录；实际出现老师：骆思雅（最近 2026-06-27｜骆思雅｜已上课｜扎西第四节）。请核对当前老师、历史老师或备注中的别名。",
       "abnormal_reason": "",
       "match_modes": [],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -797,7 +849,10 @@
       "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
       "abnormal_reason": "",
       "match_modes": [],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -826,7 +881,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -853,7 +911,10 @@
       "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
       "abnormal_reason": "",
       "match_modes": [],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -880,7 +941,10 @@
       "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
       "abnormal_reason": "",
       "match_modes": [],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -909,7 +973,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -936,7 +1003,10 @@
       "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
       "abnormal_reason": "",
       "match_modes": [],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -963,7 +1033,10 @@
       "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
       "abnormal_reason": "",
       "match_modes": [],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -996,7 +1069,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": true
+      "weekly_done": true,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -1025,7 +1101,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -1054,7 +1133,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -1083,7 +1165,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -1107,15 +1192,18 @@
       "last_completed": "2026-06-14",
       "recent_28_completed": 2,
       "recent_35_completed": 3,
-      "consecutive_missed_weeks": 2,
-      "long_term_level": "low",
-      "long_term_reason": "最近一次已上课为 2026-06-14，截至 2026-06-28 已间隔 14 天",
+      "consecutive_missed_weeks": 0,
+      "long_term_level": "suspended",
+      "long_term_reason": "暂停上课：学生刚中考结束，等中考录取结果中（7.4出结果）",
       "observe_reason": "",
-      "abnormal_reason": "最近一次已上课为 2026-06-14，截至 2026-06-28 已间隔 14 天",
+      "abnormal_reason": "",
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": true,
+      "class_status": "暂停上课",
+      "suspend_reason": "学生刚中考结束，等中考录取结果中（7.4出结果）"
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -1141,15 +1229,18 @@
       "last_completed": "2026-05-20",
       "recent_28_completed": 0,
       "recent_35_completed": 0,
-      "consecutive_missed_weeks": 5,
-      "long_term_level": "low",
-      "long_term_reason": "最近一次已上课为 2026-05-20，截至 2026-06-28 已间隔 39 天",
+      "consecutive_missed_weeks": 0,
+      "long_term_level": "suspended",
+      "long_term_reason": "暂停上课：学生刚中考结束，等中考录取结果中（7.13出结果）",
       "observe_reason": "",
-      "abnormal_reason": "最近一次已上课为 2026-05-20，截至 2026-06-28 已间隔 39 天",
+      "abnormal_reason": "",
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": true,
+      "class_status": "暂停上课",
+      "suspend_reason": "学生刚中考结束，等中考录取结果中（7.13出结果）"
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -1170,15 +1261,18 @@
       "last_completed": "2026-06-05",
       "recent_28_completed": 1,
       "recent_35_completed": 2,
-      "consecutive_missed_weeks": 3,
-      "long_term_level": "low",
-      "long_term_reason": "最近一次已上课为 2026-06-05，截至 2026-06-28 已间隔 23 天",
+      "consecutive_missed_weeks": 0,
+      "long_term_level": "suspended",
+      "long_term_reason": "暂停上课：学生刚中考结束，暑期上课沟通中",
       "observe_reason": "",
-      "abnormal_reason": "最近一次已上课为 2026-06-05，截至 2026-06-28 已间隔 23 天",
+      "abnormal_reason": "",
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": true,
+      "class_status": "暂停上课",
+      "suspend_reason": "学生刚中考结束，暑期上课沟通中"
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -1199,15 +1293,18 @@
       "last_completed": "2026-06-06",
       "recent_28_completed": 1,
       "recent_35_completed": 2,
-      "consecutive_missed_weeks": 3,
-      "long_term_level": "low",
-      "long_term_reason": "最近一次已上课为 2026-06-06，截至 2026-06-28 已间隔 22 天",
+      "consecutive_missed_weeks": 0,
+      "long_term_level": "suspended",
+      "long_term_reason": "暂停上课：学生刚中考结束，暑期上课沟通中",
       "observe_reason": "",
-      "abnormal_reason": "最近一次已上课为 2026-06-06，截至 2026-06-28 已间隔 22 天",
+      "abnormal_reason": "",
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": true,
+      "class_status": "暂停上课",
+      "suspend_reason": "学生刚中考结束，暑期上课沟通中"
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -1238,7 +1335,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": true
+      "weekly_done": true,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -1272,7 +1372,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": true
+      "weekly_done": true,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -1301,7 +1404,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -1322,15 +1428,18 @@
       "last_completed": "2026-06-14",
       "recent_28_completed": 2,
       "recent_35_completed": 2,
-      "consecutive_missed_weeks": 2,
-      "long_term_level": "low",
-      "long_term_reason": "最近一次已上课为 2026-06-14，截至 2026-06-28 已间隔 14 天",
+      "consecutive_missed_weeks": 0,
+      "long_term_level": "suspended",
+      "long_term_reason": "暂停上课：暑期不上课",
       "observe_reason": "",
-      "abnormal_reason": "最近一次已上课为 2026-06-14，截至 2026-06-28 已间隔 14 天",
+      "abnormal_reason": "",
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": true,
+      "class_status": "暂停上课",
+      "suspend_reason": "暑期不上课"
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -1359,7 +1468,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -1390,7 +1502,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": true
+      "weekly_done": true,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -1411,15 +1526,18 @@
       "last_completed": "2026-06-06",
       "recent_28_completed": 1,
       "recent_35_completed": 2,
-      "consecutive_missed_weeks": 3,
-      "long_term_level": "low",
-      "long_term_reason": "最近一次已上课为 2026-06-06，截至 2026-06-28 已间隔 22 天",
+      "consecutive_missed_weeks": 0,
+      "long_term_level": "suspended",
+      "long_term_reason": "暂停上课：暑期不上课",
       "observe_reason": "",
-      "abnormal_reason": "最近一次已上课为 2026-06-06，截至 2026-06-28 已间隔 22 天",
+      "abnormal_reason": "",
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": true,
+      "class_status": "暂停上课",
+      "suspend_reason": "暑期不上课"
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -1440,15 +1558,18 @@
       "last_completed": "2026-06-14",
       "recent_28_completed": 1,
       "recent_35_completed": 2,
-      "consecutive_missed_weeks": 2,
-      "long_term_level": "low",
-      "long_term_reason": "最近一次已上课为 2026-06-14，截至 2026-06-28 已间隔 14 天",
+      "consecutive_missed_weeks": 0,
+      "long_term_level": "suspended",
+      "long_term_reason": "暂停上课：暑期不上课",
       "observe_reason": "",
-      "abnormal_reason": "最近一次已上课为 2026-06-14，截至 2026-06-28 已间隔 14 天",
+      "abnormal_reason": "",
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": true,
+      "class_status": "暂停上课",
+      "suspend_reason": "暑期不上课"
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -1477,7 +1598,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -1506,7 +1630,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -1539,7 +1666,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": true
+      "weekly_done": true,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -1568,7 +1698,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -1589,15 +1722,18 @@
       "last_completed": "2026-06-16",
       "recent_28_completed": 2,
       "recent_35_completed": 3,
-      "consecutive_missed_weeks": 1,
-      "long_term_level": "ok",
-      "long_term_reason": "",
+      "consecutive_missed_weeks": 0,
+      "long_term_level": "suspended",
+      "long_term_reason": "暂停上课：暑期暂停陪伴",
       "observe_reason": "",
       "abnormal_reason": "",
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": true,
+      "class_status": "暂停上课",
+      "suspend_reason": "暑期暂停陪伴"
     },
     {
       "label": "张村小学Plus组（负责pm：熊伟）",
@@ -1628,7 +1764,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": true
+      "weekly_done": true,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "张村小学Plus组（负责pm：熊伟）",
@@ -1657,7 +1796,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "张村小学Plus组（负责pm：熊伟）",
@@ -1686,7 +1828,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "张村小学Plus组（负责pm：熊伟）",
@@ -1715,7 +1860,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "张村小学Plus组（负责pm：熊伟）",
@@ -1744,7 +1892,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "张村小学Plus组（负责pm：熊伟）",
@@ -1773,7 +1924,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "张村小学Plus组（负责pm：熊伟）",
@@ -1802,7 +1956,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "张村小学Plus组（负责pm：熊伟）",
@@ -1831,7 +1988,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "张村小学Plus组（负责pm：熊伟）",
@@ -1862,7 +2022,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": true
+      "weekly_done": true,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "张村小学Plus组（负责pm：熊伟）",
@@ -1894,7 +2057,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "张村小学Plus组（负责pm：熊伟）",
@@ -1927,7 +2093,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "张村小学Plus组（负责pm：熊伟）",
@@ -1959,7 +2128,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "张村小学Plus组（负责pm：熊伟）",
@@ -1988,7 +2160,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "张村小学Plus组（负责pm：熊伟）",
@@ -2015,7 +2190,10 @@
       "observe_reason": "Excel 中有该学生记录，但没有与上课组合「948-学科辅导-01」的可匹配老师「雷阳」匹配的记录；实际出现老师：张洁（最近 2026-03-22｜张洁｜已上课｜雨桐陪伴）。请核对当前老师、历史老师或备注中的别名。",
       "abnormal_reason": "",
       "match_modes": [],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "张村小学Plus组（负责pm：熊伟）",
@@ -2044,7 +2222,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "张村小学Plus组（负责pm：熊伟）",
@@ -2073,7 +2254,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "张村小学Plus组（负责pm：熊伟）",
@@ -2102,7 +2286,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "张村小学Plus组（负责pm：熊伟）",
@@ -2131,7 +2318,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "王泡泡组（负责pm：王雪琪）",
@@ -2160,7 +2350,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "王泡泡组（负责pm：王雪琪）",
@@ -2189,7 +2382,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "王泡泡组（负责pm：王雪琪）",
@@ -2218,7 +2414,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "王泡泡组（负责pm：王雪琪）",
@@ -2247,7 +2446,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "王泡泡组（负责pm：王雪琪）",
@@ -2278,7 +2480,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": true
+      "weekly_done": true,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "王泡泡组（负责pm：王雪琪）",
@@ -2307,7 +2512,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "王泡泡组（负责pm：王雪琪）",
@@ -2336,7 +2544,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "王泡泡组（负责pm：王雪琪）",
@@ -2365,7 +2576,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "王泡泡组（负责pm：王雪琪）",
@@ -2394,7 +2608,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "王泡泡组（负责pm：王雪琪）",
@@ -2421,7 +2638,10 @@
       "observe_reason": "Excel 中有该学生记录，但没有与上课组合「877-陪伴大使-01」的可匹配老师「刘沙」匹配的记录；实际出现老师：陈祉宇（最近 2026-05-30｜陈祉宇｜已上课｜教学）。请核对当前老师、历史老师或备注中的别名。",
       "abnormal_reason": "",
       "match_modes": [],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "王泡泡组（负责pm：王雪琪）",
@@ -2450,7 +2670,10 @@
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "王泡泡组（负责pm：王雪琪）",
@@ -2477,7 +2700,10 @@
       "observe_reason": "Excel 中有该学生记录，但没有与上课组合「811-陪伴大使-01」的可匹配老师「唐鲜红」匹配的记录；实际出现老师：王天勤（最近 2026-06-07｜王天勤｜已上课｜英语辅导6.7）。请核对当前老师、历史老师或备注中的别名。",
       "abnormal_reason": "",
       "match_modes": [],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     },
     {
       "label": "王泡泡组（负责pm：王雪琪）",
@@ -2504,7 +2730,10 @@
       "observe_reason": "Excel 中有该学生记录，但没有与上课组合「881-陪伴大使-01」的可匹配老师「黄丽华」匹配的记录；实际出现老师：冯宇昕（最近 2026-05-16｜冯宇昕｜已上课｜第三十节课）。请核对当前老师、历史老师或备注中的别名。",
       "abnormal_reason": "",
       "match_modes": [],
-      "weekly_done": false
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": ""
     }
   ],
   "abnormal": [
@@ -2534,55 +2763,6 @@
       "type": "陪伴大使",
       "group": "薛瀚轩-郭全来",
       "reason": "最近一次已上课为 2026-05-22，间隔已超过 4 周",
-      "weekly_summary": "本期无记录"
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "学科辅导",
-      "group": "吴珏雨-吴宇伦",
-      "reason": "最近一次已上课为 2026-06-14，截至 2026-06-28 已间隔 14 天",
-      "weekly_summary": "本期无记录"
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "学科辅导",
-      "group": "张浩泽-顾文勋",
-      "reason": "最近一次已上课为 2026-05-20，截至 2026-06-28 已间隔 39 天",
-      "weekly_summary": "本期无记录"
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "学科辅导",
-      "group": "方文惠-张炜喆",
-      "reason": "最近一次已上课为 2026-06-05，截至 2026-06-28 已间隔 23 天",
-      "weekly_summary": "本期无记录"
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "学科辅导",
-      "group": "方文惠-陈计言",
-      "reason": "最近一次已上课为 2026-06-06，截至 2026-06-28 已间隔 22 天",
-      "weekly_summary": "本期无记录"
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "学科辅导",
-      "group": "杨一凡-吴化育",
-      "reason": "最近一次已上课为 2026-06-14，截至 2026-06-28 已间隔 14 天",
-      "weekly_summary": "本期无记录"
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "学科辅导",
-      "group": "贾雨昕-石子慧",
-      "reason": "最近一次已上课为 2026-06-06，截至 2026-06-28 已间隔 22 天",
-      "weekly_summary": "本期无记录"
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "学科辅导",
-      "group": "贾雨昕-邹倚歌",
-      "reason": "最近一次已上课为 2026-06-14，截至 2026-06-28 已间隔 14 天",
       "weekly_summary": "本期无记录"
     },
     {
@@ -2771,48 +2951,6 @@
       "type": "陪伴大使",
       "group": "薛瀚轩-郭全来",
       "reason": "最近一次已上课为 2026-05-22，间隔已超过 4 周"
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "学科辅导",
-      "group": "吴珏雨-吴宇伦",
-      "reason": "最近一次已上课为 2026-06-14，截至 2026-06-28 已间隔 14 天"
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "学科辅导",
-      "group": "张浩泽-顾文勋",
-      "reason": "最近一次已上课为 2026-05-20，截至 2026-06-28 已间隔 39 天"
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "学科辅导",
-      "group": "方文惠-张炜喆",
-      "reason": "最近一次已上课为 2026-06-05，截至 2026-06-28 已间隔 23 天"
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "学科辅导",
-      "group": "方文惠-陈计言",
-      "reason": "最近一次已上课为 2026-06-06，截至 2026-06-28 已间隔 22 天"
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "学科辅导",
-      "group": "杨一凡-吴化育",
-      "reason": "最近一次已上课为 2026-06-14，截至 2026-06-28 已间隔 14 天"
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "学科辅导",
-      "group": "贾雨昕-石子慧",
-      "reason": "最近一次已上课为 2026-06-06，截至 2026-06-28 已间隔 22 天"
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "学科辅导",
-      "group": "贾雨昕-邹倚歌",
-      "reason": "最近一次已上课为 2026-06-14，截至 2026-06-28 已间隔 14 天"
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
