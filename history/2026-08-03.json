@@ -3,16 +3,16 @@
   "section_title": "2026-08-03",
   "week_start": "2026-08-03",
   "week_end": "2026-08-09",
-  "generated_at": "2026-08-10 09:22:10",
+  "generated_at": "2026-08-13 22:11:32",
   "excel_path": "/workspace/tvt/TVT上课记录.xlsx",
   "metrics": {
     "groups_total": 69,
-    "completed": 8,
-    "not_completed": 61,
-    "completion_rate": 12,
-    "abnormal_total": 33,
-    "long_term_low_total": 33,
-    "unmatched_total": 83,
+    "completed": 9,
+    "not_completed": 60,
+    "completion_rate": 13,
+    "abnormal_total": 32,
+    "long_term_low_total": 32,
+    "unmatched_total": 80,
     "student_teacher_groups": 79
   },
   "group_cards": [
@@ -63,20 +63,19 @@
     {
       "label": "大爱清尘（负责pm：张继奇点）",
       "time": "2026-08-03 至 2026-08-09",
-      "completed": 5,
+      "completed": 6,
       "total": 8,
-      "not_completed": 3,
-      "rate": 62,
+      "not_completed": 2,
+      "rate": 75,
       "sections": [
         {
           "type": "学科辅导",
-          "completed": 5,
+          "completed": 6,
           "total": 7,
           "not_completed": [
-            "冯诗琪-金芮西（本期无记录）",
             "邢璐瑜-沈志远（本期无记录）"
           ],
-          "rate": 71
+          "rate": 86
         },
         {
           "type": "陪伴大使",
@@ -1139,28 +1138,33 @@
       "relation_id": "988-学科辅导-01",
       "student_id": "988",
       "student": "冯诗琪",
-      "teacher": "金芮西",
-      "current_teacher": "金芮西",
-      "historical_teachers": [],
-      "teacher_aliases": [
+      "teacher": "徐翰",
+      "current_teacher": "徐翰",
+      "historical_teachers": [
         "金芮西"
       ],
-      "name": "冯诗琪-金芮西",
-      "weekly_summary": "本期无记录",
-      "weekly_completed_dates": [],
+      "teacher_aliases": [
+        "徐翰",
+        "金芮西"
+      ],
+      "name": "冯诗琪-徐翰",
+      "weekly_summary": "有已上课记录",
+      "weekly_completed_dates": [
+        "2026-08-06"
+      ],
       "weekly_non_completed_statuses": [],
-      "last_completed": "2026-06-20",
-      "recent_28_completed": 0,
-      "recent_35_completed": 0,
-      "consecutive_missed_weeks": 7,
-      "long_term_level": "low",
-      "long_term_reason": "最近一次已上课为 2026-06-20，截至 2026-08-09 已间隔 50 天",
+      "last_completed": "2026-08-06",
+      "recent_28_completed": 4,
+      "recent_35_completed": 4,
+      "consecutive_missed_weeks": 0,
+      "long_term_level": "ok",
+      "long_term_reason": "",
       "observe_reason": "",
-      "abnormal_reason": "最近一次已上课为 2026-06-20，截至 2026-08-09 已间隔 50 天",
+      "abnormal_reason": "",
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false,
+      "weekly_done": true,
       "is_suspended": false,
       "class_status": "",
       "suspend_reason": ""
@@ -2792,13 +2796,6 @@
     {
       "label": "大爱清尘（负责pm：张继奇点）",
       "type": "学科辅导",
-      "group": "冯诗琪-金芮西",
-      "reason": "最近一次已上课为 2026-06-20，截至 2026-08-09 已间隔 50 天",
-      "weekly_summary": "本期无记录"
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "学科辅导",
       "group": "邢璐瑜-沈志远",
       "reason": "最近一次已上课为 2026-07-06，截至 2026-08-09 已间隔 34 天",
       "weekly_summary": "本期无记录"
@@ -3017,12 +3014,6 @@
     {
       "label": "大爱清尘（负责pm：张继奇点）",
       "type": "学科辅导",
-      "group": "冯诗琪-金芮西",
-      "reason": "最近一次已上课为 2026-06-20，截至 2026-08-09 已间隔 50 天"
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "学科辅导",
       "group": "邢璐瑜-沈志远",
       "reason": "最近一次已上课为 2026-07-06，截至 2026-08-09 已间隔 34 天"
     },
@@ -3165,5 +3156,5 @@
       "reason": "最近一次已上课为 2026-06-12，截至 2026-08-09 已间隔 58 天"
     }
   ],
-  "unmatched_total": 83
+  "unmatched_total": 80
 }
