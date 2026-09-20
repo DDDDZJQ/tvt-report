@@ -1,6 +1,6 @@
 {
   "site_title": "TVT 上课情况周报",
-  "updated_at": "2026-09-21 05:13:59",
+  "updated_at": "2026-09-21 06:03:45",
   "latest_section": "2026-09-14",
   "reports": [
     {
@@ -8,7 +8,7 @@
       "section_title": "2026-09-14",
       "week_start": "2026-09-14",
       "week_end": "2026-09-20",
-      "generated_at": "2026-09-21 05:13:59",
+      "generated_at": "2026-09-21 06:03:45",
       "excel_path": "/workspace/tvt/TVT上课记录.xlsx",
       "metrics": {
         "groups_total": 77,
@@ -3280,7 +3280,7 @@
       "section_title": "2026-09-07",
       "week_start": "2026-09-07",
       "week_end": "2026-09-13",
-      "generated_at": "2026-09-14 15:35:57",
+      "generated_at": "2026-09-14 06:11:51",
       "excel_path": "/workspace/tvt/TVT上课记录.xlsx",
       "metrics": {
         "groups_total": 68,
@@ -6489,7 +6489,7 @@
       "section_title": "2026-08-31",
       "week_start": "2026-08-31",
       "week_end": "2026-09-06",
-      "generated_at": "2026-09-07 13:47:44",
+      "generated_at": "2026-09-07 06:12:14",
       "excel_path": "/workspace/tvt/TVT上课记录.xlsx",
       "metrics": {
         "groups_total": 68,
