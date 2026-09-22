@@ -544,6 +544,19 @@ body {
 }
 
 </style>
+
+<style id="pm-nav-style">
+.pm-navbar { display:flex; align-items:center; gap:8px; flex-wrap:wrap; }
+.pm-navbar a {
+  display:inline-flex; align-items:center; gap:5px;
+  font-size:12px; font-weight:400; text-decoration:none;
+  color:var(--accent2,#4A6699); background:var(--accent-soft,#E7ECF4);
+  border:1px solid var(--line,#D7DCE3); border-radius:9px;
+  padding:6px 11px; transition:.15s; white-space:nowrap;
+}
+.pm-navbar a:hover { color:var(--accent,#1B2D55); border-color:var(--accent2,#4A6699); }
+.pm-navbar .pm-nav-label { font-size:11px; color:var(--muted,#5C6A7C); margin-right:2px; }
+</style>
 </head>
 <body>
 
@@ -568,6 +581,7 @@ body {
   </span>
   <span class="tb-sep"></span>
   <span class="tb-meta" id="topMeta"></span>
+      <div class="pm-navbar"><span class="pm-nav-label">PM 看板</span><a href="pm-zhangjiqi.html">张继奇点 · 专属看板</a></div><!-- PM_NAV_INJECTED -->
 </header>
 
 <div class="info-bar">
@@ -577,7 +591,7 @@ body {
   </div>
   <div class="info-item">
     <span class="info-label">页面更新</span>
-    <span class="info-value" id="updateTime">2026-09-21 05:14:20</span>
+    <span class="info-value" id="updateTime">2026-09-22 10:32:30</span>
   </div>
   <span class="info-sep"></span>
 </div>
