@@ -3,41 +3,39 @@
   "section_title": "2026-09-21",
   "week_start": "2026-09-21",
   "week_end": "2026-09-27",
-  "generated_at": "2026-09-28 06:03:11",
+  "generated_at": "2026-09-28 05:14:04",
   "excel_path": "/workspace/tvt/TVT上课记录.xlsx",
   "metrics": {
     "groups_total": 77,
-    "completed": 0,
-    "not_completed": 77,
-    "completion_rate": 0,
-    "abnormal_total": 47,
-    "long_term_low_total": 47,
-    "unmatched_total": 120,
+    "completed": 5,
+    "not_completed": 72,
+    "completion_rate": 6,
+    "abnormal_total": 45,
+    "long_term_low_total": 45,
+    "unmatched_total": 121,
     "student_teacher_groups": 77
   },
   "group_cards": [
     {
       "label": "一老一小组 负责pm： judyzhe",
       "time": "2026-09-21 至 2026-09-27",
-      "completed": 0,
+      "completed": 2,
       "total": 19,
-      "not_completed": 19,
-      "rate": 0,
+      "not_completed": 17,
+      "rate": 11,
       "sections": [
         {
           "type": "学科辅导",
-          "completed": 0,
+          "completed": 2,
           "total": 7,
           "not_completed": [
             "徐春菊-李奕（本期无记录）",
-            "梁诗雅-梁亦舸（本期无记录）",
             "李若思-孙希瑜（本期无记录）",
             "扎西-曾泳蓓（本期无记录）",
-            "扎西求措-隋馨予（本期无记录）",
             "伊西措-李玮彤（本期无记录）",
             "文索加措-徐敬承（本期无记录）"
           ],
-          "rate": 0
+          "rate": 29
         },
         {
           "type": "陪伴大使",
@@ -64,14 +62,14 @@
     {
       "label": "大爱清尘（负责pm：张继奇点）",
       "time": "2026-09-21 至 2026-09-27",
-      "completed": 0,
+      "completed": 2,
       "total": 16,
-      "not_completed": 16,
-      "rate": 0,
+      "not_completed": 14,
+      "rate": 12,
       "sections": [
         {
           "type": "学科辅导",
-          "completed": 0,
+          "completed": 1,
           "total": 13,
           "not_completed": [
             "张浩泽-顾文勋（本期无记录）",
@@ -85,21 +83,19 @@
             "方文惠-张炜喆（本期无记录）",
             "杜源朝-陈依依（本期无记录）",
             "杨一凡-吴化育（本期无记录）",
-            "吴珏雨-吴宇伦（本期无记录）",
-            "邢璐瑜-沈志远（本期无记录）"
+            "吴珏雨-吴宇伦（本期无记录）"
           ],
-          "rate": 0
+          "rate": 8
         },
         {
           "type": "陪伴大使",
-          "completed": 0,
+          "completed": 1,
           "total": 3,
           "not_completed": [
             "冯诗琪-冯文哲（本期无记录）",
-            "方文惠-李梦南（本期无记录）",
             "杨一凡-宋慧（本期无记录）"
           ],
-          "rate": 0
+          "rate": 33
         }
       ]
     },
@@ -145,14 +141,14 @@
     {
       "label": "张村小学Plus组（负责pm：熊伟）",
       "time": "2026-09-21 至 2026-09-27",
-      "completed": 0,
+      "completed": 1,
       "total": 18,
-      "not_completed": 18,
-      "rate": 0,
+      "not_completed": 17,
+      "rate": 6,
       "sections": [
         {
           "type": "学科辅导",
-          "completed": 0,
+          "completed": 1,
           "total": 16,
           "not_completed": [
             "袁婧瑜-张钰晗（本期无记录）",
@@ -162,7 +158,6 @@
             "崔子成-陈履一（本期无记录）",
             "杨子墨-张斯贻、张芮彤（本期无记录）",
             "吴非同-谢子容（本期无记录）",
-            "吴季迅-宋元辰（本期无记录）",
             "张鹤腾-李云飞（本期无记录）",
             "霍映麟-罗允睎（本期无记录）",
             "许雨桐-雷阳（本期无记录）",
@@ -172,7 +167,7 @@
             "彭博艺-胡书鸣（本期无记录）",
             "彭博艺-李奕萱（本期无记录）"
           ],
-          "rate": 0
+          "rate": 6
         },
         {
           "type": "陪伴大使",
@@ -666,21 +661,23 @@
         "隋馨予"
       ],
       "name": "扎西求措-隋馨予",
-      "weekly_summary": "本期无记录",
-      "weekly_completed_dates": [],
+      "weekly_summary": "有已上课记录",
+      "weekly_completed_dates": [
+        "2026-09-26"
+      ],
       "weekly_non_completed_statuses": [],
-      "last_completed": "2026-09-19",
-      "recent_28_completed": 3,
-      "recent_35_completed": 4,
-      "consecutive_missed_weeks": 1,
-      "long_term_level": "follow",
-      "long_term_reason": "最近一次已上课为 2026-09-19，上周未见完成课",
+      "last_completed": "2026-09-26",
+      "recent_28_completed": 4,
+      "recent_35_completed": 5,
+      "consecutive_missed_weeks": 0,
+      "long_term_level": "ok",
+      "long_term_reason": "",
       "observe_reason": "",
       "abnormal_reason": "",
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false,
+      "weekly_done": true,
       "is_suspended": false,
       "class_status": "",
       "suspend_reason": ""
@@ -758,21 +755,24 @@
         "梁亦舸"
       ],
       "name": "梁诗雅-梁亦舸",
-      "weekly_summary": "本期无记录",
-      "weekly_completed_dates": [],
+      "weekly_summary": "有已上课记录",
+      "weekly_completed_dates": [
+        "2026-09-25",
+        "2026-09-26"
+      ],
       "weekly_non_completed_statuses": [],
-      "last_completed": "2026-09-19",
-      "recent_28_completed": 1,
-      "recent_35_completed": 3,
-      "consecutive_missed_weeks": 1,
-      "long_term_level": "follow",
-      "long_term_reason": "最近一次已上课为 2026-09-19，上周未见完成课",
+      "last_completed": "2026-09-26",
+      "recent_28_completed": 3,
+      "recent_35_completed": 5,
+      "consecutive_missed_weeks": 0,
+      "long_term_level": "ok",
+      "long_term_reason": "",
       "observe_reason": "",
       "abnormal_reason": "",
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false,
+      "weekly_done": true,
       "is_suspended": false,
       "class_status": "",
       "suspend_reason": ""
@@ -1560,21 +1560,23 @@
         "沈志远"
       ],
       "name": "邢璐瑜-沈志远",
-      "weekly_summary": "本期无记录",
-      "weekly_completed_dates": [],
+      "weekly_summary": "有已上课记录",
+      "weekly_completed_dates": [
+        "2026-09-26"
+      ],
       "weekly_non_completed_statuses": [],
-      "last_completed": "2026-07-06",
-      "recent_28_completed": 0,
-      "recent_35_completed": 0,
-      "consecutive_missed_weeks": 7,
-      "long_term_level": "low",
-      "long_term_reason": "最近一次已上课为 2026-07-06，截至 2026-09-27 已间隔 83 天",
+      "last_completed": "2026-09-26",
+      "recent_28_completed": 1,
+      "recent_35_completed": 1,
+      "consecutive_missed_weeks": 0,
+      "long_term_level": "ok",
+      "long_term_reason": "",
       "observe_reason": "",
-      "abnormal_reason": "最近一次已上课为 2026-07-06，截至 2026-09-27 已间隔 83 天",
+      "abnormal_reason": "",
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false,
+      "weekly_done": true,
       "is_suspended": false,
       "class_status": "",
       "suspend_reason": ""
@@ -1624,21 +1626,23 @@
         "李梦南"
       ],
       "name": "方文惠-李梦南",
-      "weekly_summary": "本期无记录",
-      "weekly_completed_dates": [],
+      "weekly_summary": "有已上课记录",
+      "weekly_completed_dates": [
+        "2026-09-25"
+      ],
       "weekly_non_completed_statuses": [],
-      "last_completed": "2026-06-16",
-      "recent_28_completed": 0,
-      "recent_35_completed": 0,
-      "consecutive_missed_weeks": 7,
-      "long_term_level": "low",
-      "long_term_reason": "最近一次已上课为 2026-06-16，间隔已超过 4 周",
+      "last_completed": "2026-09-25",
+      "recent_28_completed": 1,
+      "recent_35_completed": 1,
+      "consecutive_missed_weeks": 0,
+      "long_term_level": "ok",
+      "long_term_reason": "",
       "observe_reason": "",
-      "abnormal_reason": "最近一次已上课为 2026-06-16，间隔已超过 4 周",
+      "abnormal_reason": "",
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false,
+      "weekly_done": true,
       "is_suspended": false,
       "class_status": "",
       "suspend_reason": ""
@@ -1688,21 +1692,23 @@
         "宋元辰"
       ],
       "name": "吴季迅-宋元辰",
-      "weekly_summary": "本期无记录",
-      "weekly_completed_dates": [],
+      "weekly_summary": "有已上课记录",
+      "weekly_completed_dates": [
+        "2026-09-26"
+      ],
       "weekly_non_completed_statuses": [],
-      "last_completed": "2026-09-18",
-      "recent_28_completed": 2,
-      "recent_35_completed": 3,
-      "consecutive_missed_weeks": 1,
-      "long_term_level": "follow",
-      "long_term_reason": "最近一次已上课为 2026-09-18，上周未见完成课",
+      "last_completed": "2026-09-26",
+      "recent_28_completed": 3,
+      "recent_35_completed": 4,
+      "consecutive_missed_weeks": 0,
+      "long_term_level": "ok",
+      "long_term_reason": "",
       "observe_reason": "",
       "abnormal_reason": "",
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false,
+      "weekly_done": true,
       "is_suspended": false,
       "class_status": "",
       "suspend_reason": ""
@@ -2806,23 +2812,9 @@
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "学科辅导",
-      "group": "邢璐瑜-沈志远",
-      "reason": "最近一次已上课为 2026-07-06，截至 2026-09-27 已间隔 83 天",
-      "weekly_summary": "本期无记录"
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
       "type": "陪伴大使",
       "group": "冯诗琪-冯文哲",
       "reason": "最近一次已上课为 2026-07-19，间隔已超过 4 周",
-      "weekly_summary": "本期无记录"
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "陪伴大使",
-      "group": "方文惠-李梦南",
-      "reason": "最近一次已上课为 2026-06-16，间隔已超过 4 周",
       "weekly_summary": "本期无记录"
     },
     {
@@ -3118,21 +3110,9 @@
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "学科辅导",
-      "group": "邢璐瑜-沈志远",
-      "reason": "最近一次已上课为 2026-07-06，截至 2026-09-27 已间隔 83 天"
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
       "type": "陪伴大使",
       "group": "冯诗琪-冯文哲",
       "reason": "最近一次已上课为 2026-07-19，间隔已超过 4 周"
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "陪伴大使",
-      "group": "方文惠-李梦南",
-      "reason": "最近一次已上课为 2026-06-16，间隔已超过 4 周"
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -3285,5 +3265,5 @@
       "reason": "最近一次已上课为 2026-06-12，截至 2026-09-27 已间隔 107 天"
     }
   ],
-  "unmatched_total": 120
+  "unmatched_total": 121
 }
