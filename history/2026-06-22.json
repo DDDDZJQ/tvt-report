@@ -6,14 +6,14 @@
   "generated_at": "2026-07-03 13:13:34",
   "excel_path": "TVT上课记录.xlsx",
   "metrics": {
-    "groups_total": 71,
-    "completed": 9,
-    "not_completed": 62,
-    "completion_rate": 13,
+    "groups_total": 76,
+    "completed": 8,
+    "not_completed": 68,
+    "completion_rate": 11,
     "abnormal_total": 27,
     "long_term_low_total": 27,
     "unmatched_total": 66,
-    "student_teacher_groups": 79
+    "student_teacher_groups": 76
   },
   "group_cards": [
     {
@@ -63,14 +63,14 @@
       "label": "大爱清尘（负责pm：张继奇点）",
       "time": "2026-06-22 至 2026-06-28",
       "completed": 4,
-      "total": 10,
-      "not_completed": 6,
-      "rate": 40,
+      "total": 7,
+      "not_completed": 3,
+      "rate": 57,
       "sections": [
         {
           "type": "学科辅导",
           "completed": 3,
-          "total": 8,
+          "total": 6,
           "not_completed": [
             "冯诗琪-金芮西（本期无记录）",
             "袁定瑞-董梓岩（本期无记录）",
@@ -78,16 +78,16 @@
             "邢璐瑜-浣婧怡（本期无记录）",
             "邢璐瑜-沈志远（本期无记录）"
           ],
-          "rate": 38
+          "rate": 50
         },
         {
           "type": "陪伴大使",
           "completed": 1,
-          "total": 2,
+          "total": 1,
           "not_completed": [
             "方文惠-李梦南（本期无记录）"
           ],
-          "rate": 50
+          "rate": 100
         }
       ]
     },
@@ -1510,70 +1510,6 @@
     {
       "label": "大爱清尘（负责pm：张继奇点）",
       "type": "学科辅导",
-      "relation_id": "986-学科辅导-01",
-      "student_id": "986",
-      "student": "贾雨昕",
-      "teacher": "石子慧",
-      "current_teacher": "石子慧",
-      "historical_teachers": [],
-      "teacher_aliases": [
-        "石子慧"
-      ],
-      "name": "贾雨昕-石子慧",
-      "weekly_summary": "本期无记录",
-      "weekly_completed_dates": [],
-      "weekly_non_completed_statuses": [],
-      "last_completed": "2026-06-06",
-      "recent_28_completed": 1,
-      "recent_35_completed": 2,
-      "consecutive_missed_weeks": 0,
-      "long_term_level": "suspended",
-      "long_term_reason": "暂停上课：暑期不上课",
-      "observe_reason": "",
-      "abnormal_reason": "",
-      "match_modes": [
-        "exact"
-      ],
-      "weekly_done": false,
-      "is_suspended": true,
-      "class_status": "暂停上课",
-      "suspend_reason": "暑期不上课"
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "学科辅导",
-      "relation_id": "986-学科辅导-02",
-      "student_id": "986",
-      "student": "贾雨昕",
-      "teacher": "邹倚歌",
-      "current_teacher": "邹倚歌",
-      "historical_teachers": [],
-      "teacher_aliases": [
-        "邹倚歌"
-      ],
-      "name": "贾雨昕-邹倚歌",
-      "weekly_summary": "本期无记录",
-      "weekly_completed_dates": [],
-      "weekly_non_completed_statuses": [],
-      "last_completed": "2026-06-14",
-      "recent_28_completed": 1,
-      "recent_35_completed": 2,
-      "consecutive_missed_weeks": 0,
-      "long_term_level": "suspended",
-      "long_term_reason": "暂停上课：暑期不上课",
-      "observe_reason": "",
-      "abnormal_reason": "",
-      "match_modes": [
-        "exact"
-      ],
-      "weekly_done": false,
-      "is_suspended": true,
-      "class_status": "暂停上课",
-      "suspend_reason": "暑期不上课"
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "学科辅导",
       "relation_id": "1001-学科辅导-02",
       "student_id": "1001",
       "student": "邢璐瑜",
@@ -1631,42 +1567,6 @@
         "exact"
       ],
       "weekly_done": false,
-      "is_suspended": false,
-      "class_status": "",
-      "suspend_reason": ""
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "陪伴大使",
-      "relation_id": "988-陪伴大使-01",
-      "student_id": "988",
-      "student": "冯诗琪",
-      "teacher": "冯文哲",
-      "current_teacher": "冯文哲",
-      "historical_teachers": [],
-      "teacher_aliases": [
-        "冯文哲"
-      ],
-      "name": "冯诗琪-冯文哲",
-      "weekly_summary": "有已上课记录",
-      "weekly_completed_dates": [
-        "2026-06-28"
-      ],
-      "weekly_non_completed_statuses": [
-        "待处理"
-      ],
-      "last_completed": "2026-06-28",
-      "recent_28_completed": 1,
-      "recent_35_completed": 1,
-      "consecutive_missed_weeks": 0,
-      "long_term_level": "ok",
-      "long_term_reason": "",
-      "observe_reason": "",
-      "abnormal_reason": "",
-      "match_modes": [
-        "exact"
-      ],
-      "weekly_done": true,
       "is_suspended": false,
       "class_status": "",
       "suspend_reason": ""
