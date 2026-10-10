@@ -3,17 +3,17 @@
   "section_title": "2026-09-28",
   "week_start": "2026-09-28",
   "week_end": "2026-10-04",
-  "generated_at": "2026-10-10 20:43:46",
+  "generated_at": "2026-10-10 22:11:11",
   "excel_path": "/workspace/tvt/TVT上课记录.xlsx",
   "metrics": {
-    "groups_total": 76,
+    "groups_total": 73,
     "completed": 5,
-    "not_completed": 71,
+    "not_completed": 68,
     "completion_rate": 7,
-    "abnormal_total": 44,
-    "long_term_low_total": 44,
-    "unmatched_total": 142,
-    "student_teacher_groups": 76
+    "abnormal_total": 41,
+    "long_term_low_total": 41,
+    "unmatched_total": 169,
+    "student_teacher_groups": 73
   },
   "group_cards": [
     {
@@ -64,18 +64,16 @@
       "label": "大爱清尘（负责pm：张继奇点）",
       "time": "2026-09-28 至 2026-10-04",
       "completed": 2,
-      "total": 15,
-      "not_completed": 13,
-      "rate": 13,
+      "total": 12,
+      "not_completed": 10,
+      "rate": 17,
       "sections": [
         {
           "type": "学科辅导",
           "completed": 2,
-          "total": 12,
+          "total": 10,
           "not_completed": [
             "张浩泽-顾文勋（本期无记录）",
-            "贾雨昕-石子慧（本期无记录）",
-            "贾雨昕-邹倚歌（本期无记录）",
             "冯诗琪-徐翰（本期无记录）",
             "袁定瑞-董梓岩（本期无记录）",
             "袁定瑞-陈景颐（本期无记录）",
@@ -84,14 +82,13 @@
             "吴珏雨-吴宇伦（本期无记录）",
             "邢璐瑜-沈志远（本期无记录）"
           ],
-          "rate": 17
+          "rate": 20
         },
         {
           "type": "陪伴大使",
           "completed": 0,
-          "total": 3,
+          "total": 2,
           "not_completed": [
-            "冯诗琪-冯文哲（本期无记录）",
             "方文惠-李梦南（本期无记录）",
             "杨一凡-宋慧（本期无记录）"
           ],
@@ -1245,7 +1242,7 @@
       "is_suspended": false,
       "class_status": "",
       "suspend_reason": "",
-      "remark": "英语--高一，这学期还没开始上课，需要尽快开始"
+      "remark": "数学--高一，这学期还没开始上课，需要尽快开始"
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -1493,72 +1490,6 @@
     {
       "label": "大爱清尘（负责pm：张继奇点）",
       "type": "学科辅导",
-      "relation_id": "986-学科辅导-01",
-      "student_id": "986",
-      "student": "贾雨昕",
-      "teacher": "石子慧",
-      "current_teacher": "石子慧",
-      "historical_teachers": [],
-      "teacher_aliases": [
-        "石子慧"
-      ],
-      "name": "贾雨昕-石子慧",
-      "weekly_summary": "本期无记录",
-      "weekly_completed_dates": [],
-      "weekly_non_completed_statuses": [],
-      "last_completed": "2026-06-06",
-      "recent_28_completed": 0,
-      "recent_35_completed": 0,
-      "consecutive_missed_weeks": 7,
-      "long_term_level": "low",
-      "long_term_reason": "最近一次已上课为 2026-06-06，截至 2026-10-04 已间隔 120 天",
-      "observe_reason": "",
-      "abnormal_reason": "最近一次已上课为 2026-06-06，截至 2026-10-04 已间隔 120 天",
-      "match_modes": [
-        "exact"
-      ],
-      "weekly_done": false,
-      "is_suspended": false,
-      "class_status": "已退出TVT",
-      "suspend_reason": "",
-      "remark": ""
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "学科辅导",
-      "relation_id": "986-学科辅导-02",
-      "student_id": "986",
-      "student": "贾雨昕",
-      "teacher": "邹倚歌",
-      "current_teacher": "邹倚歌",
-      "historical_teachers": [],
-      "teacher_aliases": [
-        "邹倚歌"
-      ],
-      "name": "贾雨昕-邹倚歌",
-      "weekly_summary": "本期无记录",
-      "weekly_completed_dates": [],
-      "weekly_non_completed_statuses": [],
-      "last_completed": "2026-06-14",
-      "recent_28_completed": 0,
-      "recent_35_completed": 0,
-      "consecutive_missed_weeks": 7,
-      "long_term_level": "low",
-      "long_term_reason": "最近一次已上课为 2026-06-14，截至 2026-10-04 已间隔 112 天",
-      "observe_reason": "",
-      "abnormal_reason": "最近一次已上课为 2026-06-14，截至 2026-10-04 已间隔 112 天",
-      "match_modes": [
-        "exact"
-      ],
-      "weekly_done": false,
-      "is_suspended": false,
-      "class_status": "已退出TVT",
-      "suspend_reason": "",
-      "remark": ""
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "学科辅导",
       "relation_id": "1001-学科辅导-02",
       "student_id": "1001",
       "student": "邢璐瑜",
@@ -1588,39 +1519,6 @@
       "class_status": "",
       "suspend_reason": "",
       "remark": "物理-高一、正常上课中"
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "陪伴大使",
-      "relation_id": "988-陪伴大使-01",
-      "student_id": "988",
-      "student": "冯诗琪",
-      "teacher": "冯文哲",
-      "current_teacher": "冯文哲",
-      "historical_teachers": [],
-      "teacher_aliases": [
-        "冯文哲"
-      ],
-      "name": "冯诗琪-冯文哲",
-      "weekly_summary": "本期无记录",
-      "weekly_completed_dates": [],
-      "weekly_non_completed_statuses": [],
-      "last_completed": "2026-07-19",
-      "recent_28_completed": 0,
-      "recent_35_completed": 0,
-      "consecutive_missed_weeks": 7,
-      "long_term_level": "low",
-      "long_term_reason": "最近一次已上课为 2026-07-19，间隔已超过 4 周",
-      "observe_reason": "",
-      "abnormal_reason": "最近一次已上课为 2026-07-19，间隔已超过 4 周",
-      "match_modes": [
-        "exact"
-      ],
-      "weekly_done": false,
-      "is_suspended": false,
-      "class_status": "已退出TVT",
-      "suspend_reason": "",
-      "remark": ""
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -2840,27 +2738,6 @@
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "学科辅导",
-      "group": "贾雨昕-石子慧",
-      "reason": "最近一次已上课为 2026-06-06，截至 2026-10-04 已间隔 120 天",
-      "weekly_summary": "本期无记录"
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "学科辅导",
-      "group": "贾雨昕-邹倚歌",
-      "reason": "最近一次已上课为 2026-06-14，截至 2026-10-04 已间隔 112 天",
-      "weekly_summary": "本期无记录"
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "陪伴大使",
-      "group": "冯诗琪-冯文哲",
-      "reason": "最近一次已上课为 2026-07-19，间隔已超过 4 周",
-      "weekly_summary": "本期无记录"
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
       "type": "陪伴大使",
       "group": "杨一凡-宋慧",
       "reason": "最近一次已上课为 2026-06-30，间隔已超过 4 周",
@@ -3133,24 +3010,6 @@
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "学科辅导",
-      "group": "贾雨昕-石子慧",
-      "reason": "最近一次已上课为 2026-06-06，截至 2026-10-04 已间隔 120 天"
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "学科辅导",
-      "group": "贾雨昕-邹倚歌",
-      "reason": "最近一次已上课为 2026-06-14，截至 2026-10-04 已间隔 112 天"
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "陪伴大使",
-      "group": "冯诗琪-冯文哲",
-      "reason": "最近一次已上课为 2026-07-19，间隔已超过 4 周"
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
       "type": "陪伴大使",
       "group": "杨一凡-宋慧",
       "reason": "最近一次已上课为 2026-06-30，间隔已超过 4 周"
@@ -3294,5 +3153,5 @@
       "reason": "最近一次已上课为 2026-06-12，截至 2026-10-04 已间隔 114 天"
     }
   ],
-  "unmatched_total": 142
+  "unmatched_total": 169
 }
