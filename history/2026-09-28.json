@@ -3,17 +3,17 @@
   "section_title": "2026-09-28",
   "week_start": "2026-09-28",
   "week_end": "2026-10-04",
-  "generated_at": "2026-10-10 20:17:41",
+  "generated_at": "2026-10-10 20:43:46",
   "excel_path": "/workspace/tvt/TVT上课记录.xlsx",
   "metrics": {
-    "groups_total": 77,
+    "groups_total": 76,
     "completed": 5,
-    "not_completed": 72,
-    "completion_rate": 6,
-    "abnormal_total": 45,
-    "long_term_low_total": 45,
-    "unmatched_total": 122,
-    "student_teacher_groups": 77
+    "not_completed": 71,
+    "completion_rate": 7,
+    "abnormal_total": 44,
+    "long_term_low_total": 44,
+    "unmatched_total": 142,
+    "student_teacher_groups": 76
   },
   "group_cards": [
     {
@@ -64,14 +64,14 @@
       "label": "大爱清尘（负责pm：张继奇点）",
       "time": "2026-09-28 至 2026-10-04",
       "completed": 2,
-      "total": 16,
-      "not_completed": 14,
-      "rate": 12,
+      "total": 15,
+      "not_completed": 13,
+      "rate": 13,
       "sections": [
         {
           "type": "学科辅导",
           "completed": 2,
-          "total": 13,
+          "total": 12,
           "not_completed": [
             "张浩泽-顾文勋（本期无记录）",
             "贾雨昕-石子慧（本期无记录）",
@@ -80,12 +80,11 @@
             "袁定瑞-董梓岩（本期无记录）",
             "袁定瑞-陈景颐（本期无记录）",
             "方文惠-张炜喆（本期无记录）",
-            "杜源朝-陈依依（本期无记录）",
             "杨一凡-吴化育（本期无记录）",
             "吴珏雨-吴宇伦（本期无记录）",
             "邢璐瑜-沈志远（本期无记录）"
           ],
-          "rate": 15
+          "rate": 17
         },
         {
           "type": "陪伴大使",
@@ -248,7 +247,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "一老一小组 负责pm： jojolei",
@@ -280,7 +280,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "一老一小组 负责pm： jojolei",
@@ -310,7 +311,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "一老一小组 负责pm： jojolei",
@@ -340,7 +342,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "一老一小组 负责pm： jojolei",
@@ -370,7 +373,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "一老一小组 负责pm： jojolei",
@@ -400,7 +404,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "一老一小组 负责pm： jojolei",
@@ -430,7 +435,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "一老一小组 负责pm： jojolei",
@@ -462,7 +468,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "一老一小组 负责pm： jojolei",
@@ -492,7 +499,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "一老一小组 负责pm： jojolei",
@@ -522,7 +530,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "一老一小组 负责pm： jojolei",
@@ -552,7 +561,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -584,7 +594,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -616,7 +627,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -646,7 +658,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -678,7 +691,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -708,7 +722,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -738,7 +753,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -772,7 +788,8 @@
       "weekly_done": true,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -804,7 +821,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -834,7 +852,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -864,7 +883,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -896,7 +916,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -926,7 +947,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -956,7 +978,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -988,7 +1011,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -1018,7 +1042,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -1048,7 +1073,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -1080,7 +1106,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -1112,7 +1139,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "一老一小组 负责pm： judyzhe",
@@ -1144,7 +1172,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -1179,7 +1208,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": "数学--正常上课中"
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -1214,7 +1244,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": "英语--高一，这学期还没开始上课，需要尽快开始"
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -1251,7 +1282,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": "待确定是否还上课"
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -1283,7 +1315,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": "物理--还没开始上课（10.16开始上课）"
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -1317,7 +1350,8 @@
       "weekly_done": true,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": "英语--正常上课中"
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -1354,39 +1388,8 @@
       "weekly_done": true,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "学科辅导",
-      "relation_id": "998-学科辅导-01",
-      "student_id": "998",
-      "student": "杜源朝",
-      "teacher": "陈依依",
-      "current_teacher": "陈依依",
-      "historical_teachers": [],
-      "teacher_aliases": [
-        "陈依依"
-      ],
-      "name": "杜源朝-陈依依",
-      "weekly_summary": "本期无记录",
-      "weekly_completed_dates": [],
-      "weekly_non_completed_statuses": [],
-      "last_completed": "2026-09-05",
-      "recent_28_completed": 0,
-      "recent_35_completed": 1,
-      "consecutive_missed_weeks": 4,
-      "long_term_level": "low",
-      "long_term_reason": "最近一次已上课为 2026-09-05，截至 2026-10-04 已间隔 29 天",
-      "observe_reason": "",
-      "abnormal_reason": "最近一次已上课为 2026-09-05，截至 2026-10-04 已间隔 29 天",
-      "match_modes": [
-        "exact"
-      ],
-      "weekly_done": false,
-      "is_suspended": false,
-      "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": "数学--正常上课中"
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -1418,7 +1421,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": "这学期还没开始上课，需要尽快开始"
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -1450,7 +1454,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": "数学--待确定是否还上课"
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -1482,7 +1487,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": "物理--待确定是否还上课"
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -1514,7 +1520,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "已退出TVT",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -1546,7 +1553,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "已退出TVT",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -1578,7 +1586,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": "物理-高一、正常上课中"
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -1610,7 +1619,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "已退出TVT",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -1642,7 +1652,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": "学生高一，继续陪伴"
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -1674,7 +1685,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": "这学期还没开始上课，需要尽快开始"
     },
     {
       "label": "张村小学Plus组（负责pm：熊伟）",
@@ -1708,7 +1720,8 @@
       "weekly_done": true,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "张村小学Plus组（负责pm：熊伟）",
@@ -1740,7 +1753,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "张村小学Plus组（负责pm：熊伟）",
@@ -1774,7 +1788,8 @@
       "weekly_done": true,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "张村小学Plus组（负责pm：熊伟）",
@@ -1806,7 +1821,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "张村小学Plus组（负责pm：熊伟）",
@@ -1838,7 +1854,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "张村小学Plus组（负责pm：熊伟）",
@@ -1870,7 +1887,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "张村小学Plus组（负责pm：熊伟）",
@@ -1902,7 +1920,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "张村小学Plus组（负责pm：熊伟）",
@@ -1934,7 +1953,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "张村小学Plus组（负责pm：熊伟）",
@@ -1966,7 +1986,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "张村小学Plus组（负责pm：熊伟）",
@@ -2001,7 +2022,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "张村小学Plus组（负责pm：熊伟）",
@@ -2037,7 +2059,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": "张斯贻、张芮彤两位老师同时为学生上课"
     },
     {
       "label": "张村小学Plus组（负责pm：熊伟）",
@@ -2072,7 +2095,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "张村小学Plus组（负责pm：熊伟）",
@@ -2104,7 +2128,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "张村小学Plus组（负责pm：熊伟）",
@@ -2134,7 +2159,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "张村小学Plus组（负责pm：熊伟）",
@@ -2166,7 +2192,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "张村小学Plus组（负责pm：熊伟）",
@@ -2198,7 +2225,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "张村小学Plus组（负责pm：熊伟）",
@@ -2230,7 +2258,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "张村小学Plus组（负责pm：熊伟）",
@@ -2262,7 +2291,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "王泡泡组（负责pm：王雪琪）",
@@ -2294,7 +2324,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "王泡泡组（负责pm：王雪琪）",
@@ -2326,7 +2357,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "王泡泡组（负责pm：王雪琪）",
@@ -2358,7 +2390,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "王泡泡组（负责pm：王雪琪）",
@@ -2390,7 +2423,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "王泡泡组（负责pm：王雪琪）",
@@ -2422,7 +2456,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "王泡泡组（负责pm：王雪琪）",
@@ -2454,7 +2489,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "王泡泡组（负责pm：王雪琪）",
@@ -2486,7 +2522,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "王泡泡组（负责pm：王雪琪）",
@@ -2518,7 +2555,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "王泡泡组（负责pm：王雪琪）",
@@ -2550,7 +2588,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "王泡泡组（负责pm：王雪琪）",
@@ -2580,7 +2619,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "王泡泡组（负责pm：王雪琪）",
@@ -2612,7 +2652,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "王泡泡组（负责pm：王雪琪）",
@@ -2642,7 +2683,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     },
     {
       "label": "王泡泡组（负责pm：王雪琪）",
@@ -2672,7 +2714,8 @@
       "weekly_done": false,
       "is_suspended": false,
       "class_status": "",
-      "suspend_reason": ""
+      "suspend_reason": "",
+      "remark": ""
     }
   ],
   "abnormal": [
@@ -2772,13 +2815,6 @@
       "type": "学科辅导",
       "group": "方文惠-张炜喆",
       "reason": "最近一次已上课为 2026-06-05，截至 2026-10-04 已间隔 121 天",
-      "weekly_summary": "本期无记录"
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "学科辅导",
-      "group": "杜源朝-陈依依",
-      "reason": "最近一次已上课为 2026-09-05，截至 2026-10-04 已间隔 29 天",
       "weekly_summary": "本期无记录"
     },
     {
@@ -3080,12 +3116,6 @@
     {
       "label": "大爱清尘（负责pm：张继奇点）",
       "type": "学科辅导",
-      "group": "杜源朝-陈依依",
-      "reason": "最近一次已上课为 2026-09-05，截至 2026-10-04 已间隔 29 天"
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "学科辅导",
       "group": "杨一凡-吴化育",
       "reason": "最近一次已上课为 2026-06-14，截至 2026-10-04 已间隔 112 天"
     },
@@ -3264,5 +3294,5 @@
       "reason": "最近一次已上课为 2026-06-12，截至 2026-10-04 已间隔 114 天"
     }
   ],
-  "unmatched_total": 122
+  "unmatched_total": 142
 }
