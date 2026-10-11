@@ -3,16 +3,16 @@
   "section_title": "2026-10-05",
   "week_start": "2026-10-05",
   "week_end": "2026-10-11",
-  "generated_at": "2026-10-10 20:43:52",
+  "generated_at": "2026-10-12 05:36:57",
   "excel_path": "/workspace/tvt/TVT上课记录.xlsx",
   "metrics": {
     "groups_total": 73,
-    "completed": 5,
-    "not_completed": 68,
-    "completion_rate": 7,
+    "completed": 6,
+    "not_completed": 67,
+    "completion_rate": 8,
     "abnormal_total": 40,
     "long_term_low_total": 40,
-    "unmatched_total": 142,
+    "unmatched_total": 172,
     "student_teacher_groups": 73
   },
   "group_cards": [
@@ -63,26 +63,25 @@
     {
       "label": "大爱清尘（负责pm：张继奇点）",
       "time": "2026-10-05 至 2026-10-11",
-      "completed": 2,
+      "completed": 3,
       "total": 12,
-      "not_completed": 10,
-      "rate": 17,
+      "not_completed": 9,
+      "rate": 25,
       "sections": [
         {
           "type": "学科辅导",
-          "completed": 2,
+          "completed": 3,
           "total": 10,
           "not_completed": [
             "张浩泽-顾文勋（本期无记录）",
             "李思莹-季昕昱（本期无记录）",
-            "李思莹-张家妮（本期无记录）",
             "袁定瑞-董梓岩（本期无记录）",
             "袁定瑞-陈景颐（本期无记录）",
             "方文惠-张炜喆（本期无记录）",
             "杨一凡-吴化育（本期无记录）",
             "吴珏雨-吴宇伦（本期无记录）"
           ],
-          "rate": 20
+          "rate": 30
         },
         {
           "type": "陪伴大使",
@@ -1190,12 +1189,13 @@
       "name": "冯诗琪-徐翰",
       "weekly_summary": "有已上课记录",
       "weekly_completed_dates": [
-        "2026-10-06"
+        "2026-10-06",
+        "2026-10-11"
       ],
       "weekly_non_completed_statuses": [],
-      "last_completed": "2026-10-06",
-      "recent_28_completed": 1,
-      "recent_35_completed": 2,
+      "last_completed": "2026-10-11",
+      "recent_28_completed": 2,
+      "recent_35_completed": 3,
       "consecutive_missed_weeks": 0,
       "long_term_level": "ok",
       "long_term_reason": "",
@@ -1244,7 +1244,7 @@
       "is_suspended": false,
       "class_status": "",
       "suspend_reason": "",
-      "remark": "英语--高一，这学期还没开始上课，需要尽快开始"
+      "remark": "数学--高一，这学期还没开始上课，需要尽快开始"
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -1366,21 +1366,23 @@
         "王逸晴"
       ],
       "name": "李思莹-张家妮",
-      "weekly_summary": "本期无记录",
-      "weekly_completed_dates": [],
+      "weekly_summary": "有已上课记录",
+      "weekly_completed_dates": [
+        "2026-10-11"
+      ],
       "weekly_non_completed_statuses": [],
-      "last_completed": "2026-10-04",
-      "recent_28_completed": 2,
-      "recent_35_completed": 3,
-      "consecutive_missed_weeks": 1,
-      "long_term_level": "follow",
-      "long_term_reason": "最近一次已上课为 2026-10-04，上周未见完成课",
+      "last_completed": "2026-10-11",
+      "recent_28_completed": 3,
+      "recent_35_completed": 4,
+      "consecutive_missed_weeks": 0,
+      "long_term_level": "ok",
+      "long_term_reason": "",
       "observe_reason": "",
       "abnormal_reason": "",
       "match_modes": [
         "exact"
       ],
-      "weekly_done": false,
+      "weekly_done": true,
       "is_suspended": false,
       "class_status": "",
       "suspend_reason": "",
@@ -3141,5 +3143,5 @@
       "reason": "最近一次已上课为 2026-06-12，截至 2026-10-11 已间隔 121 天"
     }
   ],
-  "unmatched_total": 142
+  "unmatched_total": 172
 }
