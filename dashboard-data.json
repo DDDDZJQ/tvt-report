@@ -1,6 +1,6 @@
 {
   "site_title": "TVT 上课情况周报",
-  "updated_at": "2026-10-12 06:11:09",
+  "updated_at": "2026-10-12 05:36:57",
   "latest_section": "2026-10-05",
   "reports": [
     {
@@ -8,7 +8,7 @@
       "section_title": "2026-10-05",
       "week_start": "2026-10-05",
       "week_end": "2026-10-11",
-      "generated_at": "2026-10-12 06:11:09",
+      "generated_at": "2026-10-12 05:36:57",
       "excel_path": "/workspace/tvt/TVT上课记录.xlsx",
       "metrics": {
         "groups_total": 73,
@@ -3155,17 +3155,17 @@
       "section_title": "2026-09-28",
       "week_start": "2026-09-28",
       "week_end": "2026-10-04",
-      "generated_at": "2026-10-10 22:11:11",
+      "generated_at": "2026-10-10 20:17:41",
       "excel_path": "/workspace/tvt/TVT上课记录.xlsx",
       "metrics": {
-        "groups_total": 73,
+        "groups_total": 74,
         "completed": 5,
-        "not_completed": 68,
+        "not_completed": 69,
         "completion_rate": 7,
-        "abnormal_total": 41,
-        "long_term_low_total": 41,
-        "unmatched_total": 169,
-        "student_teacher_groups": 73
+        "abnormal_total": 42,
+        "long_term_low_total": 42,
+        "unmatched_total": 122,
+        "student_teacher_groups": 74
       },
       "group_cards": [
         {
@@ -3216,31 +3216,35 @@
           "label": "大爱清尘（负责pm：张继奇点）",
           "time": "2026-09-28 至 2026-10-04",
           "completed": 2,
-          "total": 12,
-          "not_completed": 10,
-          "rate": 17,
+          "total": 16,
+          "not_completed": 14,
+          "rate": 12,
           "sections": [
             {
               "type": "学科辅导",
               "completed": 2,
-              "total": 10,
+              "total": 13,
               "not_completed": [
                 "张浩泽-顾文勋（本期无记录）",
+                "贾雨昕-石子慧（本期无记录）",
+                "贾雨昕-邹倚歌（本期无记录）",
                 "冯诗琪-徐翰（本期无记录）",
                 "袁定瑞-董梓岩（本期无记录）",
                 "袁定瑞-陈景颐（本期无记录）",
                 "方文惠-张炜喆（本期无记录）",
+                "杜源朝-陈依依（本期无记录）",
                 "杨一凡-吴化育（本期无记录）",
                 "吴珏雨-吴宇伦（本期无记录）",
                 "邢璐瑜-沈志远（本期无记录）"
               ],
-              "rate": 20
+              "rate": 15
             },
             {
               "type": "陪伴大使",
               "completed": 0,
-              "total": 2,
+              "total": 3,
               "not_completed": [
+                "冯诗琪-冯文哲（本期无记录）",
                 "方文惠-李梦南（本期无记录）",
                 "杨一凡-宋慧（本期无记录）"
               ],
@@ -3396,8 +3400,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "一老一小组 负责pm： jojolei",
@@ -3429,8 +3432,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "一老一小组 负责pm： jojolei",
@@ -3460,8 +3462,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "一老一小组 负责pm： jojolei",
@@ -3491,8 +3492,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "一老一小组 负责pm： jojolei",
@@ -3522,8 +3522,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "一老一小组 负责pm： jojolei",
@@ -3553,8 +3552,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "一老一小组 负责pm： jojolei",
@@ -3584,8 +3582,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "一老一小组 负责pm： jojolei",
@@ -3617,8 +3614,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "一老一小组 负责pm： jojolei",
@@ -3648,8 +3644,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "一老一小组 负责pm： jojolei",
@@ -3679,8 +3674,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "一老一小组 负责pm： jojolei",
@@ -3710,8 +3704,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "一老一小组 负责pm： judyzhe",
@@ -3743,8 +3736,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "一老一小组 负责pm： judyzhe",
@@ -3776,8 +3768,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "一老一小组 负责pm： judyzhe",
@@ -3807,8 +3798,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "一老一小组 负责pm： judyzhe",
@@ -3840,8 +3830,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "一老一小组 负责pm： judyzhe",
@@ -3871,8 +3860,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "一老一小组 负责pm： judyzhe",
@@ -3902,8 +3890,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "一老一小组 负责pm： judyzhe",
@@ -3937,8 +3924,7 @@
           "weekly_done": true,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "一老一小组 负责pm： judyzhe",
@@ -3970,8 +3956,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "一老一小组 负责pm： judyzhe",
@@ -4001,8 +3986,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "一老一小组 负责pm： judyzhe",
@@ -4032,8 +4016,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "一老一小组 负责pm： judyzhe",
@@ -4065,8 +4048,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "一老一小组 负责pm： judyzhe",
@@ -4096,8 +4078,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "一老一小组 负责pm： judyzhe",
@@ -4127,8 +4108,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "一老一小组 负责pm： judyzhe",
@@ -4160,8 +4140,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "一老一小组 负责pm： judyzhe",
@@ -4191,8 +4170,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "一老一小组 负责pm： judyzhe",
@@ -4222,8 +4200,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "一老一小组 负责pm： judyzhe",
@@ -4255,8 +4232,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "一老一小组 负责pm： judyzhe",
@@ -4288,8 +4264,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "一老一小组 负责pm： judyzhe",
@@ -4321,8 +4296,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "大爱清尘（负责pm：张继奇点）",
@@ -4357,8 +4331,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": "数学--正常上课中"
+          "suspend_reason": ""
         },
         {
           "label": "大爱清尘（负责pm：张继奇点）",
@@ -4393,8 +4366,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": "数学--高一，这学期还没开始上课，需要尽快开始"
+          "suspend_reason": ""
         },
         {
           "label": "大爱清尘（负责pm：张继奇点）",
@@ -4431,8 +4403,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": "待确定是否还上课"
+          "suspend_reason": ""
         },
         {
           "label": "大爱清尘（负责pm：张继奇点）",
@@ -4464,8 +4435,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": "物理--还没开始上课（10.16开始上课）"
+          "suspend_reason": ""
         },
         {
           "label": "大爱清尘（负责pm：张继奇点）",
@@ -4499,8 +4469,7 @@
           "weekly_done": true,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": "英语--正常上课中"
+          "suspend_reason": ""
         },
         {
           "label": "大爱清尘（负责pm：张继奇点）",
@@ -4537,8 +4506,39 @@
           "weekly_done": true,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": "数学--正常上课中"
+          "suspend_reason": ""
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "relation_id": "998-学科辅导-01",
+          "student_id": "998",
+          "student": "杜源朝",
+          "teacher": "陈依依",
+          "current_teacher": "陈依依",
+          "historical_teachers": [],
+          "teacher_aliases": [
+            "陈依依"
+          ],
+          "name": "杜源朝-陈依依",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-09-05",
+          "recent_28_completed": 0,
+          "recent_35_completed": 1,
+          "consecutive_missed_weeks": 4,
+          "long_term_level": "low",
+          "long_term_reason": "最近一次已上课为 2026-09-05，截至 2026-10-04 已间隔 29 天",
+          "observe_reason": "",
+          "abnormal_reason": "最近一次已上课为 2026-09-05，截至 2026-10-04 已间隔 29 天",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false,
+          "is_suspended": false,
+          "class_status": "",
+          "suspend_reason": ""
         },
         {
           "label": "大爱清尘（负责pm：张继奇点）",
@@ -4570,8 +4570,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": "这学期还没开始上课，需要尽快开始"
+          "suspend_reason": ""
         },
         {
           "label": "大爱清尘（负责pm：张继奇点）",
@@ -4603,8 +4602,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": "数学--待确定是否还上课"
+          "suspend_reason": ""
         },
         {
           "label": "大爱清尘（负责pm：张继奇点）",
@@ -4636,8 +4634,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": "物理--待确定是否还上课"
+          "suspend_reason": ""
         },
         {
           "label": "大爱清尘（负责pm：张继奇点）",
@@ -4669,8 +4666,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": "物理-高一、正常上课中"
+          "suspend_reason": ""
         },
         {
           "label": "大爱清尘（负责pm：张继奇点）",
@@ -4702,8 +4698,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": "学生高一，继续陪伴"
+          "suspend_reason": ""
         },
         {
           "label": "大爱清尘（负责pm：张继奇点）",
@@ -4735,8 +4730,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": "这学期还没开始上课，需要尽快开始"
+          "suspend_reason": ""
         },
         {
           "label": "张村小学Plus组（负责pm：熊伟）",
@@ -4770,8 +4764,7 @@
           "weekly_done": true,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "张村小学Plus组（负责pm：熊伟）",
@@ -4803,8 +4796,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "张村小学Plus组（负责pm：熊伟）",
@@ -4838,8 +4830,7 @@
           "weekly_done": true,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "张村小学Plus组（负责pm：熊伟）",
@@ -4871,8 +4862,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "张村小学Plus组（负责pm：熊伟）",
@@ -4904,8 +4894,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "张村小学Plus组（负责pm：熊伟）",
@@ -4937,8 +4926,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "张村小学Plus组（负责pm：熊伟）",
@@ -4970,8 +4958,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "张村小学Plus组（负责pm：熊伟）",
@@ -5003,8 +4990,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "张村小学Plus组（负责pm：熊伟）",
@@ -5036,8 +5022,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "张村小学Plus组（负责pm：熊伟）",
@@ -5072,8 +5057,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "张村小学Plus组（负责pm：熊伟）",
@@ -5109,8 +5093,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": "张斯贻、张芮彤两位老师同时为学生上课"
+          "suspend_reason": ""
         },
         {
           "label": "张村小学Plus组（负责pm：熊伟）",
@@ -5145,8 +5128,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "张村小学Plus组（负责pm：熊伟）",
@@ -5178,8 +5160,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "张村小学Plus组（负责pm：熊伟）",
@@ -5209,8 +5190,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "张村小学Plus组（负责pm：熊伟）",
@@ -5242,8 +5222,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "张村小学Plus组（负责pm：熊伟）",
@@ -5275,8 +5254,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "张村小学Plus组（负责pm：熊伟）",
@@ -5308,8 +5286,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "张村小学Plus组（负责pm：熊伟）",
@@ -5341,8 +5318,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "王泡泡组（负责pm：王雪琪）",
@@ -5374,8 +5350,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "王泡泡组（负责pm：王雪琪）",
@@ -5407,8 +5382,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "王泡泡组（负责pm：王雪琪）",
@@ -5440,8 +5414,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "王泡泡组（负责pm：王雪琪）",
@@ -5473,8 +5446,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "王泡泡组（负责pm：王雪琪）",
@@ -5506,8 +5478,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "王泡泡组（负责pm：王雪琪）",
@@ -5539,8 +5510,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "王泡泡组（负责pm：王雪琪）",
@@ -5572,8 +5542,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "王泡泡组（负责pm：王雪琪）",
@@ -5605,8 +5574,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "王泡泡组（负责pm：王雪琪）",
@@ -5638,8 +5606,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "王泡泡组（负责pm：王雪琪）",
@@ -5669,8 +5636,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "王泡泡组（负责pm：王雪琪）",
@@ -5702,8 +5668,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "王泡泡组（负责pm：王雪琪）",
@@ -5733,8 +5698,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         },
         {
           "label": "王泡泡组（负责pm：王雪琪）",
@@ -5764,8 +5728,7 @@
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
-          "suspend_reason": "",
-          "remark": ""
+          "suspend_reason": ""
         }
       ],
       "abnormal": [
@@ -5865,6 +5828,13 @@
           "type": "学科辅导",
           "group": "方文惠-张炜喆",
           "reason": "最近一次已上课为 2026-06-05，截至 2026-10-04 已间隔 121 天",
+          "weekly_summary": "本期无记录"
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "group": "杜源朝-陈依依",
+          "reason": "最近一次已上课为 2026-09-05，截至 2026-10-04 已间隔 29 天",
           "weekly_summary": "本期无记录"
         },
         {
@@ -6145,6 +6115,12 @@
         {
           "label": "大爱清尘（负责pm：张继奇点）",
           "type": "学科辅导",
+          "group": "杜源朝-陈依依",
+          "reason": "最近一次已上课为 2026-09-05，截至 2026-10-04 已间隔 29 天"
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
           "group": "杨一凡-吴化育",
           "reason": "最近一次已上课为 2026-06-14，截至 2026-10-04 已间隔 112 天"
         },
@@ -6305,7 +6281,7 @@
           "reason": "最近一次已上课为 2026-06-12，截至 2026-10-04 已间隔 114 天"
         }
       ],
-      "unmatched_total": 169
+      "unmatched_total": 122
     },
     {
       "title": "TVT 上课情况周报",
@@ -6372,16 +6348,18 @@
           "label": "大爱清尘（负责pm：张继奇点）",
           "time": "2026-09-21 至 2026-09-27",
           "completed": 2,
-          "total": 13,
-          "not_completed": 11,
-          "rate": 15,
+          "total": 16,
+          "not_completed": 14,
+          "rate": 12,
           "sections": [
             {
               "type": "学科辅导",
               "completed": 1,
-              "total": 11,
+              "total": 13,
               "not_completed": [
                 "张浩泽-顾文勋（本期无记录）",
+                "贾雨昕-石子慧（本期无记录）",
+                "贾雨昕-邹倚歌（本期无记录）",
                 "李思莹-季昕昱（本期无记录）",
                 "李思莹-张家妮（本期无记录）",
                 "冯诗琪-徐翰（本期无记录）",
@@ -6392,16 +6370,17 @@
                 "杨一凡-吴化育（本期无记录）",
                 "吴珏雨-吴宇伦（本期无记录）"
               ],
-              "rate": 9
+              "rate": 8
             },
             {
               "type": "陪伴大使",
               "completed": 1,
-              "total": 2,
+              "total": 3,
               "not_completed": [
+                "冯诗琪-冯文哲（本期无记录）",
                 "杨一凡-宋慧（本期无记录）"
               ],
-              "rate": 50
+              "rate": 33
             }
           ]
         },
@@ -9502,16 +9481,18 @@
           "label": "大爱清尘（负责pm：张继奇点）",
           "time": "2026-09-14 至 2026-09-20",
           "completed": 2,
-          "total": 13,
-          "not_completed": 11,
-          "rate": 15,
+          "total": 16,
+          "not_completed": 14,
+          "rate": 12,
           "sections": [
             {
               "type": "学科辅导",
               "completed": 2,
-              "total": 11,
+              "total": 13,
               "not_completed": [
                 "张浩泽-顾文勋（本期无记录）",
+                "贾雨昕-石子慧（本期无记录）",
+                "贾雨昕-邹倚歌（本期无记录）",
                 "冯诗琪-徐翰（本期无记录）",
                 "袁定瑞-董梓岩（本期无记录）",
                 "袁定瑞-陈景颐（本期无记录）",
@@ -9521,13 +9502,14 @@
                 "吴珏雨-吴宇伦（本期无记录）",
                 "邢璐瑜-沈志远（本期无记录）"
               ],
-              "rate": 18
+              "rate": 15
             },
             {
               "type": "陪伴大使",
               "completed": 0,
-              "total": 2,
+              "total": 3,
               "not_completed": [
+                "冯诗琪-冯文哲（本期无记录）",
                 "方文惠-李梦南（本期无记录）",
                 "杨一凡-宋慧（本期无记录）"
               ],
@@ -12638,26 +12620,28 @@
           "label": "大爱清尘（负责pm：张继奇点）",
           "time": "2026-09-07 至 2026-09-13",
           "completed": 3,
-          "total": 4,
-          "not_completed": 1,
-          "rate": 75,
+          "total": 7,
+          "not_completed": 4,
+          "rate": 43,
           "sections": [
             {
               "type": "学科辅导",
               "completed": 3,
-              "total": 4,
+              "total": 6,
               "not_completed": [
                 "张浩泽-顾文勋（本期无记录）",
                 "杜源朝-陈依依（本期无记录）",
                 "邢璐瑜-沈志远（本期无记录）"
               ],
-              "rate": 75
+              "rate": 50
             },
             {
               "type": "陪伴大使",
               "completed": 0,
-              "total": 0,
-              "not_completed": [],
+              "total": 1,
+              "not_completed": [
+                "冯诗琪-冯文哲（本期无记录）"
+              ],
               "rate": 0
             }
           ]
@@ -15736,25 +15720,27 @@
           "label": "大爱清尘（负责pm：张继奇点）",
           "time": "2026-08-31 至 2026-09-06",
           "completed": 4,
-          "total": 4,
-          "not_completed": 0,
-          "rate": 100,
+          "total": 7,
+          "not_completed": 3,
+          "rate": 57,
           "sections": [
             {
               "type": "学科辅导",
               "completed": 4,
-              "total": 4,
+              "total": 6,
               "not_completed": [
                 "张浩泽-顾文勋（本期无记录）",
                 "邢璐瑜-沈志远（本期无记录）"
               ],
-              "rate": 100
+              "rate": 67
             },
             {
               "type": "陪伴大使",
               "completed": 0,
-              "total": 0,
-              "not_completed": [],
+              "total": 1,
+              "not_completed": [
+                "冯诗琪-冯文哲（本期无记录）"
+              ],
               "rate": 0
             }
           ]
@@ -18818,25 +18804,27 @@
           "label": "大爱清尘（负责pm：张继奇点）",
           "time": "2026-08-24 至 2026-08-30",
           "completed": 4,
-          "total": 4,
-          "not_completed": 0,
-          "rate": 100,
+          "total": 7,
+          "not_completed": 3,
+          "rate": 57,
           "sections": [
             {
               "type": "学科辅导",
               "completed": 4,
-              "total": 4,
+              "total": 6,
               "not_completed": [
                 "李思莹-张家妮（本期无记录）",
                 "邢璐瑜-沈志远（本期无记录）"
               ],
-              "rate": 100
+              "rate": 67
             },
             {
               "type": "陪伴大使",
               "completed": 0,
-              "total": 0,
-              "not_completed": [],
+              "total": 1,
+              "not_completed": [
+                "冯诗琪-冯文哲（本期无记录）"
+              ],
               "rate": 0
             }
           ]
@@ -21906,26 +21894,28 @@
           "label": "大爱清尘（负责pm：张继奇点）",
           "time": "2026-08-17 至 2026-08-23",
           "completed": 3,
-          "total": 4,
-          "not_completed": 1,
-          "rate": 75,
+          "total": 7,
+          "not_completed": 4,
+          "rate": 43,
           "sections": [
             {
               "type": "学科辅导",
               "completed": 3,
-              "total": 4,
+              "total": 6,
               "not_completed": [
                 "张浩泽-顾文勋（本期无记录）",
                 "杜源朝-陈依依（本期无记录）",
                 "邢璐瑜-沈志远（本期无记录）"
               ],
-              "rate": 75
+              "rate": 50
             },
             {
               "type": "陪伴大使",
               "completed": 0,
-              "total": 0,
-              "not_completed": [],
+              "total": 1,
+              "not_completed": [
+                "冯诗琪-冯文哲（本期无记录）"
+              ],
               "rate": 0
             }
           ]
@@ -25014,25 +25004,27 @@
           "label": "大爱清尘（负责pm：张继奇点）",
           "time": "2026-08-10 至 2026-08-16",
           "completed": 5,
-          "total": 5,
-          "not_completed": 0,
-          "rate": 100,
+          "total": 8,
+          "not_completed": 3,
+          "rate": 62,
           "sections": [
             {
               "type": "学科辅导",
               "completed": 5,
-              "total": 5,
+              "total": 7,
               "not_completed": [
                 "杜源朝-陈依依（本期无记录）",
                 "邢璐瑜-沈志远（本期无记录）"
               ],
-              "rate": 100
+              "rate": 71
             },
             {
               "type": "陪伴大使",
               "completed": 0,
-              "total": 0,
-              "not_completed": [],
+              "total": 1,
+              "not_completed": [
+                "冯诗琪-冯文哲（本期无记录）"
+              ],
               "rate": 0
             }
           ]
@@ -28103,24 +28095,26 @@
           "label": "大爱清尘（负责pm：张继奇点）",
           "time": "2026-08-03 至 2026-08-09",
           "completed": 6,
-          "total": 5,
-          "not_completed": 0,
-          "rate": 120,
+          "total": 8,
+          "not_completed": 2,
+          "rate": 75,
           "sections": [
             {
               "type": "学科辅导",
               "completed": 6,
-              "total": 5,
+              "total": 7,
               "not_completed": [
                 "邢璐瑜-沈志远（本期无记录）"
               ],
-              "rate": 120
+              "rate": 86
             },
             {
               "type": "陪伴大使",
               "completed": 0,
-              "total": 0,
-              "not_completed": [],
+              "total": 1,
+              "not_completed": [
+                "冯诗琪-冯文哲（本期无记录）"
+              ],
               "rate": 0
             }
           ]
@@ -31165,14 +31159,14 @@
           "label": "大爱清尘（负责pm：张继奇点）",
           "time": "2026-07-27 至 2026-08-02",
           "completed": 2,
-          "total": 5,
-          "not_completed": 3,
-          "rate": 40,
+          "total": 8,
+          "not_completed": 6,
+          "rate": 25,
           "sections": [
             {
               "type": "学科辅导",
               "completed": 2,
-              "total": 5,
+              "total": 7,
               "not_completed": [
                 "张浩泽-顾文勋（本期无记录）",
                 "李思莹-张家妮（本期无记录）",
@@ -31180,13 +31174,15 @@
                 "杜源朝-陈依依（本期无记录）",
                 "邢璐瑜-沈志远（本期无记录）"
               ],
-              "rate": 40
+              "rate": 29
             },
             {
               "type": "陪伴大使",
               "completed": 0,
-              "total": 0,
-              "not_completed": [],
+              "total": 1,
+              "not_completed": [
+                "冯诗琪-冯文哲（本期无记录）"
+              ],
               "rate": 0
             }
           ]
@@ -34219,27 +34215,29 @@
           "label": "大爱清尘（负责pm：张继奇点）",
           "time": "2026-07-20 至 2026-07-26",
           "completed": 3,
-          "total": 5,
-          "not_completed": 2,
-          "rate": 60,
+          "total": 8,
+          "not_completed": 5,
+          "rate": 38,
           "sections": [
             {
               "type": "学科辅导",
               "completed": 3,
-              "total": 5,
+              "total": 7,
               "not_completed": [
                 "李思莹-季昕昱（本期无记录）",
                 "冯诗琪-金芮西（本期无记录）",
                 "邢璐瑜-陈计言（本期无记录）",
                 "邢璐瑜-沈志远（本期无记录）"
               ],
-              "rate": 60
+              "rate": 43
             },
             {
               "type": "陪伴大使",
               "completed": 0,
-              "total": 0,
-              "not_completed": [],
+              "total": 1,
+              "not_completed": [
+                "冯诗琪-冯文哲（本期无记录）"
+              ],
               "rate": 0
             }
           ]
@@ -37277,28 +37275,28 @@
           "label": "大爱清尘（负责pm：张继奇点）",
           "time": "2026-07-13 至 2026-07-19",
           "completed": 6,
-          "total": 7,
-          "not_completed": 1,
-          "rate": 86,
+          "total": 10,
+          "not_completed": 4,
+          "rate": 60,
           "sections": [
             {
               "type": "学科辅导",
               "completed": 5,
-              "total": 7,
+              "total": 9,
               "not_completed": [
                 "冯诗琪-金芮西（本期无记录）",
                 "袁定瑞-董梓岩（本期无记录）",
                 "杜源朝-陈依依（本期无记录）",
                 "邢璐瑜-沈志远（本期无记录）"
               ],
-              "rate": 71
+              "rate": 56
             },
             {
               "type": "陪伴大使",
               "completed": 1,
-              "total": 0,
+              "total": 1,
               "not_completed": [],
-              "rate": 0
+              "rate": 100
             }
           ]
         },
@@ -40325,27 +40323,29 @@
           "label": "大爱清尘（负责pm：张继奇点）",
           "time": "2026-07-06 至 2026-07-12",
           "completed": 4,
-          "total": 6,
-          "not_completed": 2,
-          "rate": 67,
+          "total": 9,
+          "not_completed": 5,
+          "rate": 44,
           "sections": [
             {
               "type": "学科辅导",
               "completed": 4,
-              "total": 6,
+              "total": 8,
               "not_completed": [
                 "冯诗琪-金芮西（本期无记录）",
                 "袁定瑞-董梓岩（本期无记录）",
                 "杜源朝-陈依依（本期无记录）",
                 "邢璐瑜-浣婧怡（本期无记录）"
               ],
-              "rate": 67
+              "rate": 50
             },
             {
               "type": "陪伴大使",
               "completed": 0,
-              "total": 0,
-              "not_completed": [],
+              "total": 1,
+              "not_completed": [
+                "冯诗琪-冯文哲（本期无记录）"
+              ],
               "rate": 0
             }
           ]
@@ -43384,25 +43384,26 @@
           "label": "大爱清尘（负责pm：张继奇点）",
           "time": "2026-06-29 至 2026-07-05",
           "completed": 6,
-          "total": 7,
-          "not_completed": 1,
-          "rate": 86,
+          "total": 10,
+          "not_completed": 4,
+          "rate": 60,
           "sections": [
             {
               "type": "学科辅导",
               "completed": 6,
-              "total": 6,
+              "total": 8,
               "not_completed": [
                 "冯诗琪-金芮西（本期无记录）",
                 "袁定瑞-董梓岩（本期无记录）"
               ],
-              "rate": 100
+              "rate": 75
             },
             {
               "type": "陪伴大使",
               "completed": 0,
-              "total": 1,
+              "total": 2,
               "not_completed": [
+                "冯诗琪-冯文哲（本期无记录）",
                 "方文惠-李梦南（本期无记录）"
               ],
               "rate": 0
@@ -46427,14 +46428,14 @@
           "label": "大爱清尘（负责pm：张继奇点）",
           "time": "2026-06-22 至 2026-06-28",
           "completed": 4,
-          "total": 7,
-          "not_completed": 3,
-          "rate": 57,
+          "total": 10,
+          "not_completed": 6,
+          "rate": 40,
           "sections": [
             {
               "type": "学科辅导",
               "completed": 3,
-              "total": 6,
+              "total": 8,
               "not_completed": [
                 "冯诗琪-金芮西（本期无记录）",
                 "袁定瑞-董梓岩（本期无记录）",
@@ -46442,16 +46443,16 @@
                 "邢璐瑜-浣婧怡（本期无记录）",
                 "邢璐瑜-沈志远（本期无记录）"
               ],
-              "rate": 50
+              "rate": 38
             },
             {
               "type": "陪伴大使",
               "completed": 1,
-              "total": 1,
+              "total": 2,
               "not_completed": [
                 "方文惠-李梦南（本期无记录）"
               ],
-              "rate": 100
+              "rate": 50
             }
           ]
         },
@@ -49421,16 +49422,18 @@
           "label": "大爱清尘（负责pm：张继奇点）",
           "time": "2026-06-15 至 2026-06-21",
           "completed": 7,
-          "total": 15,
-          "not_completed": 8,
-          "rate": 47,
+          "total": 18,
+          "not_completed": 11,
+          "rate": 39,
           "sections": [
             {
               "type": "学科辅导",
               "completed": 5,
-              "total": 13,
+              "total": 15,
               "not_completed": [
                 "张浩泽-顾文勋（本期无记录）",
+                "贾雨昕-石子慧（本期无记录）",
+                "贾雨昕-邹倚歌（本期无记录）",
                 "袁定瑞-陈景颐（本期无记录）",
                 "方文惠-陈计言（本期无记录）",
                 "方文惠-张炜喆（本期无记录）",
@@ -49439,14 +49442,16 @@
                 "邢璐瑜-浣婧怡（本期无记录）",
                 "邢璐瑜-沈志远（本期无记录）"
               ],
-              "rate": 38
+              "rate": 33
             },
             {
               "type": "陪伴大使",
               "completed": 2,
-              "total": 2,
-              "not_completed": [],
-              "rate": 100
+              "total": 3,
+              "not_completed": [
+                "冯诗琪-冯文哲（本期无记录）"
+              ],
+              "rate": 67
             }
           ]
         },
@@ -52160,29 +52165,31 @@
           "label": "大爱清尘（负责pm：张继奇点）",
           "time": "2026-06-09 至 2026-06-15",
           "completed": 8,
-          "total": 15,
-          "not_completed": 7,
-          "rate": 53,
+          "total": 18,
+          "not_completed": 10,
+          "rate": 44,
           "sections": [
             {
               "type": "学科辅导",
               "completed": 8,
-              "total": 13,
+              "total": 15,
               "not_completed": [
                 "张浩泽-顾文勋（本期无记录）",
+                "贾雨昕-石子慧（本期无记录）",
                 "冯诗琪-金芮西（本期无记录）",
                 "袁定瑞-董梓岩（本期无记录）",
                 "方文惠-陈计言（本期无记录）",
                 "方文惠-张炜喆（本期无记录）",
                 "邢璐瑜-浣婧怡（本期无记录）"
               ],
-              "rate": 62
+              "rate": 53
             },
             {
               "type": "陪伴大使",
               "completed": 0,
-              "total": 2,
+              "total": 3,
               "not_completed": [
+                "冯诗琪-冯文哲（本期无记录）",
                 "方文惠-李梦南（本期无记录）",
                 "杨一凡-宋慧（本期无记录）"
               ],
