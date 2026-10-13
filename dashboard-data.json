@@ -1,6 +1,6 @@
 {
   "site_title": "TVT 上课情况周报",
-  "updated_at": "2026-10-12 05:36:57",
+  "updated_at": "2026-10-13 15:34:46",
   "latest_section": "2026-10-05",
   "reports": [
     {
@@ -8,21 +8,21 @@
       "section_title": "2026-10-05",
       "week_start": "2026-10-05",
       "week_end": "2026-10-11",
-      "generated_at": "2026-10-12 05:36:57",
+      "generated_at": "2026-10-13 15:34:46",
       "excel_path": "/workspace/tvt/TVT上课记录.xlsx",
       "metrics": {
-        "groups_total": 73,
+        "groups_total": 74,
         "completed": 6,
-        "not_completed": 67,
+        "not_completed": 68,
         "completion_rate": 8,
-        "abnormal_total": 40,
-        "long_term_low_total": 40,
-        "unmatched_total": 172,
-        "student_teacher_groups": 73
+        "abnormal_total": 41,
+        "long_term_low_total": 41,
+        "unmatched_total": 161,
+        "student_teacher_groups": 74
       },
       "group_cards": [
         {
-          "label": "一老一小组 负责pm： judyzhe",
+          "label": "一老一小组（负责pm：judyzhe）",
           "time": "2026-10-05 至 2026-10-11",
           "completed": 1,
           "total": 19,
@@ -69,24 +69,25 @@
           "label": "大爱清尘（负责pm：张继奇点）",
           "time": "2026-10-05 至 2026-10-11",
           "completed": 3,
-          "total": 12,
-          "not_completed": 9,
-          "rate": 25,
+          "total": 13,
+          "not_completed": 10,
+          "rate": 23,
           "sections": [
             {
               "type": "学科辅导",
               "completed": 3,
-              "total": 10,
+              "total": 11,
               "not_completed": [
                 "张浩泽-顾文勋（本期无记录）",
                 "李思莹-季昕昱（本期无记录）",
                 "袁定瑞-董梓岩（本期无记录）",
                 "袁定瑞-陈景颐（本期无记录）",
+                "方文惠-陈雨歌（本期无记录）",
                 "方文惠-张炜喆（本期无记录）",
                 "杨一凡-吴化育（本期无记录）",
                 "吴珏雨-吴宇伦（本期无记录）"
               ],
-              "rate": 30
+              "rate": 27
             },
             {
               "type": "陪伴大使",
@@ -182,7 +183,7 @@
           ]
         },
         {
-          "label": "一老一小组 负责pm： jojolei",
+          "label": "一老一小组（负责pm：jojolei）",
           "time": "2026-10-05 至 2026-10-11",
           "completed": 0,
           "total": 11,
@@ -221,7 +222,7 @@
       ],
       "all_groups": [
         {
-          "label": "一老一小组 负责pm： jojolei",
+          "label": "一老一小组（负责pm：jojolei）",
           "type": "学科辅导",
           "relation_id": "1031-学科辅导-01",
           "student_id": "1031",
@@ -252,7 +253,7 @@
           "remark": ""
         },
         {
-          "label": "一老一小组 负责pm： jojolei",
+          "label": "一老一小组（负责pm：jojolei）",
           "type": "学科辅导",
           "relation_id": "1028-学科辅导-01",
           "student_id": "1028",
@@ -285,7 +286,7 @@
           "remark": ""
         },
         {
-          "label": "一老一小组 负责pm： jojolei",
+          "label": "一老一小组（负责pm：jojolei）",
           "type": "学科辅导",
           "relation_id": "1024-学科辅导-01",
           "student_id": "1024",
@@ -316,7 +317,7 @@
           "remark": ""
         },
         {
-          "label": "一老一小组 负责pm： jojolei",
+          "label": "一老一小组（负责pm：jojolei）",
           "type": "陪伴大使",
           "relation_id": "1032-陪伴大使-01",
           "student_id": "1032",
@@ -347,7 +348,7 @@
           "remark": ""
         },
         {
-          "label": "一老一小组 负责pm： jojolei",
+          "label": "一老一小组（负责pm：jojolei）",
           "type": "陪伴大使",
           "relation_id": "1027-陪伴大使-01",
           "student_id": "1027",
@@ -378,7 +379,7 @@
           "remark": ""
         },
         {
-          "label": "一老一小组 负责pm： jojolei",
+          "label": "一老一小组（负责pm：jojolei）",
           "type": "陪伴大使",
           "relation_id": "1033-陪伴大使-01",
           "student_id": "1033",
@@ -409,7 +410,7 @@
           "remark": ""
         },
         {
-          "label": "一老一小组 负责pm： jojolei",
+          "label": "一老一小组（负责pm：jojolei）",
           "type": "陪伴大使",
           "relation_id": "1026-陪伴大使-01",
           "student_id": "1026",
@@ -440,7 +441,7 @@
           "remark": ""
         },
         {
-          "label": "一老一小组 负责pm： jojolei",
+          "label": "一老一小组（负责pm：jojolei）",
           "type": "陪伴大使",
           "relation_id": "1030-陪伴大使-01",
           "student_id": "1030",
@@ -473,7 +474,7 @@
           "remark": ""
         },
         {
-          "label": "一老一小组 负责pm： jojolei",
+          "label": "一老一小组（负责pm：jojolei）",
           "type": "陪伴大使",
           "relation_id": "1029-陪伴大使-01",
           "student_id": "1029",
@@ -504,7 +505,7 @@
           "remark": ""
         },
         {
-          "label": "一老一小组 负责pm： jojolei",
+          "label": "一老一小组（负责pm：jojolei）",
           "type": "陪伴大使",
           "relation_id": "1025-陪伴大使-01",
           "student_id": "1025",
@@ -535,7 +536,7 @@
           "remark": ""
         },
         {
-          "label": "一老一小组 负责pm： jojolei",
+          "label": "一老一小组（负责pm：jojolei）",
           "type": "陪伴大使",
           "relation_id": "1023-陪伴大使-01",
           "student_id": "1023",
@@ -566,7 +567,7 @@
           "remark": ""
         },
         {
-          "label": "一老一小组 负责pm： judyzhe",
+          "label": "一老一小组（负责pm：judyzhe）",
           "type": "学科辅导",
           "relation_id": "1020-学科辅导-01",
           "student_id": "1020",
@@ -599,7 +600,7 @@
           "remark": ""
         },
         {
-          "label": "一老一小组 负责pm： judyzhe",
+          "label": "一老一小组（负责pm：judyzhe）",
           "type": "学科辅导",
           "relation_id": "1012-学科辅导-01",
           "student_id": "1012",
@@ -632,7 +633,7 @@
           "remark": ""
         },
         {
-          "label": "一老一小组 负责pm： judyzhe",
+          "label": "一老一小组（负责pm：judyzhe）",
           "type": "学科辅导",
           "relation_id": "1018-学科辅导-01",
           "student_id": "1018",
@@ -663,7 +664,7 @@
           "remark": ""
         },
         {
-          "label": "一老一小组 负责pm： judyzhe",
+          "label": "一老一小组（负责pm：judyzhe）",
           "type": "学科辅导",
           "relation_id": "1019-学科辅导-01",
           "student_id": "1019",
@@ -698,7 +699,7 @@
           "remark": ""
         },
         {
-          "label": "一老一小组 负责pm： judyzhe",
+          "label": "一老一小组（负责pm：judyzhe）",
           "type": "学科辅导",
           "relation_id": "1021-学科辅导-01",
           "student_id": "1021",
@@ -729,7 +730,7 @@
           "remark": ""
         },
         {
-          "label": "一老一小组 负责pm： judyzhe",
+          "label": "一老一小组（负责pm：judyzhe）",
           "type": "学科辅导",
           "relation_id": "1015-学科辅导-01",
           "student_id": "1015",
@@ -760,7 +761,7 @@
           "remark": ""
         },
         {
-          "label": "一老一小组 负责pm： judyzhe",
+          "label": "一老一小组（负责pm：judyzhe）",
           "type": "学科辅导",
           "relation_id": "1013-学科辅导-01",
           "student_id": "1013",
@@ -793,7 +794,7 @@
           "remark": ""
         },
         {
-          "label": "一老一小组 负责pm： judyzhe",
+          "label": "一老一小组（负责pm：judyzhe）",
           "type": "陪伴大使",
           "relation_id": "1020-陪伴大使-01",
           "student_id": "1020",
@@ -826,7 +827,7 @@
           "remark": ""
         },
         {
-          "label": "一老一小组 负责pm： judyzhe",
+          "label": "一老一小组（负责pm：judyzhe）",
           "type": "陪伴大使",
           "relation_id": "1016-陪伴大使-01",
           "student_id": "1016",
@@ -857,7 +858,7 @@
           "remark": ""
         },
         {
-          "label": "一老一小组 负责pm： judyzhe",
+          "label": "一老一小组（负责pm：judyzhe）",
           "type": "陪伴大使",
           "relation_id": "1017-陪伴大使-01",
           "student_id": "1017",
@@ -888,7 +889,7 @@
           "remark": ""
         },
         {
-          "label": "一老一小组 负责pm： judyzhe",
+          "label": "一老一小组（负责pm：judyzhe）",
           "type": "陪伴大使",
           "relation_id": "1012-陪伴大使-01",
           "student_id": "1012",
@@ -921,7 +922,7 @@
           "remark": ""
         },
         {
-          "label": "一老一小组 负责pm： judyzhe",
+          "label": "一老一小组（负责pm：judyzhe）",
           "type": "陪伴大使",
           "relation_id": "1022-陪伴大使-01",
           "student_id": "1022",
@@ -952,7 +953,7 @@
           "remark": ""
         },
         {
-          "label": "一老一小组 负责pm： judyzhe",
+          "label": "一老一小组（负责pm：judyzhe）",
           "type": "陪伴大使",
           "relation_id": "1018-陪伴大使-01",
           "student_id": "1018",
@@ -983,7 +984,7 @@
           "remark": ""
         },
         {
-          "label": "一老一小组 负责pm： judyzhe",
+          "label": "一老一小组（负责pm：judyzhe）",
           "type": "陪伴大使",
           "relation_id": "1019-陪伴大使-01",
           "student_id": "1019",
@@ -1016,7 +1017,7 @@
           "remark": ""
         },
         {
-          "label": "一老一小组 负责pm： judyzhe",
+          "label": "一老一小组（负责pm：judyzhe）",
           "type": "陪伴大使",
           "relation_id": "1021-陪伴大使-01",
           "student_id": "1021",
@@ -1047,7 +1048,7 @@
           "remark": ""
         },
         {
-          "label": "一老一小组 负责pm： judyzhe",
+          "label": "一老一小组（负责pm：judyzhe）",
           "type": "陪伴大使",
           "relation_id": "1011-陪伴大使-01",
           "student_id": "1011",
@@ -1078,7 +1079,7 @@
           "remark": ""
         },
         {
-          "label": "一老一小组 负责pm： judyzhe",
+          "label": "一老一小组（负责pm：judyzhe）",
           "type": "陪伴大使",
           "relation_id": "1015-陪伴大使-01",
           "student_id": "1015",
@@ -1111,7 +1112,7 @@
           "remark": ""
         },
         {
-          "label": "一老一小组 负责pm： judyzhe",
+          "label": "一老一小组（负责pm：judyzhe）",
           "type": "陪伴大使",
           "relation_id": "1013-陪伴大使-01",
           "student_id": "1013",
@@ -1144,7 +1145,7 @@
           "remark": ""
         },
         {
-          "label": "一老一小组 负责pm： judyzhe",
+          "label": "一老一小组（负责pm：judyzhe）",
           "type": "陪伴大使",
           "relation_id": "1014-陪伴大使-01",
           "student_id": "1014",
@@ -1249,7 +1250,7 @@
           "is_suspended": false,
           "class_status": "",
           "suspend_reason": "",
-          "remark": "数学--高一，这学期还没开始上课，需要尽快开始"
+          "remark": "数学--高一，这学期还没开始上课，需要尽快开始1111111"
         },
         {
           "label": "大爱清尘（负责pm：张继奇点）",
@@ -1321,6 +1322,42 @@
           "class_status": "",
           "suspend_reason": "",
           "remark": "物理--还没开始上课（10.16开始上课）"
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "relation_id": "992-学科辅导-01",
+          "student_id": "992",
+          "student": "方文惠",
+          "teacher": "陈雨歌",
+          "current_teacher": "陈雨歌",
+          "historical_teachers": [
+            "陈计言"
+          ],
+          "teacher_aliases": [
+            "陈雨歌",
+            "陈计言"
+          ],
+          "name": "方文惠-陈雨歌",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-06-06",
+          "recent_28_completed": 0,
+          "recent_35_completed": 0,
+          "consecutive_missed_weeks": 7,
+          "long_term_level": "low",
+          "long_term_reason": "最近一次已上课为 2026-06-06，截至 2026-10-11 已间隔 127 天",
+          "observe_reason": "",
+          "abnormal_reason": "最近一次已上课为 2026-06-06，截至 2026-10-11 已间隔 127 天",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false,
+          "is_suspended": false,
+          "class_status": "",
+          "suspend_reason": "",
+          "remark": "数学--高一、还没开始上课"
         },
         {
           "label": "大爱清尘（负责pm：张继奇点）",
@@ -2626,70 +2663,70 @@
       ],
       "abnormal": [
         {
-          "label": "一老一小组 负责pm： jojolei",
+          "label": "一老一小组（负责pm：jojolei）",
           "type": "学科辅导",
           "group": "土旦扎西-王纳川",
           "reason": "最近一次已上课为 2026-07-12，截至 2026-10-11 已间隔 91 天",
           "weekly_summary": "本期无记录"
         },
         {
-          "label": "一老一小组 负责pm： jojolei",
+          "label": "一老一小组（负责pm：jojolei）",
           "type": "陪伴大使",
           "group": "王浩宇-陈锦鑫",
           "reason": "最近一次已上课为 2026-06-05，间隔已超过 4 周",
           "weekly_summary": "本期无记录"
         },
         {
-          "label": "一老一小组 负责pm： judyzhe",
+          "label": "一老一小组（负责pm：judyzhe）",
           "type": "学科辅导",
           "group": "伊西措-李玮彤",
           "reason": "最近一次已上课为 2026-09-15，截至 2026-10-11 已间隔 26 天",
           "weekly_summary": "本期无记录"
         },
         {
-          "label": "一老一小组 负责pm： judyzhe",
+          "label": "一老一小组（负责pm：judyzhe）",
           "type": "学科辅导",
           "group": "徐春菊-李奕",
           "reason": "最近一次已上课为 2026-06-06，截至 2026-10-11 已间隔 127 天",
           "weekly_summary": "本期无记录"
         },
         {
-          "label": "一老一小组 负责pm： judyzhe",
+          "label": "一老一小组（负责pm：judyzhe）",
           "type": "陪伴大使",
           "group": "伊西措-林文裕",
           "reason": "最近一次已上课为 2026-07-05，间隔已超过 4 周",
           "weekly_summary": "本期无记录"
         },
         {
-          "label": "一老一小组 负责pm： judyzhe",
+          "label": "一老一小组（负责pm：judyzhe）",
           "type": "陪伴大使",
           "group": "徐春菊-骆念蓓",
           "reason": "最近一次已上课为 2026-07-22，间隔已超过 4 周",
           "weekly_summary": "本期无记录"
         },
         {
-          "label": "一老一小组 负责pm： judyzhe",
+          "label": "一老一小组（负责pm：judyzhe）",
           "type": "陪伴大使",
           "group": "扎西求措-丁秀洁",
           "reason": "最近一次已上课为 2026-05-15，间隔已超过 4 周",
           "weekly_summary": "本期无记录"
         },
         {
-          "label": "一老一小组 负责pm： judyzhe",
+          "label": "一老一小组（负责pm：judyzhe）",
           "type": "陪伴大使",
           "group": "李若思-王婷",
           "reason": "最近一次已上课为 2026-07-11，间隔已超过 4 周",
           "weekly_summary": "本期无记录"
         },
         {
-          "label": "一老一小组 负责pm： judyzhe",
+          "label": "一老一小组（负责pm：judyzhe）",
           "type": "陪伴大使",
           "group": "梁诗雅-李芸珂",
           "reason": "最近一次已上课为 2026-05-30，间隔已超过 4 周",
           "weekly_summary": "本期无记录"
         },
         {
-          "label": "一老一小组 负责pm： judyzhe",
+          "label": "一老一小组（负责pm：judyzhe）",
           "type": "陪伴大使",
           "group": "薛瀚轩-郭全来",
           "reason": "最近一次已上课为 2026-05-22，间隔已超过 4 周",
@@ -2714,6 +2751,13 @@
           "type": "学科辅导",
           "group": "方文惠-张炜喆",
           "reason": "最近一次已上课为 2026-06-05，截至 2026-10-11 已间隔 128 天",
+          "weekly_summary": "本期无记录"
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "group": "方文惠-陈雨歌",
+          "reason": "最近一次已上课为 2026-06-06，截至 2026-10-11 已间隔 127 天",
           "weekly_summary": "本期无记录"
         },
         {
@@ -2908,61 +2952,61 @@
       ],
       "long_term_low": [
         {
-          "label": "一老一小组 负责pm： jojolei",
+          "label": "一老一小组（负责pm：jojolei）",
           "type": "学科辅导",
           "group": "土旦扎西-王纳川",
           "reason": "最近一次已上课为 2026-07-12，截至 2026-10-11 已间隔 91 天"
         },
         {
-          "label": "一老一小组 负责pm： jojolei",
+          "label": "一老一小组（负责pm：jojolei）",
           "type": "陪伴大使",
           "group": "王浩宇-陈锦鑫",
           "reason": "最近一次已上课为 2026-06-05，间隔已超过 4 周"
         },
         {
-          "label": "一老一小组 负责pm： judyzhe",
+          "label": "一老一小组（负责pm：judyzhe）",
           "type": "学科辅导",
           "group": "伊西措-李玮彤",
           "reason": "最近一次已上课为 2026-09-15，截至 2026-10-11 已间隔 26 天"
         },
         {
-          "label": "一老一小组 负责pm： judyzhe",
+          "label": "一老一小组（负责pm：judyzhe）",
           "type": "学科辅导",
           "group": "徐春菊-李奕",
           "reason": "最近一次已上课为 2026-06-06，截至 2026-10-11 已间隔 127 天"
         },
         {
-          "label": "一老一小组 负责pm： judyzhe",
+          "label": "一老一小组（负责pm：judyzhe）",
           "type": "陪伴大使",
           "group": "伊西措-林文裕",
           "reason": "最近一次已上课为 2026-07-05，间隔已超过 4 周"
         },
         {
-          "label": "一老一小组 负责pm： judyzhe",
+          "label": "一老一小组（负责pm：judyzhe）",
           "type": "陪伴大使",
           "group": "徐春菊-骆念蓓",
           "reason": "最近一次已上课为 2026-07-22，间隔已超过 4 周"
         },
         {
-          "label": "一老一小组 负责pm： judyzhe",
+          "label": "一老一小组（负责pm：judyzhe）",
           "type": "陪伴大使",
           "group": "扎西求措-丁秀洁",
           "reason": "最近一次已上课为 2026-05-15，间隔已超过 4 周"
         },
         {
-          "label": "一老一小组 负责pm： judyzhe",
+          "label": "一老一小组（负责pm：judyzhe）",
           "type": "陪伴大使",
           "group": "李若思-王婷",
           "reason": "最近一次已上课为 2026-07-11，间隔已超过 4 周"
         },
         {
-          "label": "一老一小组 负责pm： judyzhe",
+          "label": "一老一小组（负责pm：judyzhe）",
           "type": "陪伴大使",
           "group": "梁诗雅-李芸珂",
           "reason": "最近一次已上课为 2026-05-30，间隔已超过 4 周"
         },
         {
-          "label": "一老一小组 负责pm： judyzhe",
+          "label": "一老一小组（负责pm：judyzhe）",
           "type": "陪伴大使",
           "group": "薛瀚轩-郭全来",
           "reason": "最近一次已上课为 2026-05-22，间隔已超过 4 周"
@@ -2984,6 +3028,12 @@
           "type": "学科辅导",
           "group": "方文惠-张炜喆",
           "reason": "最近一次已上课为 2026-06-05，截至 2026-10-11 已间隔 128 天"
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "group": "方文惠-陈雨歌",
+          "reason": "最近一次已上课为 2026-06-06，截至 2026-10-11 已间隔 127 天"
         },
         {
           "label": "大爱清尘（负责pm：张继奇点）",
@@ -3148,7 +3198,7 @@
           "reason": "最近一次已上课为 2026-06-12，截至 2026-10-11 已间隔 121 天"
         }
       ],
-      "unmatched_total": 172
+      "unmatched_total": 161
     },
     {
       "title": "TVT 上课情况周报",
