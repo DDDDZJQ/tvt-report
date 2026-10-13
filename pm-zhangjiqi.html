@@ -84,8 +84,6 @@
 .dlg-btn.ghost:hover{background:#e9e9ee}
 .dlg-badge{font-size:11px;font-weight:500;color:var(--amber);margin-left:6px}
 .dlg-badge.ok{color:var(--blue)}
-/* 统计区改为自适应两列 */
-.detail-grid{border-bottom:1px solid var(--line);padding:0 0 22px;margin:0}
 @media(max-width:680px){.ro-grid{grid-template-columns:1fr}.fd-row{grid-template-columns:1fr;gap:5px}.fd-row.align-top>label{margin-top:0}.dlg-foot{flex-direction:column;align-items:stretch}.dlg-actions{justify-content:flex-end}}
 </style>
 </head>
@@ -424,16 +422,8 @@ function openDetail(student,teacher,type,remark,reason){
       ${selectField('上课情况',statusVal)}
       ${fieldRow('备注',`<textarea class="dlg-note" id="fld-备注" data-field="备注" rows="3" placeholder="填写备注…">${esc(remarkVal)}</textarea>`,'align-top')}
     </div>`;
-  // ── 本周执行（2×2）──
-  const statGrid=`<div class="detail-grid">
-      <div class="detail-item"><label>本周状态</label><span>${esc(g?(g.is_suspended?'暂停上课':g.weekly_done?'已上课':'无记录'):'无记录')}</span></div>
-      <div class="detail-item"><label>最近已上课</label><span>${esc((g&&g.last_completed)||'暂无')}</span></div>
-      <div class="detail-item"><label>本周已上课日期</label><span>${esc((g&&(g.weekly_completed_dates||[]).join('、'))||'暂无')}</span></div>
-      <div class="detail-item"><label>最近 28 天已上课</label><span>${Number((g&&g.recent_28_completed)||0)} 次</span></div>
-    </div>`;
   $('dialogContent').innerHTML=
     (reasonTxt?`<p class="dlg-sub-note">${esc(reasonTxt)}</p>`:'')
-    +`<div class="dlg-sec"><div class="dlg-sec-head">本周执行</div>${statGrid}</div>`
     +`<div class="dlg-sec"><div class="dlg-sec-head">${LOCK_ICON}映射表信息 · 只读</div>${roGrid}</div>`
     +editable
     +`<div class="dlg-foot"><span class="dlg-hint" id="rmHint">修改后点保存，立即生效并自动同步到腾讯文档</span><span class="dlg-actions"><button class="dlg-btn" id="rmSave" type="button" disabled>保存</button></span></div>`;
