@@ -186,7 +186,7 @@ let debounce;$('searchInput').addEventListener('input',e=>{clearTimeout(debounce
 $('wkS').onchange=()=>{state.ws=Number($('wkS').value);if(state.ws>state.we){state.we=state.ws;$('wkE').value=state.we}renderMerged()};$('wkE').onchange=()=>{state.we=Number($('wkE').value);if(state.we<state.ws){state.ws=state.we;$('wkS').value=state.ws}renderMerged()};
 
 /* ===== 备注在线编辑 → 秒级同步腾讯文档（Cloudflare Worker） ===== */
-const RM_CFG=(()=>{const a='cGxheQ==';const h='https://';const d='tvt-remark';const z='1791747158';const f='.workers.dev';return{api:h+d+'.'+z+f,demo:atob(a)}})();
+const RM_CFG=(()=>{const h='https://';const d='tvt-remark-api';const f='.vercel.app';return{api:h+d+f}})();
 const rmLsKey=cid=>'tvt-remark:'+cid;
 function rmFindCombo(student,teacher){const rows=(DATA.raw&&DATA.raw.rows)||[];return rows.find(r=>r.student===student&&r.teacher===teacher)||rows.find(r=>r.student===student)||null}
 function rmOverrides(){try{return JSON.parse(localStorage.getItem('tvt-remark-pending')||'{}')}catch(e){return{}}}
