@@ -1,6 +1,6 @@
 {
   "site_title": "TVT 上课情况周报",
-  "updated_at": "2026-10-13 15:34:46",
+  "updated_at": "2026-10-13 18:50:10",
   "latest_section": "2026-10-05",
   "reports": [
     {
@@ -8,7 +8,7 @@
       "section_title": "2026-10-05",
       "week_start": "2026-10-05",
       "week_end": "2026-10-11",
-      "generated_at": "2026-10-13 15:34:46",
+      "generated_at": "2026-10-13 18:50:10",
       "excel_path": "/workspace/tvt/TVT上课记录.xlsx",
       "metrics": {
         "groups_total": 74,
@@ -17,7 +17,7 @@
         "completion_rate": 8,
         "abnormal_total": 41,
         "long_term_low_total": 41,
-        "unmatched_total": 161,
+        "unmatched_total": 162,
         "student_teacher_groups": 74
       },
       "group_cards": [
@@ -76,9 +76,8 @@
             {
               "type": "学科辅导",
               "completed": 3,
-              "total": 11,
+              "total": 10,
               "not_completed": [
-                "张浩泽-顾文勋（本期无记录）",
                 "李思莹-季昕昱（本期无记录）",
                 "袁定瑞-董梓岩（本期无记录）",
                 "袁定瑞-陈景颐（本期无记录）",
@@ -87,13 +86,14 @@
                 "杨一凡-吴化育（本期无记录）",
                 "吴珏雨-吴宇伦（本期无记录）"
               ],
-              "rate": 27
+              "rate": 30
             },
             {
               "type": "陪伴大使",
               "completed": 0,
-              "total": 2,
+              "total": 3,
               "not_completed": [
+                "张浩泽-顾文勋（本期无记录）",
                 "方文惠-李梦南（本期无记录）",
                 "杨一凡-宋慧（本期无记录）"
               ],
@@ -1250,45 +1250,7 @@
           "is_suspended": false,
           "class_status": "",
           "suspend_reason": "",
-          "remark": "数学--高一，这学期还没开始上课，需要尽快开始1111111"
-        },
-        {
-          "label": "大爱清尘（负责pm：张继奇点）",
-          "type": "学科辅导",
-          "relation_id": "985-学科辅导-01",
-          "student_id": "985",
-          "student": "张浩泽",
-          "teacher": "顾文勋",
-          "current_teacher": "顾文勋",
-          "historical_teachers": [
-            "冯奕然",
-            "肖奕涵"
-          ],
-          "teacher_aliases": [
-            "顾文勋",
-            "冯奕然",
-            "肖奕涵"
-          ],
-          "name": "张浩泽-顾文勋",
-          "weekly_summary": "本期无记录",
-          "weekly_completed_dates": [],
-          "weekly_non_completed_statuses": [],
-          "last_completed": "2026-08-30",
-          "recent_28_completed": 0,
-          "recent_35_completed": 0,
-          "consecutive_missed_weeks": 6,
-          "long_term_level": "low",
-          "long_term_reason": "最近一次已上课为 2026-08-30，截至 2026-10-11 已间隔 42 天",
-          "observe_reason": "",
-          "abnormal_reason": "最近一次已上课为 2026-08-30，截至 2026-10-11 已间隔 42 天",
-          "match_modes": [
-            "exact"
-          ],
-          "weekly_done": false,
-          "is_suspended": false,
-          "class_status": "",
-          "suspend_reason": "",
-          "remark": "待确定是否还上课"
+          "remark": "数学--高一，这学期还没开始上课，需要尽快开始"
         },
         {
           "label": "大爱清尘（负责pm：张继奇点）",
@@ -1564,6 +1526,44 @@
           "class_status": "",
           "suspend_reason": "",
           "remark": "物理-高一、正常上课中"
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "陪伴大使",
+          "relation_id": "985-学科辅导-01",
+          "student_id": "985",
+          "student": "张浩泽",
+          "teacher": "顾文勋",
+          "current_teacher": "顾文勋",
+          "historical_teachers": [
+            "冯奕然",
+            "肖奕涵"
+          ],
+          "teacher_aliases": [
+            "顾文勋",
+            "冯奕然",
+            "肖奕涵"
+          ],
+          "name": "张浩泽-顾文勋",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-08-30",
+          "recent_28_completed": 0,
+          "recent_35_completed": 0,
+          "consecutive_missed_weeks": 6,
+          "long_term_level": "low",
+          "long_term_reason": "最近一次已上课为 2026-08-30，间隔已超过 4 周",
+          "observe_reason": "",
+          "abnormal_reason": "最近一次已上课为 2026-08-30，间隔已超过 4 周",
+          "match_modes": [
+            "exact"
+          ],
+          "weekly_done": false,
+          "is_suspended": false,
+          "class_status": "",
+          "suspend_reason": "",
+          "remark": "待确定是否还上课"
         },
         {
           "label": "大爱清尘（负责pm：张继奇点）",
@@ -2742,13 +2742,6 @@
         {
           "label": "大爱清尘（负责pm：张继奇点）",
           "type": "学科辅导",
-          "group": "张浩泽-顾文勋",
-          "reason": "最近一次已上课为 2026-08-30，截至 2026-10-11 已间隔 42 天",
-          "weekly_summary": "本期无记录"
-        },
-        {
-          "label": "大爱清尘（负责pm：张继奇点）",
-          "type": "学科辅导",
           "group": "方文惠-张炜喆",
           "reason": "最近一次已上课为 2026-06-05，截至 2026-10-11 已间隔 128 天",
           "weekly_summary": "本期无记录"
@@ -2779,6 +2772,13 @@
           "type": "学科辅导",
           "group": "袁定瑞-陈景颐",
           "reason": "最近一次已上课为 2026-07-18，截至 2026-10-11 已间隔 85 天",
+          "weekly_summary": "本期无记录"
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "陪伴大使",
+          "group": "张浩泽-顾文勋",
+          "reason": "最近一次已上课为 2026-08-30，间隔已超过 4 周",
           "weekly_summary": "本期无记录"
         },
         {
@@ -3020,12 +3020,6 @@
         {
           "label": "大爱清尘（负责pm：张继奇点）",
           "type": "学科辅导",
-          "group": "张浩泽-顾文勋",
-          "reason": "最近一次已上课为 2026-08-30，截至 2026-10-11 已间隔 42 天"
-        },
-        {
-          "label": "大爱清尘（负责pm：张继奇点）",
-          "type": "学科辅导",
           "group": "方文惠-张炜喆",
           "reason": "最近一次已上课为 2026-06-05，截至 2026-10-11 已间隔 128 天"
         },
@@ -3052,6 +3046,12 @@
           "type": "学科辅导",
           "group": "袁定瑞-陈景颐",
           "reason": "最近一次已上课为 2026-07-18，截至 2026-10-11 已间隔 85 天"
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "陪伴大使",
+          "group": "张浩泽-顾文勋",
+          "reason": "最近一次已上课为 2026-08-30，间隔已超过 4 周"
         },
         {
           "label": "大爱清尘（负责pm：张继奇点）",
@@ -3198,7 +3198,7 @@
           "reason": "最近一次已上课为 2026-06-12，截至 2026-10-11 已间隔 121 天"
         }
       ],
-      "unmatched_total": 161
+      "unmatched_total": 162
     },
     {
       "title": "TVT 上课情况周报",
