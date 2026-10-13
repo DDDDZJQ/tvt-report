@@ -321,7 +321,18 @@ async function rmFlush(){
     clearTimeout(timer);
     const d=await r.json().catch(()=>({}));
     const res=(d&&d.results)||[];
+    const rej=(d&&d.rejected)||[];
     const q2=fieldQueue(),o2=rmQ(RM_QUEUE_KEY);
+    // 【D4 配套】被服务端白名单拒绝的字段：直接剔除，标记为永久失败不再重试。
+    // 否则它会被当作「未返回结果」永远 error + 指数退避重试，而重试注定失败。
+    const rejectedKeys=[];
+    rej.forEach(x=>{
+      if(!x||!x.combo_id)return;
+      rejectedKeys.push(x.field);
+      if(q2[x.combo_id]&&q2[x.combo_id].fields){delete q2[x.combo_id].fields[x.field]}
+      if(!q2[x.combo_id]||!Object.keys(q2[x.combo_id].fields||{}).length){delete q2[x.combo_id]}
+    });
+    if(rejectedKeys.length){window.__rmRejected=[...new Set(rejectedKeys)]}
     res.forEach(x=>{
       if(!x||!x.combo_id)return;
       const tgt=q2[x.combo_id]||o2[x.combo_id];
@@ -341,9 +352,11 @@ async function rmFlush(){
     rmFlushing=false;
     const hint=document.getElementById('rmHint'),badge=document.getElementById('rmBadge');
     const cid=window.__rmCid;
+    const rj=window.__rmRejected||[];window.__rmRejected=null;
     if(cid&&hint){
       const st=rmDialogStatus();
-      if(st.text==='已同步到腾讯文档')hint.textContent='✅ 已同步到腾讯文档表格';
+      if(rj.length)hint.textContent='⚠️ 字段「'+rj.join('、')+'」的值不在表格允许范围内，已忽略；其余修改已保存';
+      else if(st.text==='已同步到腾讯文档')hint.textContent='✅ 已同步到腾讯文档表格';
       else if(st.text)hint.textContent='⚠️ 尚未同步成功，已本地保存，稍后自动重试';
       if(badge){badge.className='dlg-badge'+(st.cls==='ok'?' ok':'');badge.textContent=st.text}
     }
