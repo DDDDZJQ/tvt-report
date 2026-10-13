@@ -223,6 +223,8 @@ let debounce;$('searchInput').addEventListener('input',e=>{clearTimeout(debounce
 $('wkS').onchange=()=>{state.ws=Number($('wkS').value);if(state.ws>state.we){state.we=state.ws;$('wkE').value=state.we}renderMerged()};$('wkE').onchange=()=>{state.we=Number($('wkE').value);if(state.we<state.ws){state.ws=state.we;$('wkS').value=state.ws}renderMerged()};
 
 /* ═══ 映射表字段在线编辑：秒回 + 后台队列同步腾讯文档 ═══ */
+// 备注中转服务地址（Vercel Serverless，见 vercel_api/index.py）
+const RM_CFG=(()=>{const h='https://';const d='tvt-remark-api';const f='.vercel.app';return{api:h+d+f}})();
 // 可写字段白名单（与后端 EDITABLE_FIELDS 严格一致；其余字段在弹窗内只读）
 const EDITABLE_FIELD_KEYS=['当前老师','退出/曾任老师','类型','上课情况','备注'];
 const RM_QUEUE_KEY='tvt-remark-queue';     // 兼容旧队列：{combo_id:{remark,ts,tries,status}}
