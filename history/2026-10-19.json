@@ -3,16 +3,16 @@
   "section_title": "2026-10-19",
   "week_start": "2026-10-19",
   "week_end": "2026-10-25",
-  "generated_at": "2026-10-24 00:37:29",
+  "generated_at": "2026-10-24 01:05:30",
   "excel_path": "/workspace/tvt/TVT上课记录.xlsx",
   "metrics": {
     "groups_total": 74,
     "completed": 2,
     "not_completed": 72,
     "completion_rate": 3,
-    "abnormal_total": 40,
-    "long_term_low_total": 40,
-    "unmatched_total": 168,
+    "abnormal_total": 39,
+    "long_term_low_total": 39,
+    "unmatched_total": 151,
     "student_teacher_groups": 74
   },
   "group_cards": [
@@ -77,11 +77,11 @@
             "李思莹-季昕昱（本期无记录）",
             "李思莹-张家妮（本期无记录）",
             "冯诗琪-徐翰（本期无记录）",
-            "袁定瑞-董梓岩（本期无记录）",
-            "袁定瑞-陈景颐（本期无记录）",
             "方文惠-陈雨歌（本期无记录）",
+            "杜源朝-陈依依（本期无记录）",
             "杨一凡-吴化育（本期无记录）",
             "吴珏雨-吴宇伦（本期无记录）",
+            "邢璐瑜-朱智琳（本期无记录）",
             "邢璐瑜-沈志远（本期无记录）"
           ],
           "rate": 10
@@ -1389,6 +1389,39 @@
     {
       "label": "大爱清尘（负责pm：张继奇点）",
       "type": "学科辅导",
+      "relation_id": "998-学科辅导-01",
+      "student_id": "998",
+      "student": "杜源朝",
+      "teacher": "陈依依",
+      "current_teacher": "陈依依",
+      "historical_teachers": [],
+      "teacher_aliases": [
+        "陈依依"
+      ],
+      "name": "杜源朝-陈依依",
+      "weekly_summary": "本期无记录",
+      "weekly_completed_dates": [],
+      "weekly_non_completed_statuses": [],
+      "last_completed": "2026-10-18",
+      "recent_28_completed": 1,
+      "recent_35_completed": 1,
+      "consecutive_missed_weeks": 1,
+      "long_term_level": "follow",
+      "long_term_reason": "最近一次已上课为 2026-10-18，上周未见完成课",
+      "observe_reason": "",
+      "abnormal_reason": "",
+      "match_modes": [
+        "exact"
+      ],
+      "weekly_done": false,
+      "is_suspended": false,
+      "class_status": "",
+      "suspend_reason": "",
+      "remark": "物理-正常上课中"
+    },
+    {
+      "label": "大爱清尘（负责pm：张继奇点）",
+      "type": "学科辅导",
       "relation_id": "999-学科辅导-01",
       "student_id": "999",
       "student": "杨一凡",
@@ -1422,27 +1455,32 @@
     {
       "label": "大爱清尘（负责pm：张继奇点）",
       "type": "学科辅导",
-      "relation_id": "990-学科辅导-01",
-      "student_id": "990",
-      "student": "袁定瑞",
-      "teacher": "董梓岩",
-      "current_teacher": "董梓岩",
-      "historical_teachers": [],
-      "teacher_aliases": [
-        "董梓岩"
+      "relation_id": "1001-学科辅导-01",
+      "student_id": "1001",
+      "student": "邢璐瑜",
+      "teacher": "朱智琳",
+      "current_teacher": "朱智琳",
+      "historical_teachers": [
+        "浣婧怡",
+        "陈计言"
       ],
-      "name": "袁定瑞-董梓岩",
+      "teacher_aliases": [
+        "朱智琳",
+        "浣婧怡",
+        "陈计言"
+      ],
+      "name": "邢璐瑜-朱智琳",
       "weekly_summary": "本期无记录",
       "weekly_completed_dates": [],
       "weekly_non_completed_statuses": [],
-      "last_completed": "2026-06-20",
+      "last_completed": "2026-08-15",
       "recent_28_completed": 0,
       "recent_35_completed": 0,
       "consecutive_missed_weeks": 7,
       "long_term_level": "low",
-      "long_term_reason": "最近一次已上课为 2026-06-20，截至 2026-10-25 已间隔 127 天",
+      "long_term_reason": "最近一次已上课为 2026-08-15，截至 2026-10-25 已间隔 71 天",
       "observe_reason": "",
-      "abnormal_reason": "最近一次已上课为 2026-06-20，截至 2026-10-25 已间隔 127 天",
+      "abnormal_reason": "最近一次已上课为 2026-08-15，截至 2026-10-25 已间隔 71 天",
       "match_modes": [
         "exact"
       ],
@@ -1450,40 +1488,7 @@
       "is_suspended": false,
       "class_status": "",
       "suspend_reason": "",
-      "remark": "数学--待确定是否还上课"
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "学科辅导",
-      "relation_id": "990-学科辅导-02",
-      "student_id": "990",
-      "student": "袁定瑞",
-      "teacher": "陈景颐",
-      "current_teacher": "陈景颐",
-      "historical_teachers": [],
-      "teacher_aliases": [
-        "陈景颐"
-      ],
-      "name": "袁定瑞-陈景颐",
-      "weekly_summary": "本期无记录",
-      "weekly_completed_dates": [],
-      "weekly_non_completed_statuses": [],
-      "last_completed": "2026-07-18",
-      "recent_28_completed": 0,
-      "recent_35_completed": 0,
-      "consecutive_missed_weeks": 7,
-      "long_term_level": "low",
-      "long_term_reason": "最近一次已上课为 2026-07-18，截至 2026-10-25 已间隔 99 天",
-      "observe_reason": "",
-      "abnormal_reason": "最近一次已上课为 2026-07-18，截至 2026-10-25 已间隔 99 天",
-      "match_modes": [
-        "exact"
-      ],
-      "weekly_done": false,
-      "is_suspended": false,
-      "class_status": "",
-      "suspend_reason": "",
-      "remark": "物理--待确定是否还上课"
+      "remark": "英语--高一、缺老师"
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -2738,15 +2743,8 @@
     {
       "label": "大爱清尘（负责pm：张继奇点）",
       "type": "学科辅导",
-      "group": "袁定瑞-董梓岩",
-      "reason": "最近一次已上课为 2026-06-20，截至 2026-10-25 已间隔 127 天",
-      "weekly_summary": "本期无记录"
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "学科辅导",
-      "group": "袁定瑞-陈景颐",
-      "reason": "最近一次已上课为 2026-07-18，截至 2026-10-25 已间隔 99 天",
+      "group": "邢璐瑜-朱智琳",
+      "reason": "最近一次已上课为 2026-08-15，截至 2026-10-25 已间隔 71 天",
       "weekly_summary": "本期无记录"
     },
     {
@@ -3008,14 +3006,8 @@
     {
       "label": "大爱清尘（负责pm：张继奇点）",
       "type": "学科辅导",
-      "group": "袁定瑞-董梓岩",
-      "reason": "最近一次已上课为 2026-06-20，截至 2026-10-25 已间隔 127 天"
-    },
-    {
-      "label": "大爱清尘（负责pm：张继奇点）",
-      "type": "学科辅导",
-      "group": "袁定瑞-陈景颐",
-      "reason": "最近一次已上课为 2026-07-18，截至 2026-10-25 已间隔 99 天"
+      "group": "邢璐瑜-朱智琳",
+      "reason": "最近一次已上课为 2026-08-15，截至 2026-10-25 已间隔 71 天"
     },
     {
       "label": "大爱清尘（负责pm：张继奇点）",
@@ -3174,5 +3166,5 @@
       "reason": "最近一次已上课为 2026-06-12，截至 2026-10-25 已间隔 135 天"
     }
   ],
-  "unmatched_total": 168
+  "unmatched_total": 151
 }
