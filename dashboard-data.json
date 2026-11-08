@@ -1,6 +1,6 @@
 {
   "site_title": "TVT 上课情况周报",
-  "updated_at": "2026-11-09 05:05:11",
+  "updated_at": "2026-11-09 06:05:25",
   "latest_section": "2026-11-02",
   "reports": [
     {
@@ -8,40 +8,41 @@
       "section_title": "2026-11-02",
       "week_start": "2026-11-02",
       "week_end": "2026-11-08",
-      "generated_at": "2026-11-09 05:05:11",
+      "generated_at": "2026-11-09 06:05:25",
       "excel_path": "/workspace/tvt/TVT上课记录.xlsx",
       "metrics": {
         "groups_total": 84,
-        "completed": 13,
-        "not_completed": 71,
-        "completion_rate": 15,
-        "abnormal_total": 33,
-        "long_term_low_total": 33,
-        "unmatched_total": 234,
+        "completed": 0,
+        "not_completed": 84,
+        "completion_rate": 0,
+        "abnormal_total": 39,
+        "long_term_low_total": 39,
+        "unmatched_total": 168,
         "student_teacher_groups": 84
       },
       "group_cards": [
         {
           "label": "一老一小组（负责pm：judyzhe）",
           "time": "2026-11-02 至 2026-11-08",
-          "completed": 1,
+          "completed": 0,
           "total": 19,
-          "not_completed": 18,
-          "rate": 5,
+          "not_completed": 19,
+          "rate": 0,
           "sections": [
             {
               "type": "学科辅导",
-              "completed": 1,
+              "completed": 0,
               "total": 7,
               "not_completed": [
                 "徐春菊-李奕（本期无记录）",
                 "梁诗雅-梁亦舸（本期无记录）",
                 "李若思-孙希瑜（本期无记录）",
                 "扎西-曾泳蓓（本期无记录）",
+                "扎西求措-隋馨予（本期无记录）",
                 "伊西措-李玮彤（本期无记录）",
                 "文索加措-徐敬承（本期无记录）"
               ],
-              "rate": 14
+              "rate": 0
             },
             {
               "type": "陪伴大使",
@@ -68,58 +69,65 @@
         {
           "label": "大爱清尘（负责pm：张继奇点）",
           "time": "2026-11-02 至 2026-11-08",
-          "completed": 6,
+          "completed": 0,
           "total": 12,
-          "not_completed": 6,
-          "rate": 50,
+          "not_completed": 12,
+          "rate": 0,
           "sections": [
             {
               "type": "学科辅导",
-              "completed": 5,
+              "completed": 0,
               "total": 10,
               "not_completed": [
                 "李思莹-季昕昱（本期无记录）",
                 "李思莹-张家妮（本期无记录）",
+                "冯诗琪-徐翰（本期无记录）",
+                "方文惠-陈雨歌（本期无记录）",
+                "方文惠-张炜喆（本期无记录）",
                 "杜源朝-陈依依（本期无记录）",
                 "杨一凡-吴化育（本期无记录）",
+                "吴珏雨-吴宇伦（本期无记录）",
+                "邢璐瑜-朱智琳（本期无记录）",
                 "邢璐瑜-沈志远（本期无记录）"
               ],
-              "rate": 50
+              "rate": 0
             },
             {
               "type": "陪伴大使",
-              "completed": 1,
+              "completed": 0,
               "total": 2,
               "not_completed": [
+                "方文惠-李梦南（本期无记录）",
                 "杨一凡-宋慧（本期无记录）"
               ],
-              "rate": 50
+              "rate": 0
             }
           ]
         },
         {
           "label": "王泡泡组（负责pm：王雪琪）",
           "time": "2026-11-02 至 2026-11-08",
-          "completed": 1,
+          "completed": 0,
           "total": 13,
-          "not_completed": 12,
-          "rate": 8,
+          "not_completed": 13,
+          "rate": 0,
           "sections": [
             {
               "type": "学科辅导",
-              "completed": 1,
+              "completed": 0,
               "total": 9,
               "not_completed": [
                 "吴思妍-马千捷（本期无记录）",
                 "林广源-陈劭杰（本期无记录）",
                 "林文圳-王天勤（本期无记录）",
+                "郑梓淳-赵翊涵（本期无记录）",
                 "林楚欣-张淑怡（本期无记录）",
                 "林文婷-范家怡（本期无记录）",
                 "林钡妮-蔡水缘（本期无记录）",
                 "谢嘉银-冯宇昕（本期无记录）",
                 "李浩洋-陈祉宇（本期无记录）"
               ],
-              "rate": 11
+              "rate": 0
             },
             {
               "type": "陪伴大使",
@@ -138,22 +146,24 @@
         {
           "label": "张村小学Plus组（负责pm：熊伟）",
           "time": "2026-11-02 至 2026-11-08",
-          "completed": 2,
+          "completed": 0,
           "total": 18,
-          "not_completed": 16,
-          "rate": 11,
+          "not_completed": 18,
+          "rate": 0,
           "sections": [
             {
               "type": "学科辅导",
-              "completed": 2,
+              "completed": 0,
               "total": 16,
               "not_completed": [
                 "袁婧瑜-张钰晗（本期无记录）",
                 "崔钰涵-张瀚霖（本期无记录）",
                 "鲁少辰-黄济腾（本期无记录）",
                 "张一鸣-陈若汐（本期无记录）",
+                "崔子成-陈履一（本期无记录）",
                 "杨子墨-张斯贻、张芮彤（本期无记录）",
                 "吴非同-谢子容（本期无记录）",
+                "吴季迅-宋元辰（本期无记录）",
                 "张鹤腾-李云飞（本期无记录）",
                 "霍映麟-罗允睎（本期无记录）",
                 "许雨桐-雷阳（本期无记录）",
@@ -163,7 +173,7 @@
                 "彭博艺-胡书鸣（本期无记录）",
                 "彭博艺-李奕萱（本期无记录）"
               ],
-              "rate": 12
+              "rate": 0
             },
             {
               "type": "陪伴大使",
@@ -217,32 +227,35 @@
         {
           "label": "南丰小学（负责pm：子雯）",
           "time": "2026-11-02 至 2026-11-08",
-          "completed": 3,
+          "completed": 0,
           "total": 11,
-          "not_completed": 8,
-          "rate": 27,
+          "not_completed": 11,
+          "rate": 0,
           "sections": [
             {
               "type": "学科辅导",
-              "completed": 3,
+              "completed": 0,
               "total": 10,
               "not_completed": [
                 "梁钰丽-徐梓媛（本期无记录）",
+                "钱晓盈-徐子萌（本期无记录）",
+                "李钰晴-喻筱轶（本期无记录）",
                 "李钰晴-陈奕多（本期无记录）",
                 "李烨-季昕昱（本期无记录）",
                 "李烨-姜禹辰（本期无记录）",
                 "莫楠-汪品妤（本期无记录）",
+                "莫楠-于牧童（本期无记录）",
                 "陈文亮-石霖珈（本期无记录）",
                 "莫晓彤-丁玥（本期无记录）"
               ],
-              "rate": 30
+              "rate": 0
             },
             {
               "type": "陪伴大使",
               "completed": 0,
               "total": 1,
               "not_completed": [
-                "莫致鸿-余凯伦（有记录但未完成（待处理））"
+                "莫致鸿-余凯伦（本期无记录）"
               ],
               "rate": 0
             }
@@ -272,7 +285,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1031-学科辅导-01」的可匹配老师「段心荷」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -336,7 +349,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1024-学科辅导-01」的可匹配老师「袁斌」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -367,7 +380,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1032-陪伴大使-01」的可匹配老师「余凯伦」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -398,7 +411,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1027-陪伴大使-01」的可匹配老师「张中辉」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -429,7 +442,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1033-陪伴大使-01」的可匹配老师「文辉清」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -460,7 +473,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1026-陪伴大使-01」的可匹配老师「王籽寓」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -485,14 +498,14 @@
           "weekly_summary": "本期无记录",
           "weekly_completed_dates": [],
           "weekly_non_completed_statuses": [],
-          "last_completed": "2026-06-06",
+          "last_completed": "2026-06-05",
           "recent_28_completed": 0,
           "recent_35_completed": 0,
           "consecutive_missed_weeks": 7,
           "long_term_level": "low",
-          "long_term_reason": "最近一次已上课为 2026-06-06，间隔已超过 4 周",
+          "long_term_reason": "最近一次已上课为 2026-06-05，间隔已超过 4 周",
           "observe_reason": "",
-          "abnormal_reason": "最近一次已上课为 2026-06-06，间隔已超过 4 周",
+          "abnormal_reason": "最近一次已上课为 2026-06-05，间隔已超过 4 周",
           "match_modes": [
             "exact"
           ],
@@ -524,7 +537,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1029-陪伴大使-01」的可匹配老师「林思莹」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -555,7 +568,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1025-陪伴大使-01」的可匹配老师「刘玉艳」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -586,7 +599,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1023-陪伴大使-01」的可匹配老师「周倩怡」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -644,14 +657,14 @@
           "weekly_summary": "本期无记录",
           "weekly_completed_dates": [],
           "weekly_non_completed_statuses": [],
-          "last_completed": "2026-06-07",
+          "last_completed": "2026-06-06",
           "recent_28_completed": 0,
           "recent_35_completed": 0,
           "consecutive_missed_weeks": 7,
           "long_term_level": "low",
-          "long_term_reason": "最近一次已上课为 2026-06-07，截至 2026-11-08 已间隔 154 天",
+          "long_term_reason": "最近一次已上课为 2026-06-06，截至 2026-11-08 已间隔 155 天",
           "observe_reason": "",
-          "abnormal_reason": "最近一次已上课为 2026-06-07，截至 2026-11-08 已间隔 154 天",
+          "abnormal_reason": "最近一次已上课为 2026-06-06，截至 2026-11-08 已间隔 155 天",
           "match_modes": [
             "exact"
           ],
@@ -683,7 +696,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1018-学科辅导-01」的可匹配老师「曾泳蓓」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -705,25 +718,21 @@
             "隋馨予"
           ],
           "name": "扎西求措-隋馨予",
-          "weekly_summary": "有已上课记录",
-          "weekly_completed_dates": [
-            "2026-11-07"
-          ],
-          "weekly_non_completed_statuses": [
-            "待处理"
-          ],
-          "last_completed": "2026-11-07",
-          "recent_28_completed": 3,
-          "recent_35_completed": 4,
-          "consecutive_missed_weeks": 0,
-          "long_term_level": "ok",
-          "long_term_reason": "",
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
+          "weekly_non_completed_statuses": [],
+          "last_completed": "2026-10-24",
+          "recent_28_completed": 2,
+          "recent_35_completed": 3,
+          "consecutive_missed_weeks": 2,
+          "long_term_level": "low",
+          "long_term_reason": "最近一次已上课为 2026-10-24，截至 2026-11-08 已间隔 15 天",
           "observe_reason": "",
-          "abnormal_reason": "",
+          "abnormal_reason": "最近一次已上课为 2026-10-24，截至 2026-11-08 已间隔 15 天",
           "match_modes": [
             "exact"
           ],
-          "weekly_done": true,
+          "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
           "suspend_reason": "",
@@ -751,7 +760,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1021-学科辅导-01」的可匹配老师「徐敬承」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）；陈祉宇（最近 2026-07-21｜陈祉宇｜待处理｜第三次课）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1021-学科辅导-01」的可匹配老师「徐敬承」匹配的记录；实际出现老师：陈祉宇（最近 2026-07-21｜陈祉宇｜待处理｜第三次课）。请核对当前老师、历史老师或备注中的别名。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -782,7 +791,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1015-学科辅导-01」的可匹配老师「孙希瑜」匹配的记录；实际出现老师：王婷（最近 2026-07-11｜王婷｜已上课｜第三次陪伴沟通）；王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1015-学科辅导-01」的可匹配老师「孙希瑜」匹配的记录；实际出现老师：王婷（最近 2026-07-11｜王婷｜已上课｜第三次陪伴沟通）。请核对当前老师、历史老师或备注中的别名。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -807,14 +816,14 @@
           "weekly_summary": "本期无记录",
           "weekly_completed_dates": [],
           "weekly_non_completed_statuses": [],
-          "last_completed": "2026-10-17",
+          "last_completed": "2026-10-16",
           "recent_28_completed": 1,
           "recent_35_completed": 1,
           "consecutive_missed_weeks": 3,
           "long_term_level": "low",
-          "long_term_reason": "最近一次已上课为 2026-10-17，截至 2026-11-08 已间隔 22 天",
+          "long_term_reason": "最近一次已上课为 2026-10-16，截至 2026-11-08 已间隔 23 天",
           "observe_reason": "",
-          "abnormal_reason": "最近一次已上课为 2026-10-17，截至 2026-11-08 已间隔 22 天",
+          "abnormal_reason": "最近一次已上课为 2026-10-16，截至 2026-11-08 已间隔 23 天",
           "match_modes": [
             "exact"
           ],
@@ -879,7 +888,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1016-陪伴大使-01」的可匹配老师「关雯」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）；骆思雅（最近 2026-07-05｜骆思雅｜已上课｜南卡扎西）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1016-陪伴大使-01」的可匹配老师「关雯」匹配的记录；实际出现老师：骆思雅（最近 2026-07-05｜骆思雅｜已上课｜南卡扎西）。请核对当前老师、历史老师或备注中的别名。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -910,7 +919,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1017-陪伴大使-01」的可匹配老师「李娟」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -935,14 +944,14 @@
           "weekly_summary": "本期无记录",
           "weekly_completed_dates": [],
           "weekly_non_completed_statuses": [],
-          "last_completed": "2026-07-25",
+          "last_completed": "2026-07-22",
           "recent_28_completed": 0,
           "recent_35_completed": 0,
           "consecutive_missed_weeks": 7,
           "long_term_level": "low",
-          "long_term_reason": "最近一次已上课为 2026-07-25，间隔已超过 4 周",
+          "long_term_reason": "最近一次已上课为 2026-07-22，间隔已超过 4 周",
           "observe_reason": "",
-          "abnormal_reason": "最近一次已上课为 2026-07-25，间隔已超过 4 周",
+          "abnormal_reason": "最近一次已上课为 2026-07-22，间隔已超过 4 周",
           "match_modes": [
             "exact"
           ],
@@ -974,7 +983,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1022-陪伴大使-01」的可匹配老师「周旻」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -1005,7 +1014,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1018-陪伴大使-01」的可匹配老师「王妹」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -1030,14 +1039,14 @@
           "weekly_summary": "本期无记录",
           "weekly_completed_dates": [],
           "weekly_non_completed_statuses": [],
-          "last_completed": "2026-05-22",
+          "last_completed": "2026-05-15",
           "recent_28_completed": 0,
           "recent_35_completed": 0,
           "consecutive_missed_weeks": 7,
           "long_term_level": "low",
-          "long_term_reason": "最近一次已上课为 2026-05-22，间隔已超过 4 周",
+          "long_term_reason": "最近一次已上课为 2026-05-15，间隔已超过 4 周",
           "observe_reason": "",
-          "abnormal_reason": "最近一次已上课为 2026-05-22，间隔已超过 4 周",
+          "abnormal_reason": "最近一次已上课为 2026-05-15，间隔已超过 4 周",
           "match_modes": [
             "exact"
           ],
@@ -1069,7 +1078,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1021-陪伴大使-01」的可匹配老师「胡耀升」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）；陈祉宇（最近 2026-07-21｜陈祉宇｜待处理｜第三次课）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1021-陪伴大使-01」的可匹配老师「胡耀升」匹配的记录；实际出现老师：陈祉宇（最近 2026-07-21｜陈祉宇｜待处理｜第三次课）。请核对当前老师、历史老师或备注中的别名。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -1100,7 +1109,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1011-陪伴大使-01」的可匹配老师「谭美莹」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -1158,14 +1167,14 @@
           "weekly_summary": "本期无记录",
           "weekly_completed_dates": [],
           "weekly_non_completed_statuses": [],
-          "last_completed": "2026-05-31",
+          "last_completed": "2026-05-30",
           "recent_28_completed": 0,
           "recent_35_completed": 0,
           "consecutive_missed_weeks": 7,
           "long_term_level": "low",
-          "long_term_reason": "最近一次已上课为 2026-05-31，间隔已超过 4 周",
+          "long_term_reason": "最近一次已上课为 2026-05-30，间隔已超过 4 周",
           "observe_reason": "",
-          "abnormal_reason": "最近一次已上课为 2026-05-31，间隔已超过 4 周",
+          "abnormal_reason": "最近一次已上课为 2026-05-30，间隔已超过 4 周",
           "match_modes": [
             "exact"
           ],
@@ -1191,14 +1200,14 @@
           "weekly_summary": "本期无记录",
           "weekly_completed_dates": [],
           "weekly_non_completed_statuses": [],
-          "last_completed": "2026-05-24",
+          "last_completed": "2026-05-22",
           "recent_28_completed": 0,
           "recent_35_completed": 0,
           "consecutive_missed_weeks": 7,
           "long_term_level": "low",
-          "long_term_reason": "最近一次已上课为 2026-05-24，间隔已超过 4 周",
+          "long_term_reason": "最近一次已上课为 2026-05-22，间隔已超过 4 周",
           "observe_reason": "",
-          "abnormal_reason": "最近一次已上课为 2026-05-24，间隔已超过 4 周",
+          "abnormal_reason": "最近一次已上课为 2026-05-22，间隔已超过 4 周",
           "match_modes": [
             "exact"
           ],
@@ -1230,7 +1239,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「李烨-姜禹辰」的可匹配老师「姜禹辰」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -1261,7 +1270,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「李烨-季昕昱」的可匹配老师「季昕昱」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -1283,24 +1292,21 @@
             "喻筱轶"
           ],
           "name": "李钰晴-喻筱轶",
-          "weekly_summary": "有已上课记录",
-          "weekly_completed_dates": [
-            "2026-11-02",
-            "2026-11-07"
-          ],
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
           "weekly_non_completed_statuses": [],
-          "last_completed": "2026-11-07",
-          "recent_28_completed": 2,
-          "recent_35_completed": 2,
-          "consecutive_missed_weeks": 0,
-          "long_term_level": "ok",
-          "long_term_reason": "",
-          "observe_reason": "",
+          "last_completed": "",
+          "recent_28_completed": 0,
+          "recent_35_completed": 0,
+          "consecutive_missed_weeks": 7,
+          "long_term_level": "follow",
+          "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
+          "observe_reason": "Excel 中有该上课组合的老师匹配记录，但状态均不是「已上课」；最近记录：2026-10-31｜喻筱轶｜待处理｜数学讲师。请确认反馈/录制流程是否已闭环，或是否需要更新当前状态。",
           "abnormal_reason": "",
           "match_modes": [
             "exact"
           ],
-          "weekly_done": true,
+          "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
           "suspend_reason": "",
@@ -1328,7 +1334,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「李钰晴-陈奕多」的可匹配老师「陈奕多」匹配的记录；实际出现老师：喻筱轶（最近 2026-11-07｜喻筱轶｜已上课｜代数式2）；王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「李钰晴-陈奕多」的可匹配老师「陈奕多」匹配的记录；实际出现老师：喻筱轶（最近 2026-10-31｜喻筱轶｜待处理｜数学讲师）。请核对当前老师、历史老师或备注中的别名。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -1359,7 +1365,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「梁钰丽-徐梓媛」的可匹配老师「徐梓媛」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -1390,7 +1396,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「莫晓彤-丁玥」的可匹配老师「丁玥」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -1412,23 +1418,19 @@
             "于牧童"
           ],
           "name": "莫楠-于牧童",
-          "weekly_summary": "有已上课记录",
-          "weekly_completed_dates": [
-            "2026-11-02"
-          ],
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
           "weekly_non_completed_statuses": [],
-          "last_completed": "2026-11-02",
-          "recent_28_completed": 1,
-          "recent_35_completed": 1,
-          "consecutive_missed_weeks": 0,
-          "long_term_level": "ok",
-          "long_term_reason": "",
-          "observe_reason": "",
+          "last_completed": "",
+          "recent_28_completed": 0,
+          "recent_35_completed": 0,
+          "consecutive_missed_weeks": 7,
+          "long_term_level": "follow",
+          "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
-          "match_modes": [
-            "exact"
-          ],
-          "weekly_done": true,
+          "match_modes": [],
+          "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
           "suspend_reason": "",
@@ -1456,7 +1458,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「莫楠-汪品妤」的可匹配老师「汪品妤」匹配的记录；实际出现老师：于牧童（最近 2026-11-02｜于牧童｜已上课｜G11第一学期Class4）；王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -1478,24 +1480,21 @@
             "徐子萌"
           ],
           "name": "钱晓盈-徐子萌",
-          "weekly_summary": "有已上课记录",
-          "weekly_completed_dates": [
-            "2026-11-03",
-            "2026-11-06"
-          ],
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
           "weekly_non_completed_statuses": [],
-          "last_completed": "2026-11-06",
-          "recent_28_completed": 3,
-          "recent_35_completed": 3,
-          "consecutive_missed_weeks": 0,
-          "long_term_level": "ok",
-          "long_term_reason": "",
+          "last_completed": "2026-10-30",
+          "recent_28_completed": 1,
+          "recent_35_completed": 1,
+          "consecutive_missed_weeks": 1,
+          "long_term_level": "follow",
+          "long_term_reason": "最近一次已上课为 2026-10-30，上周未见完成课",
           "observe_reason": "",
           "abnormal_reason": "",
           "match_modes": [
             "exact"
           ],
-          "weekly_done": true,
+          "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
           "suspend_reason": "",
@@ -1523,7 +1522,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「陈文亮-石霖珈」的可匹配老师「石霖珈」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -1545,22 +1544,18 @@
             "余凯伦"
           ],
           "name": "莫致鸿-余凯伦",
-          "weekly_summary": "有记录但未完成（待处理）",
+          "weekly_summary": "本期无记录",
           "weekly_completed_dates": [],
-          "weekly_non_completed_statuses": [
-            "待处理"
-          ],
+          "weekly_non_completed_statuses": [],
           "last_completed": "",
           "recent_28_completed": 0,
           "recent_35_completed": 0,
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
-          "long_term_reason": "当前窗口暂无已上课记录，但本统计期有未闭环流程（待处理）",
-          "observe_reason": "Excel 中有该上课组合的老师匹配记录，但状态均不是「已上课」；最近记录：2026-11-06｜余凯伦｜待处理｜11月沟通。请确认反馈/录制流程是否已闭环，或是否需要更新当前状态。",
+          "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
-          "match_modes": [
-            "exact"
-          ],
+          "match_modes": [],
           "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
@@ -1583,23 +1578,21 @@
             "金芮西"
           ],
           "name": "冯诗琪-徐翰",
-          "weekly_summary": "有已上课记录",
-          "weekly_completed_dates": [
-            "2026-11-03"
-          ],
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
           "weekly_non_completed_statuses": [],
-          "last_completed": "2026-11-03",
-          "recent_28_completed": 2,
-          "recent_35_completed": 4,
-          "consecutive_missed_weeks": 0,
-          "long_term_level": "ok",
-          "long_term_reason": "",
+          "last_completed": "2026-10-25",
+          "recent_28_completed": 1,
+          "recent_35_completed": 3,
+          "consecutive_missed_weeks": 2,
+          "long_term_level": "low",
+          "long_term_reason": "最近一次已上课为 2026-10-25，截至 2026-11-08 已间隔 14 天",
           "observe_reason": "",
-          "abnormal_reason": "",
+          "abnormal_reason": "最近一次已上课为 2026-10-25，截至 2026-11-08 已间隔 14 天",
           "match_modes": [
             "exact"
           ],
-          "weekly_done": true,
+          "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
           "suspend_reason": "",
@@ -1621,23 +1614,21 @@
             "王艺涵"
           ],
           "name": "吴珏雨-吴宇伦",
-          "weekly_summary": "有已上课记录",
-          "weekly_completed_dates": [
-            "2026-11-08"
-          ],
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
           "weekly_non_completed_statuses": [],
-          "last_completed": "2026-11-08",
-          "recent_28_completed": 2,
-          "recent_35_completed": 2,
-          "consecutive_missed_weeks": 0,
-          "long_term_level": "ok",
-          "long_term_reason": "",
+          "last_completed": "2026-10-18",
+          "recent_28_completed": 1,
+          "recent_35_completed": 1,
+          "consecutive_missed_weeks": 3,
+          "long_term_level": "low",
+          "long_term_reason": "最近一次已上课为 2026-10-18，截至 2026-11-08 已间隔 21 天",
           "observe_reason": "",
-          "abnormal_reason": "",
+          "abnormal_reason": "最近一次已上课为 2026-10-18，截至 2026-11-08 已间隔 21 天",
           "match_modes": [
             "exact"
           ],
-          "weekly_done": true,
+          "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
           "suspend_reason": "",
@@ -1656,23 +1647,21 @@
             "张炜喆"
           ],
           "name": "方文惠-张炜喆",
-          "weekly_summary": "有已上课记录",
-          "weekly_completed_dates": [
-            "2026-11-08"
-          ],
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
           "weekly_non_completed_statuses": [],
-          "last_completed": "2026-11-08",
-          "recent_28_completed": 4,
-          "recent_35_completed": 4,
-          "consecutive_missed_weeks": 0,
-          "long_term_level": "ok",
-          "long_term_reason": "",
+          "last_completed": "2026-10-30",
+          "recent_28_completed": 3,
+          "recent_35_completed": 3,
+          "consecutive_missed_weeks": 1,
+          "long_term_level": "follow",
+          "long_term_reason": "最近一次已上课为 2026-10-30，上周未见完成课",
           "observe_reason": "",
           "abnormal_reason": "",
           "match_modes": [
             "exact"
           ],
-          "weekly_done": true,
+          "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
           "suspend_reason": "",
@@ -1694,23 +1683,21 @@
             "陈计言"
           ],
           "name": "方文惠-陈雨歌",
-          "weekly_summary": "有已上课记录",
-          "weekly_completed_dates": [
-            "2026-11-07"
-          ],
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
           "weekly_non_completed_statuses": [],
-          "last_completed": "2026-11-07",
-          "recent_28_completed": 4,
-          "recent_35_completed": 4,
-          "consecutive_missed_weeks": 0,
-          "long_term_level": "ok",
-          "long_term_reason": "",
+          "last_completed": "2026-10-31",
+          "recent_28_completed": 3,
+          "recent_35_completed": 3,
+          "consecutive_missed_weeks": 1,
+          "long_term_level": "follow",
+          "long_term_reason": "最近一次已上课为 2026-10-31，上周未见完成课",
           "observe_reason": "",
           "abnormal_reason": "",
           "match_modes": [
             "exact"
           ],
-          "weekly_done": true,
+          "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
           "suspend_reason": "",
@@ -1869,23 +1856,21 @@
             "陈计言"
           ],
           "name": "邢璐瑜-朱智琳",
-          "weekly_summary": "有已上课记录",
-          "weekly_completed_dates": [
-            "2026-11-08"
-          ],
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
           "weekly_non_completed_statuses": [],
-          "last_completed": "2026-11-08",
-          "recent_28_completed": 2,
-          "recent_35_completed": 2,
-          "consecutive_missed_weeks": 0,
-          "long_term_level": "ok",
-          "long_term_reason": "",
+          "last_completed": "2026-10-11",
+          "recent_28_completed": 0,
+          "recent_35_completed": 1,
+          "consecutive_missed_weeks": 4,
+          "long_term_level": "low",
+          "long_term_reason": "最近一次已上课为 2026-10-11，截至 2026-11-08 已间隔 28 天",
           "observe_reason": "",
-          "abnormal_reason": "",
+          "abnormal_reason": "最近一次已上课为 2026-10-11，截至 2026-11-08 已间隔 28 天",
           "match_modes": [
             "exact"
           ],
-          "weekly_done": true,
+          "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
           "suspend_reason": "",
@@ -1907,12 +1892,12 @@
           "weekly_summary": "本期无记录",
           "weekly_completed_dates": [],
           "weekly_non_completed_statuses": [],
-          "last_completed": "2026-10-31",
+          "last_completed": "2026-10-30",
           "recent_28_completed": 1,
           "recent_35_completed": 3,
           "consecutive_missed_weeks": 1,
           "long_term_level": "follow",
-          "long_term_reason": "最近一次已上课为 2026-10-31，上周未见完成课",
+          "long_term_reason": "最近一次已上课为 2026-10-30，上周未见完成课",
           "observe_reason": "",
           "abnormal_reason": "",
           "match_modes": [
@@ -1937,23 +1922,21 @@
             "李梦南"
           ],
           "name": "方文惠-李梦南",
-          "weekly_summary": "有已上课记录",
-          "weekly_completed_dates": [
-            "2026-11-06"
-          ],
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
           "weekly_non_completed_statuses": [],
-          "last_completed": "2026-11-06",
-          "recent_28_completed": 1,
-          "recent_35_completed": 1,
-          "consecutive_missed_weeks": 0,
-          "long_term_level": "ok",
-          "long_term_reason": "",
+          "last_completed": "2026-09-25",
+          "recent_28_completed": 0,
+          "recent_35_completed": 0,
+          "consecutive_missed_weeks": 6,
+          "long_term_level": "low",
+          "long_term_reason": "最近一次已上课为 2026-09-25，间隔已超过 4 周",
           "observe_reason": "",
-          "abnormal_reason": "",
+          "abnormal_reason": "最近一次已上课为 2026-09-25，间隔已超过 4 周",
           "match_modes": [
             "exact"
           ],
-          "weekly_done": true,
+          "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
           "suspend_reason": "",
@@ -2005,23 +1988,21 @@
             "宋元辰"
           ],
           "name": "吴季迅-宋元辰",
-          "weekly_summary": "有已上课记录",
-          "weekly_completed_dates": [
-            "2026-11-06"
-          ],
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
           "weekly_non_completed_statuses": [],
-          "last_completed": "2026-11-06",
-          "recent_28_completed": 3,
-          "recent_35_completed": 4,
-          "consecutive_missed_weeks": 0,
-          "long_term_level": "ok",
-          "long_term_reason": "",
+          "last_completed": "2026-10-30",
+          "recent_28_completed": 2,
+          "recent_35_completed": 3,
+          "consecutive_missed_weeks": 1,
+          "long_term_level": "follow",
+          "long_term_reason": "最近一次已上课为 2026-10-30，上周未见完成课",
           "observe_reason": "",
           "abnormal_reason": "",
           "match_modes": [
             "exact"
           ],
-          "weekly_done": true,
+          "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
           "suspend_reason": "",
@@ -2073,23 +2054,21 @@
             "陈履一"
           ],
           "name": "崔子成-陈履一",
-          "weekly_summary": "有已上课记录",
-          "weekly_completed_dates": [
-            "2026-11-08"
-          ],
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
           "weekly_non_completed_statuses": [],
-          "last_completed": "2026-11-08",
-          "recent_28_completed": 3,
-          "recent_35_completed": 3,
-          "consecutive_missed_weeks": 0,
-          "long_term_level": "ok",
-          "long_term_reason": "",
+          "last_completed": "2026-11-01",
+          "recent_28_completed": 2,
+          "recent_35_completed": 2,
+          "consecutive_missed_weeks": 1,
+          "long_term_level": "follow",
+          "long_term_reason": "最近一次已上课为 2026-11-01，上周未见完成课",
           "observe_reason": "",
           "abnormal_reason": "",
           "match_modes": [
             "exact"
           ],
-          "weekly_done": true,
+          "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
           "suspend_reason": "",
@@ -2177,14 +2156,14 @@
           "weekly_summary": "本期无记录",
           "weekly_completed_dates": [],
           "weekly_non_completed_statuses": [],
-          "last_completed": "2026-06-07",
+          "last_completed": "2026-06-04",
           "recent_28_completed": 0,
           "recent_35_completed": 0,
           "consecutive_missed_weeks": 7,
           "long_term_level": "low",
-          "long_term_reason": "最近一次已上课为 2026-06-07，截至 2026-11-08 已间隔 154 天",
+          "long_term_reason": "最近一次已上课为 2026-06-04，截至 2026-11-08 已间隔 157 天",
           "observe_reason": "",
-          "abnormal_reason": "最近一次已上课为 2026-06-07，截至 2026-11-08 已间隔 154 天",
+          "abnormal_reason": "最近一次已上课为 2026-06-04，截至 2026-11-08 已间隔 157 天",
           "match_modes": [
             "exact"
           ],
@@ -2210,14 +2189,14 @@
           "weekly_summary": "本期无记录",
           "weekly_completed_dates": [],
           "weekly_non_completed_statuses": [],
-          "last_completed": "2026-06-06",
+          "last_completed": "2026-06-05",
           "recent_28_completed": 0,
           "recent_35_completed": 0,
           "consecutive_missed_weeks": 7,
           "long_term_level": "low",
-          "long_term_reason": "最近一次已上课为 2026-06-06，截至 2026-11-08 已间隔 155 天",
+          "long_term_reason": "最近一次已上课为 2026-06-05，截至 2026-11-08 已间隔 156 天",
           "observe_reason": "",
-          "abnormal_reason": "最近一次已上课为 2026-06-06，截至 2026-11-08 已间隔 155 天",
+          "abnormal_reason": "最近一次已上课为 2026-06-05，截至 2026-11-08 已间隔 156 天",
           "match_modes": [
             "exact"
           ],
@@ -2457,7 +2436,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「948-学科辅导-01」的可匹配老师「雷阳」匹配的记录；实际出现老师：张洁（最近 2026-03-22｜张洁｜已上课｜雨桐陪伴）；王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「948-学科辅导-01」的可匹配老师「雷阳」匹配的记录；实际出现老师：张洁（最近 2026-03-22｜张洁｜已上课｜雨桐陪伴）。请核对当前老师、历史老师或备注中的别名。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -2614,14 +2593,14 @@
           "weekly_summary": "本期无记录",
           "weekly_completed_dates": [],
           "weekly_non_completed_statuses": [],
-          "last_completed": "2026-06-20",
+          "last_completed": "2026-06-19",
           "recent_28_completed": 0,
           "recent_35_completed": 0,
           "consecutive_missed_weeks": 7,
           "long_term_level": "low",
-          "long_term_reason": "最近一次已上课为 2026-06-20，截至 2026-11-08 已间隔 141 天",
+          "long_term_reason": "最近一次已上课为 2026-06-19，截至 2026-11-08 已间隔 142 天",
           "observe_reason": "",
-          "abnormal_reason": "最近一次已上课为 2026-06-20，截至 2026-11-08 已间隔 141 天",
+          "abnormal_reason": "最近一次已上课为 2026-06-19，截至 2026-11-08 已间隔 142 天",
           "match_modes": [
             "exact"
           ],
@@ -2875,23 +2854,21 @@
             "赵翊涵"
           ],
           "name": "郑梓淳-赵翊涵",
-          "weekly_summary": "有已上课记录",
-          "weekly_completed_dates": [
-            "2026-11-03"
-          ],
+          "weekly_summary": "本期无记录",
+          "weekly_completed_dates": [],
           "weekly_non_completed_statuses": [],
-          "last_completed": "2026-11-03",
-          "recent_28_completed": 1,
-          "recent_35_completed": 1,
-          "consecutive_missed_weeks": 0,
-          "long_term_level": "ok",
-          "long_term_reason": "",
+          "last_completed": "2026-06-12",
+          "recent_28_completed": 0,
+          "recent_35_completed": 0,
+          "consecutive_missed_weeks": 7,
+          "long_term_level": "low",
+          "long_term_reason": "最近一次已上课为 2026-06-12，截至 2026-11-08 已间隔 149 天",
           "observe_reason": "",
-          "abnormal_reason": "",
+          "abnormal_reason": "最近一次已上课为 2026-06-12，截至 2026-11-08 已间隔 149 天",
           "match_modes": [
             "exact"
           ],
-          "weekly_done": true,
+          "weekly_done": false,
           "is_suspended": false,
           "class_status": "",
           "suspend_reason": "",
@@ -2919,7 +2896,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「877-陪伴大使-01」的可匹配老师「刘沙」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）；陈祉宇（最近 2026-05-30｜陈祉宇｜已上课｜教学）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「877-陪伴大使-01」的可匹配老师「刘沙」匹配的记录；实际出现老师：陈祉宇（最近 2026-05-30｜陈祉宇｜已上课｜教学）。请核对当前老师、历史老师或备注中的别名。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -2983,7 +2960,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「811-陪伴大使-01」的可匹配老师「唐鲜红」匹配的记录；实际出现老师：王天勤（最近 2026-08-02｜王天勤｜已上课｜英语辅导8.2）；王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「811-陪伴大使-01」的可匹配老师「唐鲜红」匹配的记录；实际出现老师：王天勤（最近 2026-08-02｜王天勤｜已上课｜英语辅导8.2）。请核对当前老师、历史老师或备注中的别名。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -3014,7 +2991,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「881-陪伴大使-01」的可匹配老师「黄丽华」匹配的记录；实际出现老师：冯宇昕（最近 2026-05-16｜冯宇昕｜已上课｜第三十节课）；王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「881-陪伴大使-01」的可匹配老师「黄丽华」匹配的记录；实际出现老师：冯宇昕（最近 2026-05-16｜冯宇昕｜已上课｜第三十节课）。请核对当前老师、历史老师或备注中的别名。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -3036,7 +3013,7 @@
           "label": "一老一小组（负责pm：jojolei）",
           "type": "陪伴大使",
           "group": "王浩宇-陈锦鑫",
-          "reason": "最近一次已上课为 2026-06-06，间隔已超过 4 周",
+          "reason": "最近一次已上课为 2026-06-05，间隔已超过 4 周",
           "weekly_summary": "本期无记录"
         },
         {
@@ -3050,14 +3027,21 @@
           "label": "一老一小组（负责pm：judyzhe）",
           "type": "学科辅导",
           "group": "徐春菊-李奕",
-          "reason": "最近一次已上课为 2026-06-07，截至 2026-11-08 已间隔 154 天",
+          "reason": "最近一次已上课为 2026-06-06，截至 2026-11-08 已间隔 155 天",
+          "weekly_summary": "本期无记录"
+        },
+        {
+          "label": "一老一小组（负责pm：judyzhe）",
+          "type": "学科辅导",
+          "group": "扎西求措-隋馨予",
+          "reason": "最近一次已上课为 2026-10-24，截至 2026-11-08 已间隔 15 天",
           "weekly_summary": "本期无记录"
         },
         {
           "label": "一老一小组（负责pm：judyzhe）",
           "type": "学科辅导",
           "group": "梁诗雅-梁亦舸",
-          "reason": "最近一次已上课为 2026-10-17，截至 2026-11-08 已间隔 22 天",
+          "reason": "最近一次已上课为 2026-10-16，截至 2026-11-08 已间隔 23 天",
           "weekly_summary": "本期无记录"
         },
         {
@@ -3071,14 +3055,14 @@
           "label": "一老一小组（负责pm：judyzhe）",
           "type": "陪伴大使",
           "group": "徐春菊-骆念蓓",
-          "reason": "最近一次已上课为 2026-07-25，间隔已超过 4 周",
+          "reason": "最近一次已上课为 2026-07-22，间隔已超过 4 周",
           "weekly_summary": "本期无记录"
         },
         {
           "label": "一老一小组（负责pm：judyzhe）",
           "type": "陪伴大使",
           "group": "扎西求措-丁秀洁",
-          "reason": "最近一次已上课为 2026-05-22，间隔已超过 4 周",
+          "reason": "最近一次已上课为 2026-05-15，间隔已超过 4 周",
           "weekly_summary": "本期无记录"
         },
         {
@@ -3092,14 +3076,42 @@
           "label": "一老一小组（负责pm：judyzhe）",
           "type": "陪伴大使",
           "group": "梁诗雅-李芸珂",
-          "reason": "最近一次已上课为 2026-05-31，间隔已超过 4 周",
+          "reason": "最近一次已上课为 2026-05-30，间隔已超过 4 周",
           "weekly_summary": "本期无记录"
         },
         {
           "label": "一老一小组（负责pm：judyzhe）",
           "type": "陪伴大使",
           "group": "薛瀚轩-郭全来",
-          "reason": "最近一次已上课为 2026-05-24，间隔已超过 4 周",
+          "reason": "最近一次已上课为 2026-05-22，间隔已超过 4 周",
+          "weekly_summary": "本期无记录"
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "group": "冯诗琪-徐翰",
+          "reason": "最近一次已上课为 2026-10-25，截至 2026-11-08 已间隔 14 天",
+          "weekly_summary": "本期无记录"
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "group": "吴珏雨-吴宇伦",
+          "reason": "最近一次已上课为 2026-10-18，截至 2026-11-08 已间隔 21 天",
+          "weekly_summary": "本期无记录"
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "group": "邢璐瑜-朱智琳",
+          "reason": "最近一次已上课为 2026-10-11，截至 2026-11-08 已间隔 28 天",
+          "weekly_summary": "本期无记录"
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "陪伴大使",
+          "group": "方文惠-李梦南",
+          "reason": "最近一次已上课为 2026-09-25，间隔已超过 4 周",
           "weekly_summary": "本期无记录"
         },
         {
@@ -3127,14 +3139,14 @@
           "label": "张村小学Plus组（负责pm：熊伟）",
           "type": "学科辅导",
           "group": "张鹤腾-李云飞",
-          "reason": "最近一次已上课为 2026-06-07，截至 2026-11-08 已间隔 154 天",
+          "reason": "最近一次已上课为 2026-06-04，截至 2026-11-08 已间隔 157 天",
           "weekly_summary": "本期无记录"
         },
         {
           "label": "张村小学Plus组（负责pm：熊伟）",
           "type": "学科辅导",
           "group": "彭博艺-李奕萱",
-          "reason": "最近一次已上课为 2026-06-06，截至 2026-11-08 已间隔 155 天",
+          "reason": "最近一次已上课为 2026-06-05，截至 2026-11-08 已间隔 156 天",
           "weekly_summary": "本期无记录"
         },
         {
@@ -3204,7 +3216,7 @@
           "label": "王泡泡组（负责pm：王雪琪）",
           "type": "学科辅导",
           "group": "吴思妍-马千捷",
-          "reason": "最近一次已上课为 2026-06-20，截至 2026-11-08 已间隔 141 天",
+          "reason": "最近一次已上课为 2026-06-19，截至 2026-11-08 已间隔 142 天",
           "weekly_summary": "本期无记录"
         },
         {
@@ -3255,6 +3267,13 @@
           "group": "谢嘉银-冯宇昕",
           "reason": "最近一次已上课为 2026-05-16，截至 2026-11-08 已间隔 176 天",
           "weekly_summary": "本期无记录"
+        },
+        {
+          "label": "王泡泡组（负责pm：王雪琪）",
+          "type": "学科辅导",
+          "group": "郑梓淳-赵翊涵",
+          "reason": "最近一次已上课为 2026-06-12，截至 2026-11-08 已间隔 149 天",
+          "weekly_summary": "本期无记录"
         }
       ],
       "long_term_low": [
@@ -3268,7 +3287,7 @@
           "label": "一老一小组（负责pm：jojolei）",
           "type": "陪伴大使",
           "group": "王浩宇-陈锦鑫",
-          "reason": "最近一次已上课为 2026-06-06，间隔已超过 4 周"
+          "reason": "最近一次已上课为 2026-06-05，间隔已超过 4 周"
         },
         {
           "label": "一老一小组（负责pm：judyzhe）",
@@ -3280,13 +3299,19 @@
           "label": "一老一小组（负责pm：judyzhe）",
           "type": "学科辅导",
           "group": "徐春菊-李奕",
-          "reason": "最近一次已上课为 2026-06-07，截至 2026-11-08 已间隔 154 天"
+          "reason": "最近一次已上课为 2026-06-06，截至 2026-11-08 已间隔 155 天"
+        },
+        {
+          "label": "一老一小组（负责pm：judyzhe）",
+          "type": "学科辅导",
+          "group": "扎西求措-隋馨予",
+          "reason": "最近一次已上课为 2026-10-24，截至 2026-11-08 已间隔 15 天"
         },
         {
           "label": "一老一小组（负责pm：judyzhe）",
           "type": "学科辅导",
           "group": "梁诗雅-梁亦舸",
-          "reason": "最近一次已上课为 2026-10-17，截至 2026-11-08 已间隔 22 天"
+          "reason": "最近一次已上课为 2026-10-16，截至 2026-11-08 已间隔 23 天"
         },
         {
           "label": "一老一小组（负责pm：judyzhe）",
@@ -3298,13 +3323,13 @@
           "label": "一老一小组（负责pm：judyzhe）",
           "type": "陪伴大使",
           "group": "徐春菊-骆念蓓",
-          "reason": "最近一次已上课为 2026-07-25，间隔已超过 4 周"
+          "reason": "最近一次已上课为 2026-07-22，间隔已超过 4 周"
         },
         {
           "label": "一老一小组（负责pm：judyzhe）",
           "type": "陪伴大使",
           "group": "扎西求措-丁秀洁",
-          "reason": "最近一次已上课为 2026-05-22，间隔已超过 4 周"
+          "reason": "最近一次已上课为 2026-05-15，间隔已超过 4 周"
         },
         {
           "label": "一老一小组（负责pm：judyzhe）",
@@ -3316,13 +3341,37 @@
           "label": "一老一小组（负责pm：judyzhe）",
           "type": "陪伴大使",
           "group": "梁诗雅-李芸珂",
-          "reason": "最近一次已上课为 2026-05-31，间隔已超过 4 周"
+          "reason": "最近一次已上课为 2026-05-30，间隔已超过 4 周"
         },
         {
           "label": "一老一小组（负责pm：judyzhe）",
           "type": "陪伴大使",
           "group": "薛瀚轩-郭全来",
-          "reason": "最近一次已上课为 2026-05-24，间隔已超过 4 周"
+          "reason": "最近一次已上课为 2026-05-22，间隔已超过 4 周"
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "group": "冯诗琪-徐翰",
+          "reason": "最近一次已上课为 2026-10-25，截至 2026-11-08 已间隔 14 天"
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "group": "吴珏雨-吴宇伦",
+          "reason": "最近一次已上课为 2026-10-18，截至 2026-11-08 已间隔 21 天"
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "学科辅导",
+          "group": "邢璐瑜-朱智琳",
+          "reason": "最近一次已上课为 2026-10-11，截至 2026-11-08 已间隔 28 天"
+        },
+        {
+          "label": "大爱清尘（负责pm：张继奇点）",
+          "type": "陪伴大使",
+          "group": "方文惠-李梦南",
+          "reason": "最近一次已上课为 2026-09-25，间隔已超过 4 周"
         },
         {
           "label": "张村小学Plus组（负责pm：熊伟）",
@@ -3346,13 +3395,13 @@
           "label": "张村小学Plus组（负责pm：熊伟）",
           "type": "学科辅导",
           "group": "张鹤腾-李云飞",
-          "reason": "最近一次已上课为 2026-06-07，截至 2026-11-08 已间隔 154 天"
+          "reason": "最近一次已上课为 2026-06-04，截至 2026-11-08 已间隔 157 天"
         },
         {
           "label": "张村小学Plus组（负责pm：熊伟）",
           "type": "学科辅导",
           "group": "彭博艺-李奕萱",
-          "reason": "最近一次已上课为 2026-06-06，截至 2026-11-08 已间隔 155 天"
+          "reason": "最近一次已上课为 2026-06-05，截至 2026-11-08 已间隔 156 天"
         },
         {
           "label": "张村小学Plus组（负责pm：熊伟）",
@@ -3412,7 +3461,7 @@
           "label": "王泡泡组（负责pm：王雪琪）",
           "type": "学科辅导",
           "group": "吴思妍-马千捷",
-          "reason": "最近一次已上课为 2026-06-20，截至 2026-11-08 已间隔 141 天"
+          "reason": "最近一次已上课为 2026-06-19，截至 2026-11-08 已间隔 142 天"
         },
         {
           "label": "王泡泡组（负责pm：王雪琪）",
@@ -3455,16 +3504,22 @@
           "type": "学科辅导",
           "group": "谢嘉银-冯宇昕",
           "reason": "最近一次已上课为 2026-05-16，截至 2026-11-08 已间隔 176 天"
+        },
+        {
+          "label": "王泡泡组（负责pm：王雪琪）",
+          "type": "学科辅导",
+          "group": "郑梓淳-赵翊涵",
+          "reason": "最近一次已上课为 2026-06-12，截至 2026-11-08 已间隔 149 天"
         }
       ],
-      "unmatched_total": 234
+      "unmatched_total": 168
     },
     {
       "title": "TVT 上课情况周报",
       "section_title": "2026-10-26",
       "week_start": "2026-10-26",
       "week_end": "2026-11-01",
-      "generated_at": "2026-11-02 05:04:10",
+      "generated_at": "2026-11-02 06:10:32",
       "excel_path": "/workspace/tvt/TVT上课记录.xlsx",
       "metrics": {
         "groups_total": 84,
@@ -3473,7 +3528,7 @@
         "completion_rate": 13,
         "abnormal_total": 37,
         "long_term_low_total": 37,
-        "unmatched_total": 233,
+        "unmatched_total": 168,
         "student_teacher_groups": 84
       },
       "group_cards": [
@@ -3730,7 +3785,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1031-学科辅导-01」的可匹配老师「段心荷」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -3794,7 +3849,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1024-学科辅导-01」的可匹配老师「袁斌」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -3825,7 +3880,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1032-陪伴大使-01」的可匹配老师「余凯伦」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -3856,7 +3911,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1027-陪伴大使-01」的可匹配老师「张中辉」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -3887,7 +3942,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1033-陪伴大使-01」的可匹配老师「文辉清」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -3918,7 +3973,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1026-陪伴大使-01」的可匹配老师「王籽寓」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -3982,7 +4037,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1029-陪伴大使-01」的可匹配老师「林思莹」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -4013,7 +4068,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1025-陪伴大使-01」的可匹配老师「刘玉艳」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -4044,7 +4099,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1023-陪伴大使-01」的可匹配老师「周倩怡」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -4141,7 +4196,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1018-学科辅导-01」的可匹配老师「曾泳蓓」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -4205,7 +4260,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1021-学科辅导-01」的可匹配老师「徐敬承」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）；陈祉宇（最近 2026-07-21｜陈祉宇｜待处理｜第三次课）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1021-学科辅导-01」的可匹配老师「徐敬承」匹配的记录；实际出现老师：陈祉宇（最近 2026-07-21｜陈祉宇｜待处理｜第三次课）。请核对当前老师、历史老师或备注中的别名。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -4236,7 +4291,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1015-学科辅导-01」的可匹配老师「孙希瑜」匹配的记录；实际出现老师：王婷（最近 2026-07-11｜王婷｜已上课｜第三次陪伴沟通）；王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1015-学科辅导-01」的可匹配老师「孙希瑜」匹配的记录；实际出现老师：王婷（最近 2026-07-11｜王婷｜已上课｜第三次陪伴沟通）。请核对当前老师、历史老师或备注中的别名。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -4333,7 +4388,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1016-陪伴大使-01」的可匹配老师「关雯」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）；骆思雅（最近 2026-07-05｜骆思雅｜已上课｜南卡扎西）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1016-陪伴大使-01」的可匹配老师「关雯」匹配的记录；实际出现老师：骆思雅（最近 2026-07-05｜骆思雅｜已上课｜南卡扎西）。请核对当前老师、历史老师或备注中的别名。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -4364,7 +4419,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1017-陪伴大使-01」的可匹配老师「李娟」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -4428,7 +4483,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1022-陪伴大使-01」的可匹配老师「周旻」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -4459,7 +4514,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1018-陪伴大使-01」的可匹配老师「王妹」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -4523,7 +4578,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1021-陪伴大使-01」的可匹配老师「胡耀升」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）；陈祉宇（最近 2026-07-21｜陈祉宇｜待处理｜第三次课）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1021-陪伴大使-01」的可匹配老师「胡耀升」匹配的记录；实际出现老师：陈祉宇（最近 2026-07-21｜陈祉宇｜待处理｜第三次课）。请核对当前老师、历史老师或备注中的别名。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -4554,7 +4609,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「1011-陪伴大使-01」的可匹配老师「谭美莹」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -4684,7 +4739,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「李烨-姜禹辰」的可匹配老师「姜禹辰」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -4715,7 +4770,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「李烨-季昕昱」的可匹配老师「季昕昱」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -4781,7 +4836,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「李钰晴-陈奕多」的可匹配老师「陈奕多」匹配的记录；实际出现老师：喻筱轶（最近 2026-10-31｜喻筱轶｜待处理｜数学讲师）；王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「李钰晴-陈奕多」的可匹配老师「陈奕多」匹配的记录；实际出现老师：喻筱轶（最近 2026-10-31｜喻筱轶｜待处理｜数学讲师）。请核对当前老师、历史老师或备注中的别名。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -4812,7 +4867,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「梁钰丽-徐梓媛」的可匹配老师「徐梓媛」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -4843,7 +4898,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「莫晓彤-丁玥」的可匹配老师「丁玥」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -4874,7 +4929,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「莫楠-于牧童」的可匹配老师「于牧童」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -4905,7 +4960,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「莫楠-汪品妤」的可匹配老师「汪品妤」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -4973,7 +5028,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「陈文亮-石霖珈」的可匹配老师「石霖珈」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -5004,7 +5059,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「莫致鸿-余凯伦」的可匹配老师「余凯伦」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel「上课记录」中没有找到该学生的任何记录；请核对是否尚未排课、学生姓名是否一致，或是否需要从后台补抓记录。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -5907,7 +5962,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，建议继续核对排课",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「948-学科辅导-01」的可匹配老师「雷阳」匹配的记录；实际出现老师：张洁（最近 2026-03-22｜张洁｜已上课｜雨桐陪伴）；王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「948-学科辅导-01」的可匹配老师「雷阳」匹配的记录；实际出现老师：张洁（最近 2026-03-22｜张洁｜已上课｜雨桐陪伴）。请核对当前老师、历史老师或备注中的别名。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -6367,7 +6422,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「877-陪伴大使-01」的可匹配老师「刘沙」匹配的记录；实际出现老师：王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）；陈祉宇（最近 2026-05-30｜陈祉宇｜已上课｜教学）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「877-陪伴大使-01」的可匹配老师「刘沙」匹配的记录；实际出现老师：陈祉宇（最近 2026-05-30｜陈祉宇｜已上课｜教学）。请核对当前老师、历史老师或备注中的别名。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -6431,7 +6486,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「811-陪伴大使-01」的可匹配老师「唐鲜红」匹配的记录；实际出现老师：王天勤（最近 2026-08-02｜王天勤｜已上课｜英语辅导8.2）；王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「811-陪伴大使-01」的可匹配老师「唐鲜红」匹配的记录；实际出现老师：王天勤（最近 2026-08-02｜王天勤｜已上课｜英语辅导8.2）。请核对当前老师、历史老师或备注中的别名。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -6462,7 +6517,7 @@
           "consecutive_missed_weeks": 7,
           "long_term_level": "follow",
           "long_term_reason": "当前 Excel 可见窗口内暂无已上课记录，先继续观察后续安排",
-          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「881-陪伴大使-01」的可匹配老师「黄丽华」匹配的记录；实际出现老师：冯宇昕（最近 2026-05-16｜冯宇昕｜已上课｜第三十节课）；王艳茹（最近 2026-10-26｜王艳茹｜待处理｜生成小程序公开信息）。请核对当前老师、历史老师或备注中的别名。",
+          "observe_reason": "Excel 中有该学生记录，但没有与上课组合「881-陪伴大使-01」的可匹配老师「黄丽华」匹配的记录；实际出现老师：冯宇昕（最近 2026-05-16｜冯宇昕｜已上课｜第三十节课）。请核对当前老师、历史老师或备注中的别名。",
           "abnormal_reason": "",
           "match_modes": [],
           "weekly_done": false,
@@ -6957,7 +7012,7 @@
           "reason": "最近一次已上课为 2026-06-12，截至 2026-11-01 已间隔 142 天"
         }
       ],
-      "unmatched_total": 233
+      "unmatched_total": 168
     },
     {
       "title": "TVT 上课情况周报",
