@@ -3,7 +3,7 @@
   "section_title": "2026-11-09",
   "week_start": "2026-11-09",
   "week_end": "2026-11-15",
-  "generated_at": "2026-11-19 13:44:28",
+  "generated_at": "2026-11-16 06:09:08",
   "excel_path": "/workspace/tvt/TVT上课记录.xlsx",
   "metrics": {
     "groups_total": 84,
@@ -12,7 +12,7 @@
     "completion_rate": 14,
     "abnormal_total": 35,
     "long_term_low_total": 35,
-    "unmatched_total": 237,
+    "unmatched_total": 235,
     "student_teacher_groups": 84
   },
   "group_cards": [
@@ -707,8 +707,8 @@
       ],
       "weekly_non_completed_statuses": [],
       "last_completed": "2026-11-14",
-      "recent_28_completed": 3,
-      "recent_35_completed": 4,
+      "recent_28_completed": 2,
+      "recent_35_completed": 3,
       "consecutive_missed_weeks": 0,
       "long_term_level": "ok",
       "long_term_reason": "",
@@ -3473,5 +3473,5 @@
       "reason": "最近一次已上课为 2026-05-16，截至 2026-11-15 已间隔 183 天"
     }
   ],
-  "unmatched_total": 237
+  "unmatched_total": 235
 }
